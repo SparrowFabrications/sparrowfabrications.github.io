@@ -1,3 +1,9 @@
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+show_downloads: false
+title: Sparrow Fabrications
+description: FDM 3D Printed Camera Accessories made in the U.K.
+github:
+  is_project_page: false
