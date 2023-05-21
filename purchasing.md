@@ -1,5 +1,5 @@
 ## Where to buy?
-If you are in the UK and would like to save me the platform fees you can purchase directly from me using PayPal, please contact me first via email.
+If you are in the UK and would like to save me the platform fees you can purchase directly from me using PayPal, please contact me first via email at **info@sparrowfabrications.co.uk**.
 
 Alternatively you can purchase via:
 
