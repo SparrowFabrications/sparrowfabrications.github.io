@@ -10,3 +10,9 @@ When my cousin asked me to design a cable adapter for his [Holga](https://en.wik
 Even his photo of his setup is beautiful!
 
 ![The setup for my cousin's photo](images/tripod.jpg)
+
+## Website
+
+All content remains the copyright of Sparrow Fabrications and must not be used without permission.
+
+This site is built on [GitHub pages](https://pages.github.com/) in general and the [Slate theme](https://pages-themes.github.io/slate/) in particular.
