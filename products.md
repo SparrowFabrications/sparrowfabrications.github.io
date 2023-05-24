@@ -5,6 +5,7 @@
   - Holga 120 Cameras (most models with an integrated tripod mount)
   - Holga 120S and SF (no integrated tripod mount)
 - Holga 120 Replacement Back Clips
+- [Index Card Holder for 120 Format Film](index-card-holder)
 
 ## Supported Cameras
 I make and sell a variety of Products for the following Cameras:
