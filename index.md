@@ -1,10 +1,10 @@
 ## Welcome!
-I manufacture accessories for cameras including the Holga and Diana to allow photography and lomography enthusiasts like myself to get the most out of the cameras.
+I manufacture accessories for cameras including the Holga and Diana to allow photography and lomography enthusiasts like myself to get the most out of their cameras.
 
 ### Products
 Products are individually 3D printed and finished by me. You can purchase products directly from me or from [eBay](https://www.ebay.co.uk/usr/sparrowfabrications) and [Etsy](https://www.etsy.com/shop/SparrowFabrications).
 
-![A picture of a Holga 120 adapter](images/holga-120-adapter-1.jpg)
+![A picture of a Holga 120 adapter](images/holga-120-adapter/holga-120-adapter-1.jpg)
 
 ### Feedback
 I have had some great feedback about my products which you can see in my product pages.
