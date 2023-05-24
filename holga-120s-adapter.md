@@ -1,0 +1,42 @@
+## Holga 120S Shutter Release Cable Adapter
+Holga 120S Shutter Release Cable Adapter with shutter button extender. Please note the cable required is shown but not included.
+
+This adapter is specifically for Holgas which do not have an integrated tripod mount. Allows you to attach a Holga without a tripod mount onto a tripod with a standard UNC 1/4 inch bolt.
+
+This adapter is push fit, it fits snuggly over and around the lens, whilst allowing easy access to the aperture switch.
+
+The shutter button extender is optional and provided if you wish to permanently attach your adapter to your camera. The button extender can be glued to your existing shutter button with super glue.
+
+Please note this adapter may decrease the amount of light your Holga leaks, which could be an advantage or disadvantage according to your preferences.
+
+Works with cables [such as this one](https://www.amazon.co.uk/dp/B09126NKPN).
+
+This uses a linear threaded nut to hold the shutter release cable so it is best not to screw the cable in too tight unless you don’t plan on removing it again. Also, it is best to fit this cable before mounting it on the camera.
+
+### Directions for use
+To use:
+
+1. Screw release cable into the adapter through the top as shown.
+2. Push adapter onto the camera as shown.
+
+### Supported Cameras
+Tested with:
+- Holga 120S
+- Holga 120SF
+
+Please note for these models [you need this adapter](holga-120-adapter)
+- Holga 120FN
+- Holga 120GCFN
+- Holga 120GFN
+- Holga 120N
+- Holga 120PAN (Panoramic)
+- Holga 120PC (Pinhole Camera)
+
+It is not compatible with the 120WPC, 35 or 135 models.
+
+### Manufacturing
+3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
+
+### Images
+{% include my-gallery.html imagesurl="images/holga-120s-adapter"
+   filenames="holga-120s-adapter-1.jpg,holga-120s-adapter-2.jpg,holga-120s-adapter-3.jpg,holga-120s-adapter-4.jpg,holga-120s-adapter-5.jpg,holga-120s-adapter-6.jpg,holga-120s-adapter-7.jpg,holga-120s-adapter-8.jpg" %}

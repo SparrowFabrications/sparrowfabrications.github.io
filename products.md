@@ -3,7 +3,7 @@
 - Shutter Release Cable Adapter
   - Diana F+
   - [Holga 120 Cameras (most models with an integrated tripod mount)](holga-120-adapter)
-  - Holga 120S and SF (no integrated tripod mount)
+  - [Holga 120S and SF (no integrated tripod mount)](holga-120S-adapter)
 - Holga 120 Replacement Back Clips
 - [Index Card Holder for 120 Format Film](index-card-holder)
 

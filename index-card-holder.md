@@ -7,7 +7,7 @@ Simply attach this index card holder to your camera using the sticky pad provide
 ### Supported Cameras
 Suitable for Holgas and Diana’s shown but could fit any suitable camera and film box.
 
-### Manufacture
+### Manufacturing
 3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, is robust.
 
 ### Images
