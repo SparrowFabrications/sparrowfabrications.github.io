@@ -30,7 +30,7 @@ Tested with:
 - Holga 120PAN (Panoramic)
 - Holga 120PC (Pinhole Camera)
 
-Please note for these models [you need this adapter](holga-120S-adapter)
+Please note for these models [you need this adapter](holga-120s-adapter)
 - Holga 120S
 - Holga 120SF
 
