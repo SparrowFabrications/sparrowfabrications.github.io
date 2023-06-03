@@ -13,3 +13,6 @@ Suitable for cameras shooting 120 format film such as Holgas and Diana’s shown
 ### Images
 {% include my-gallery.html imagesurl="images/index-card-holder"
    filenames="index-card-holder-1.jpg,index-card-holder-2.jpg,index-card-holder-3.jpg,index-card-holder-4.jpg,index-card-holder-5.jpg,index-card-holder-6.jpg" %}
+
+### Questions
+If you have any questions please get in touch.

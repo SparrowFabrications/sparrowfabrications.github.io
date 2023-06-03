@@ -40,3 +40,6 @@ It is not compatible with the 120WPC, 35 or 135 models.
 ### Images
 {% include my-gallery.html imagesurl="images/holga-120s-adapter"
    filenames="holga-120s-adapter-1.jpg,holga-120s-adapter-2.jpg,holga-120s-adapter-3.jpg,holga-120s-adapter-4.jpg,holga-120s-adapter-5.jpg,holga-120s-adapter-6.jpg,holga-120s-adapter-7.jpg,holga-120s-adapter-8.jpg" %}
+
+### Questions
+If you have any questions please get in touch.
