@@ -1,11 +1,9 @@
 ## Diana F+ Shutter Release Cable Adapter
-Diana F+ 120 Shutter Release Cable Adapter. Please note the cable required is shown but not included.
+Diana F+ 120 Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one](https://www.amazon.co.uk/dp/B09126NKPN).
 
-Designed by me from scratch to fit the Diana F+ 120 camera. It allows you to use a shutter release cable for beautiful long exposure pictures. Works with the Diana F+ only, I think the original Diana might have a slightly wider lens casing.
+Designed by me from scratch to fit the Diana F+ 120 camera. It allows you to use a shutter release cable for beautiful long exposure pictures.
 
 This adapter comes in four parts and requires a very small amount of self assembly. When you receive it use the bolt provided to secure the shutter switch in place. The shutter switch shouldn't rock but it should move freely.
-
-Works with cables [such as this one](https://www.amazon.co.uk/dp/B09126NKPN).
 
 This uses a linear threaded nut to hold the shutter release cable so it is best not to screw the cable in too tight unless you don’t plan on removing it again.
 

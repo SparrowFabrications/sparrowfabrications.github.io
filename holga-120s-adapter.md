@@ -1,5 +1,5 @@
 ## Holga 120S Shutter Release Cable Adapter
-Holga 120S Shutter Release Cable Adapter with shutter button extender. Please note the cable required is shown but not included.
+Holga 120S Shutter Release Cable Adapter with shutter button extender. Please note the cable required is shown but not included. Works with cables [such as this one](https://www.amazon.co.uk/dp/B09126NKPN).
 
 This adapter is specifically for Holgas which do not have an integrated tripod mount. Allows you to attach a Holga without a tripod mount onto a tripod with a standard UNC 1/4 inch bolt.
 
@@ -8,8 +8,6 @@ This adapter is push fit, it fits snuggly over and around the lens, whilst allow
 The shutter button extender is optional and provided if you wish to permanently attach your adapter to your camera. The button extender can be glued to your existing shutter button with super glue.
 
 Please note this adapter may decrease the amount of light your Holga leaks, which could be an advantage or disadvantage according to your preferences.
-
-Works with cables [such as this one](https://www.amazon.co.uk/dp/B09126NKPN).
 
 This uses a linear threaded nut to hold the shutter release cable so it is best not to screw the cable in too tight unless you don’t plan on removing it again. Also, it is best to fit this cable before mounting it on the camera.
 
@@ -28,6 +26,7 @@ Please note for these models [you need this adapter](holga-120-adapter)
 - Holga 120FN
 - Holga 120GCFN
 - Holga 120GFN
+- Holga 120GN
 - Holga 120N
 - Holga 120PAN (Panoramic)
 - Holga 120PC (Pinhole Camera)
