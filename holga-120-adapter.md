@@ -21,6 +21,7 @@ To use:
 
 ### Supported Cameras
 Tested with:
+- Holga 120CFN
 - Holga 120FN
 - Holga 120GCFN
 - Holga 120GFN
@@ -28,6 +29,10 @@ Tested with:
 - Holga 120N
 - Holga 120PAN (Panoramic)
 - Holga 120PC (Pinhole Camera)
+
+Likely compatible with:
+- Holga 120GTLR
+- Holga 120TLR
 
 Please note for these models [you need this adapter](holga-120s-adapter)
 - Holga 120S

@@ -23,13 +23,16 @@ Tested with:
 - Holga 120SF
 
 Please note for these models [you need this adapter](holga-120-adapter)
+- Holga 120CFN
 - Holga 120FN
 - Holga 120GCFN
 - Holga 120GFN
 - Holga 120GN
+- Holga 120GTLR
 - Holga 120N
 - Holga 120PAN (Panoramic)
 - Holga 120PC (Pinhole Camera)
+- Holga 120TLR
 
 It is not compatible with the 120WPC, 35 or 135 models.
 
