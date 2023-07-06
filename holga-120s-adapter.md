@@ -20,6 +20,8 @@ To use:
 ### Supported Cameras
 Tested with:
 - Holga 120S
+
+Should be compatible with:
 - Holga 120SF
 
 Please note for these models [you need this adapter](holga-120-adapter)

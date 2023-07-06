@@ -30,7 +30,7 @@ Tested with:
 - Holga 120PAN (Panoramic)
 - Holga 120PC (Pinhole Camera)
 
-Likely compatible with:
+Should be compatible with:
 - Holga 120GTLR
 - Holga 120TLR
 

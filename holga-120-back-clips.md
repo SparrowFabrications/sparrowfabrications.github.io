@@ -12,15 +12,15 @@ Simply remove your current back clips and slide these into place.
 
 ### Supported Cameras
 Tested with:
+- Holga 120GN
 - Holga 120N
 - Holga 120S
 
-Likely compatible with:
+Should be compatible with:
 - Holga 120CFN
 - Holga 120FN
 - Holga 120GCFN
 - Holga 120GFN
-- Holga 120GN
 - Holga 120PAN (Panoramic)
 - Holga 120PC (Pinhole Camera)
 - Holga 120SF
