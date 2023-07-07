@@ -10,6 +10,8 @@ Designed by me from scratch to fit the Holga 120 camera and its variants.
 ### Directions for use
 Simply remove your current back clips and slide these into place.
 
+Note, they are intentionally designed to be a tight fit but will loosen up through use.
+
 ### Supported Cameras
 Tested with:
 - Holga 120GN

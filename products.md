@@ -2,6 +2,7 @@
 
 - Shutter Release Cable Adapter
   - [Diana F+](diana-f+-adapter)
+  - [Diana Instant Square](diana-instant-square-adapter)
   - [Holga 120 Cameras (most models with an integrated tripod mount)](holga-120-adapter)
   - [Holga 120S and SF (no integrated tripod mount)](holga-120s-adapter)
 - [Index Card Holder for Film, Type & Format](index-card-holder); always remember what film you are shooting!
