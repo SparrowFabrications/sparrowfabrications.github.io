@@ -10,7 +10,7 @@ To use:
 
 1. Set the exposure switch to B.
 2. Position the upper and lower adapter pieces between the case and the buttons and firmly press them together (Photos 4 & 5).
-3. Push the assembled adapter back towards the camera body for a snug fit (Photo 8).
+3. Push the assembled adapter back towards the camera body for a snug fit.
 4. Screw release cable into the adapter through the top as shown.
 5. After use set the exposure switch back to N again.
 
