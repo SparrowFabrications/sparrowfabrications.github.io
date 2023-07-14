@@ -14,12 +14,12 @@ Note, they are intentionally designed to be a tight fit but will loosen up throu
 
 ### Supported Cameras
 Tested with:
-- Holga 120GN
+- Holga 120CFN
+- Hokga 120GN
 - Holga 120N
 - Holga 120S
 
 Should be compatible with:
-- Holga 120CFN
 - Holga 120FN
 - Holga 120GCFN
 - Holga 120GFN
