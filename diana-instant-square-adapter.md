@@ -1,5 +1,5 @@
-## Diana Instant Square Shutter Release Cable Adapter
-Diana Instant Square Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one](https://www.amazon.co.uk/dp/B09126NKPN).
+## Lomography Diana Instant Square Shutter Release Cable Adapter
+Lomography Diana Instant Square Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one](https://www.amazon.co.uk/dp/B09126NKPN).
 
 Designed by me from scratch to fit the Diana Instant Square camera. It allows you to use a shutter release cable for beautiful long exposure pictures or selfies.
 
@@ -26,7 +26,7 @@ Note the upper and lower pieces of the adapter are purposefully snug so firmly p
 
 ### Supported Cameras
 Tested with:
-- Diana Instant Square
+- Lomography Diana Instant Square
 
 ### Manufacturing
 3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
