@@ -1,11 +1,11 @@
 ## Products
 
 - Shutter Release Cable Adapter
+  - [Diana F+ and Diana+ Cameras](diana-f+-adapter)
+  - [Diana Instant Square](diana-instant-square-adapter)
   - [Holga 120 Cameras (most models with an integrated tripod mount)](holga-120-adapter)
-  - [Holga 120S and SF (no integrated tripod mount)](holga-120s-adapter)
-  - [Lomography Diana F+](diana-f+-adapter)
-  - [Lomography Diana Instant Square](diana-instant-square-adapter)
-  - [Lomography Sprocket Rocket](lomography-sprocket-rocket)
+  - [Holga 120S and 120SF (no integrated tripod mount)](holga-120s-adapter)
+  - [Sprocket Rocket Cameras](lomograpy-sprocket-rocket)
 - [Index Card Holder for Film, Type & Format](index-card-holder); always remember what film you are shooting!
 - [Holga 120 Replacement Back Clips](holga-120-back-clips)
 
@@ -13,8 +13,9 @@
 I make and sell a variety of products for the following cameras:
 
 - [Diana 120 medium format camera](https://en.wikipedia.org/wiki/Diana_(camera)), including these models
+  - Diana+
   - Diana F+
-- [Diana instax sqaure format camera](http://camera-wiki.org/wiki/Diana_Instant_Square), including these models
+- [Diana Instax Sqaure format camera](http://camera-wiki.org/wiki/Diana_Instant_Square), including these models
   - Diana Instant Square
 - [Holga 120 medium format camera](https://en.wikipedia.org/wiki/Holga), including these models
   - Holga 120CFN
@@ -29,3 +30,6 @@ I make and sell a variety of products for the following cameras:
   - Holga 120S
   - Holga 120SF
   - Holga 120TLR
+- [Sprocket Rocket 35mm camera](http://camera-wiki.org/wiki/Lomographic_Sprocket_Rocket), including these models
+  - Sprocket Rocket Version 1.0
+  - Sprocket Rocket Version 2.0

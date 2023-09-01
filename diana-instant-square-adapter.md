@@ -14,7 +14,7 @@ To use:
 4. Screw release cable into the adapter through the top as shown.
 5. After use set the exposure switch back to N again.
 
-Note if you use this be careful if handling the camera whilst the shutter is open or you may spoil your photos by disturbing the adapter!
+Note if you use this be careful if handling the camera whilst the shutter is open or you may spoil your photos by disturbing the adapter! Also, be careful rotating this adapter around as the Exposure and Aperture switches can scratch it.3 
 
 To remove:
 
