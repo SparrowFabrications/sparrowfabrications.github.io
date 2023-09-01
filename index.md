@@ -16,7 +16,7 @@ I have had some great feedback about my products which you can see in my product
 >
 >*eBay purchaser, April 2023*
 
-I do ask for feedback on my products directly so I can continue to improve them.
+I am always keen for feedback on my products so I can continue to improve them.
 
 ### Design
 The design of my current products has evolved quite a bit based on me using them and from feedback from purchasers. If you have any questions you are welcome to contact me at **{{ site.email_address }}**.
