@@ -5,7 +5,7 @@
   - [Diana Instant Square](diana-instant-square-adapter)
   - [Holga 120 Cameras (most models with an integrated tripod mount)](holga-120-adapter)
   - [Holga 120S and 120SF (no integrated tripod mount)](holga-120s-adapter)
-  - [Sprocket Rocket Cameras](lomograpy-sprocket-rocket)
+  - [Sprocket Rocket Cameras](lomography-sprocket-rocket)
 - [Index Card Holder for Film, Type & Format](index-card-holder); always remember what film you are shooting!
 - [Holga 120 Replacement Back Clips](holga-120-back-clips)
 
