@@ -2,7 +2,7 @@
 Index Card Holder to remind you what film, type and format you are shooting. Never forget what film you are shooting again!
 
 The dimensions of this item are:
-- 44mm wide, 42mm high, 2.5mm deep
+- 44mm wide, 42mm high, 4mm deep
 - 1.7" wide, 1.7" high, 0.2" deep
 
 ### Directions for use
