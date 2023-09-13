@@ -6,7 +6,9 @@
   - [Holga 120 Cameras (most models with an integrated tripod mount)](holga-120-adapter)
   - [Holga 120S and 120SF (no integrated tripod mount)](holga-120s-adapter)
   - [Sprocket Rocket Cameras](lomography-sprocket-rocket)
-- [Index Card Holder for Film, Type & Format](index-card-holder); always remember what film you are shooting!
+- Index Card / Memo Holder for Film, Type & Format; always remember what film you are shooting!
+  - [120 Format Film Index Card Holder](120-film-index-card-holder)
+  - [35mm Film Index Card Holder](35mm-film-index-card-holder)
 - [Holga 120 Replacement Back Clips](holga-120-back-clips)
 
 ## Supported Cameras
