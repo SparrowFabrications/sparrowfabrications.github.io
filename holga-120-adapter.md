@@ -48,9 +48,13 @@ It is not compatible with the 120WPC, 35 or 135 models.
    filenames="holga-120-adapter-1.jpg,holga-120-adapter-2.jpg,holga-120-adapter-3.jpg,holga-120-adapter-4.jpg,holga-120-adapter-5.jpg,holga-120-adapter-6.jpg,holga-120-adapter-7.jpg,holga-120-adapter-8.jpg" %}
 
 ### Reviews
+> Glad I bought it. Love shooting with the Holga & this is going to make it even better!
+>
+> *Etsy Purchaser, Jul 2023*
+
 > I was looking of one of these for my Holgas. This is exactly what I wanted, it fits nicely over the front of the Holga and my cable release just fits in exactly. I just need to load it with film and away I go☺️
 >
-> *eBay Purchaser, April 2023*
+> *ebay Purchaser, April 2023*
 
 > An elegant solution to doing long exposures on a Holga!!!
 >
@@ -58,7 +62,7 @@ It is not compatible with the 120WPC, 35 or 135 models.
 
 > Another extremely useful item from this seller, it is very easy to fit and quite secure and does the job perfectly. Thanks for such useful items that make life a lot easier!
 >
-> *eBay Purchaser, March 2023*
+> *ebay Purchaser, March 2023*
 
 ### Questions
 If you have any questions please get in touch.

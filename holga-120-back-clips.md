@@ -36,5 +36,9 @@ Not compatible with the 120WPC, 35 or 135 models.
 {% include my-gallery.html imagesurl="images/holga-120-back-clips"
    filenames="holga-120-back-clips-8.jpg,holga-120-back-clips-1.jpg,holga-120-back-clips-2.jpg,holga-120-back-clips-3.jpg,holga-120-back-clips-4.jpg,holga-120-back-clips-5.jpg,holga-120-back-clips-6.jpg,holga-120-back-clips-7.jpg" %}
 
+### Reviews
+>	Great item!! It works as designed. Seller was great. Fast!!
+-- Etsy Purchaser, August 2023
+
 ### Questions
 If you have any questions please get in touch.

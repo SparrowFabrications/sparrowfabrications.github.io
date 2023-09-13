@@ -14,7 +14,11 @@ I have had some great feedback about my products which you can see in my product
 
 >Sparrow Fabrications' Holga shutter release adapter is well designed, fits like a glove and works absolutely perfectly. Only item on the market to fit this need. Absolutely perfect! Many Thanks.
 >
->*eBay purchaser, April 2023*
+>*ebay purchaser, April 2023*
+
+>Needed this for travel and the delivery was speedy! made it from the UK to NY in like 3 maybe 4 days. Great communication and friendly!
+>
+>*ebay Purchaser, September 2023*
 
 I am always keen for feedback on my products so I can continue to improve them.
 
