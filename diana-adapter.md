@@ -31,7 +31,7 @@ To remove:
 
 Note the upper and lower pieces of the adapter are purposefully snug so firmly press the lower half towards you and the upper half away from you on each side close to the lugs.
 
-Please note, there is some variability in the diametre of the lens mountings across original Diana cameras and their clones. If it is too slack then electrical tape wound round the housing may help to remedy this.
+There is some variability in the diameter of the lens mountings across original Diana cameras and their clones. If it is too slack then electrical tape wound round the housing may help to remedy this.
 
 ### Supported Cameras
 Tested with:
