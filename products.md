@@ -3,7 +3,7 @@
 - Shutter Release Cable Adapter
   - [Diana F+ and Diana+ Cameras](diana-f+-adapter)
   - [Diana Instant Square](diana-instant-square-adapter)
-  - [Diana Original and clones](diana-adapter)
+  - [Diana Original and Clone Cameras](diana-adapter)
   - [Holga 120 Cameras (most models with an integrated tripod mount)](holga-120-adapter)
   - [Holga 120S and 120SF (no integrated tripod mount)](holga-120s-adapter)
   - [Sprocket Rocket Cameras](lomography-sprocket-rocket)

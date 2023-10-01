@@ -38,7 +38,11 @@ Tested with:
 Should be compatible with:
 - Lomography Diana+
 
-It is not compatible with the original Diana, Diana Baby or Diana Mini.
+Please note for these models you need these adapters:
+- [Diana Instant Square](diana-instant-square-adapter)
+- [Diana Original and Clone Cameras](diana-adapter)
+
+It is not compatible with the Diana Baby or Diana Mini.
 
 ### Manufacturing
 3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
