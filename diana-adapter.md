@@ -1,5 +1,5 @@
 ## Diana Shutter Release Cable Adapter
-Original Diana 120 Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one](https://www.amazon.co.uk/dp/B09126NKPN).
+Original Diana 120 Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}).
 
 Designed by me from scratch to fit the original Diana 120 camera and any similar clones with an identical shutter button placement and action. It allows you to use a shutter release cable for beautiful long exposure pictures.
 

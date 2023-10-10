@@ -1,5 +1,5 @@
 ## Lomography Sprocket Rocket Shutter Release Cable Adapter
-Lomography Sprocket Rocket Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one](https://www.amazon.co.uk/dp/B09126NKPN).
+Lomography Sprocket Rocket Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url}}).
 
 Designed by me from scratch to fit the Lomography Sprocket Rocket camera. It allows you to use a shutter release cable for beautiful long exposure pictures or selfies.
 
@@ -33,8 +33,8 @@ Should be compatible with:
 3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
 
 ### Images
-{% include my-gallery.html imagesurl="images/lomography-sprocket-rocket-adapter"
-   filenames="lomography-sprocket-rocket-adapter-1.jpg,lomography-sprocket-rocket-adapter-2.jpg,lomography-sprocket-rocket-adapter-3.jpg,lomography-sprocket-rocket-adapter-4.jpg,lomography-sprocket-rocket-adapter-5.jpg,lomography-sprocket-rocket-adapter-6.jpg,lomography-sprocket-rocket-adapter-7.jpg,lomography-sprocket-rocket-adapter-8.jpg,lomography-sprocket-rocket-adapter-9.jpg" %}
+{% include my-gallery.html imagesurl="images/lomography-sprocket-rocket-filter"
+   filenames="lomography-sprocket-rocket-filter-1.jpg,lomography-sprocket-rocket-filter-2.jpg,lomography-sprocket-rocket-filter-3.jpg,lomography-sprocket-rocket-filter-4.jpg,lomography-sprocket-rocket-adapter-5.jpg,lomography-sprocket-rocket-adapter-6.jpg,lomography-sprocket-rocket-adapter-7.jpg,lomography-sprocket-rocket-adapter-8.jpg,lomography-sprocket-rocket-adapter-9.jpg" %}
 
 ### Questions
 If you have any questions please get in touch.

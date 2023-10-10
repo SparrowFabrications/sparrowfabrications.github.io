@@ -6,7 +6,7 @@ Products are individually 3D printed and finished by me. You can purchase produc
 
 If you would prefer you can also purcahse from:
 
-- [eBay UK]({{ site.ebay_uk_url }}) or [eBay US]({{ site.ebay_us_url}}), and
+- [eBay UK]({{ site.ebay_uk_url }}) or [eBay US]({{ site.ebay_us_url }}), and
 - [Etsy]({{ site.etsy_url }}).
 
 ![A picture of a Holga 120 adapter](images/holga-120-adapter/holga-120-adapter-1.jpg)

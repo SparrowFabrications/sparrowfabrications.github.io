@@ -1,5 +1,5 @@
 ## Holga 120S Shutter Release Cable Adapter
-Holga 120S Shutter Release Cable Adapter with shutter button extender. Please note the cable required is shown but not included. Works with cables [such as this one](https://www.amazon.co.uk/dp/B09126NKPN).
+Holga 120S Shutter Release Cable Adapter with shutter button extender. Please note the cable required is shown but not included. Works with cables [such as this one](site.amazon_cable_url).
 
 This adapter is specifically for Holgas which do not have an integrated tripod mount. Allows you to attach a Holga without a tripod mount onto a tripod with a standard UNC 1/4 inch bolt.
 
