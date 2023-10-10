@@ -33,8 +33,8 @@ Should be compatible with:
 3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
 
 ### Images
-{% include my-gallery.html imagesurl="images/lomography-sprocket-rocket-filter"
-   filenames="lomography-sprocket-rocket-filter-1.jpg,lomography-sprocket-rocket-filter-2.jpg,lomography-sprocket-rocket-filter-3.jpg,lomography-sprocket-rocket-filter-4.jpg,lomography-sprocket-rocket-adapter-5.jpg,lomography-sprocket-rocket-adapter-6.jpg,lomography-sprocket-rocket-adapter-7.jpg,lomography-sprocket-rocket-adapter-8.jpg,lomography-sprocket-rocket-adapter-9.jpg" %}
+{% include my-gallery.html imagesurl="images/lomography-sprocket-rocket-adapter"
+   filenames="lomography-sprocket-rocket-adapter-1.jpg,lomography-sprocket-rocket-adapter-2.jpg,lomography-sprocket-rocket-adapter-3.jpg,lomography-sprocket-rocket-adapter-4.jpg,lomography-sprocket-rocket-adapter-5.jpg,lomography-sprocket-rocket-adapter-6.jpg,lomography-sprocket-rocket-adapter-7.jpg,lomography-sprocket-rocket-adapter-8.jpg,lomography-sprocket-rocket-adapter-9.jpg" %}
 
 ### Questions
 If you have any questions please get in touch.
