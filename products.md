@@ -5,6 +5,7 @@
   - [Diana F+ and Diana+ Cameras](diana-f+-adapter)
   - [Diana Instant Square](diana-instant-square-adapter)
   - [Diana Original and Clone Cameras](diana-adapter)
+- [Diana F+ and Clone Cameras Filter Adapter](diana-f+-filter)
 
 ### Holga Cameras
 - Shutter Release Cable Adapters

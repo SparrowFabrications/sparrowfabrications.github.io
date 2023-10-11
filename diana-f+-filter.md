@@ -1,0 +1,32 @@
+## Diana F+ and Clone Cameras Filter Adapter
+Diana F+ Filter Adapter. Please note the step up ring and filter required are shown but not included.
+
+Designed by me from scratch to fit the Lomography DianaF+, Diana+, Diana Original and associated clone cameras. Requires a 30mm step up ring [such as this one]({{ site.amazon_30mm_step_up_ring_url }}) to suit whatever filters you wish to use.
+
+### Directions for use
+To use:
+
+1. Gently screw or push a 30mm step up ring into the front of the adapter.
+2. Push the adapter onto the lens.
+3. Screw your favourite filter into the step up ring.
+
+
+### Supported Cameras
+Tested with:
+- Lomography Diana F+
+
+Should be compatible with:
+- Lomography Diana+
+- Diana Original and Clone Cameras
+
+It is not compatible with the Diana Instant Square, Diana Baby or Diana Mini.
+
+### Manufacturing
+3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
+
+### Images
+{% include my-gallery.html imagesurl="images/diana-f+-filter"
+   filenames="diana-f+-filter-1.jpg,diana-f+-filter-2.jpg,diana-f+-filter-3.jpg,diana-f+-filter-4.jpg,diana-f+-filter-5.jpg" %}
+
+### Questions
+If you have any questions please get in touch.
