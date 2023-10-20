@@ -1,7 +1,7 @@
-## Diana Shutter Release Cable Adapter
-Original Diana 120 Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}).
+## Vintage Diana (1960s), Diana F and Clone Cameras Shutter Release Cable Adapter
+Vintage (1960s) Diana 120 Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}).
 
-Designed by me from scratch to fit the original Diana 120 camera and any similar clones with an identical shutter button placement and action. It allows you to use a shutter release cable for beautiful long exposure pictures.
+Designed by me from scratch to fit the original 1960s Diana 120 camera, Diana F and any similar clones from that period with an identical shutter button placement and action. It allows you to use a shutter release cable for beautiful long exposure pictures.
 
 This uses a linear threaded nut to hold the shutter release cable so it is best not to screw the cable in too tight unless you don’t plan on removing it again.
 
@@ -44,7 +44,7 @@ Please note for these models you need these adapters:
 - [Diana F+ and Diana+ Cameras](diana-f+-adapter)
 - [Diana Instant Square](diana-instant-square-adapter)
 
-It is not compatible with the Diana Baby or Diana Mini.
+It is not compatible with the Lomography range of new Diana models such as the Diana+, Diana F+, Diana Instant Square, Diana Baby or Diana Mini.
 
 ### Manufacturing
 3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.

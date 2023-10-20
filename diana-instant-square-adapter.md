@@ -37,7 +37,7 @@ Please note for these models you need these adapters:
 - [Diana F+ and Diana+ Cameras](diana-f+-adapter)
 - [Diana Original and Clone Cameras](diana-adapter)
 
-It is not compatible with the Diana Baby or Diana Mini.
+It is not compatible with the vintage Diana (1960s) and clone cameras from the period, or the Lomography range of new Diana models such as the Diana+, Diana F+, Diana Baby or Diana Mini.
 
 ### Manufacturing
 3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.

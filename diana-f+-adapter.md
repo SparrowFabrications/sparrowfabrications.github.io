@@ -1,5 +1,5 @@
-## Lomography Diana F+ Shutter Release Cable Adapter
-Lomography Diana F+ 120 Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}).
+## Lomography Diana F+ and Diana+ Shutter Release Cable Adapter
+Lomography Diana F+ and Diana+ 120 Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}).
 
 Designed by me from scratch to fit the Diana F+ 120 camera. It allows you to use a shutter release cable for beautiful long exposure pictures.
 
@@ -40,9 +40,9 @@ Should be compatible with:
 
 Please note for these models you need these adapters:
 - [Diana Instant Square](diana-instant-square-adapter)
-- [Diana Original and Clone Cameras](diana-adapter)
+- [Vintage Diana (1960s) and Clone Cameras](diana-adapter)
 
-It is not compatible with the Diana Baby or Diana Mini.
+It is not compatible with vintage Diana (1960s) and associated clone cameras from the period, the Lomography Diana Instant Sqaure, Diana Baby or Diana Mini.
 
 ### Manufacturing
 3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.

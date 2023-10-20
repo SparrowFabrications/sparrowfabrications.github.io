@@ -2,10 +2,10 @@
 
 ### Diana Cameras
 - Shutter Release Cable Adapters
-  - [Diana F+ and Diana+ Cameras](diana-f+-adapter)
-  - [Diana Instant Square](diana-instant-square-adapter)
-  - [Diana Original and Clone Cameras](diana-adapter)
-- [Diana F+ and Clone Cameras Filter Adapter](diana-f+-filter)
+  - [Lomography Diana F+ and Diana+ Cameras](diana-f+-adapter)
+  - [Lomography Diana Instant Square](diana-instant-square-adapter)
+  - [Vintage Diana (1960s) and Clone Cameras](diana-adapter)
+- [Diana and Clone Cameras Filter Adapter](diana-f+-filter)
 
 ### Holga Cameras
 - Shutter Release Cable Adapters
