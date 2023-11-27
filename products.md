@@ -5,7 +5,9 @@
   - [Lomography Diana F+ and Diana+ Cameras](diana-f+-adapter)
   - [Lomography Diana Instant Square](diana-instant-square-adapter)
   - [Vintage Diana (1960s) and Clone Cameras](diana-adapter)
-- [Diana and Clone Cameras Filter Adapter](diana-f+-filter)
+- Filter Adapters
+  - [Lomography Diana and Clone Cameras](diana-f+-filter)
+  - [Lomography Diana Instant Square](diana-instant-square-filter)
 
 ### Holga Cameras
 - Shutter Release Cable Adapters

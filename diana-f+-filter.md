@@ -10,7 +10,6 @@ To use:
 2. Push the adapter onto the lens.
 3. Screw your favourite filter into the step up ring.
 
-
 ### Supported Cameras
 Tested with:
 - Lomography Diana F+
