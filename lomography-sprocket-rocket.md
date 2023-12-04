@@ -34,7 +34,7 @@ Should be compatible with:
 
 ### Images
 {% include my-gallery.html imagesurl="images/lomography-sprocket-rocket-adapter"
-   filenames="lomography-sprocket-rocket-adapter-1.jpg,lomography-sprocket-rocket-adapter-2.jpg,lomography-sprocket-rocket-adapter-3.jpg,lomography-sprocket-rocket-adapter-4.jpg,lomography-sprocket-rocket-adapter-5.jpg,lomography-sprocket-rocket-adapter-6.jpg,lomography-sprocket-rocket-adapter-7.jpg,lomography-sprocket-rocket-adapter-8.jpg,lomography-sprocket-rocket-adapter-9.jpg" %}
+   filenames="lomography-sprocket-rocket-adapter-1.jpg,lomography-sprocket-rocket-adapter-2.jpg,lomography-sprocket-rocket-adapter-3.jpg,lomography-sprocket-rocket-adapter-4.jpg,lomography-sprocket-rocket-adapter-5.jpg,lomography-sprocket-rocket-adapter-6.jpg,lomography-sprocket-rocket-adapter-7.jpg,lomography-sprocket-rocket-adapter-8.jpg,lomography-sprocket-rocket-adapter-9.jpg,shutter-release-cable.jpg" %}
 
 ### Questions
 If you have any questions please get in touch.

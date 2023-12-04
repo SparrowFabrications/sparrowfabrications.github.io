@@ -45,7 +45,7 @@ It is not compatible with the 120WPC, 35 or 135 models.
 
 ### Images
 {% include my-gallery.html imagesurl="images/holga-120-adapter"
-   filenames="holga-120-adapter-1.jpg,holga-120-adapter-2.jpg,holga-120-adapter-3.jpg,holga-120-adapter-4.jpg,holga-120-adapter-5.jpg,holga-120-adapter-6.jpg,holga-120-adapter-7.jpg,holga-120-adapter-8.jpg" %}
+   filenames="holga-120-adapter-1.jpg,holga-120-adapter-2.jpg,holga-120-adapter-3.jpg,holga-120-adapter-4.jpg,holga-120-adapter-51.jpg,holga-120-adapter-6.jpg,holga-120-adapter-7.jpg,holga-120-adapter-8.jpg,shutter-release-cable.jpg" %}
 
 ### Reviews
 > Glad I bought it. Love shooting with the Holga & this is going to make it even better!

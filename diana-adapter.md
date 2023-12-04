@@ -51,7 +51,7 @@ It is not compatible with the Lomography range of new Diana models such as the D
 
 ### Images
 {% include my-gallery.html imagesurl="images/diana-adapter"
-   filenames="diana-adapter-1.jpg,diana-adapter-2.jpg,diana-adapter-3.jpg,diana-adapter-4.jpg,diana-adapter-5.jpg,diana-adapter-6.jpg,diana-adapter-7.jpg,diana-adapter-8.jpg,diana-adapter-9.jpg,diana-adapter-10.jpg,diana-adapter-11.jpg" %}
+   filenames="diana-adapter-1.jpg,diana-adapter-2.jpg,diana-adapter-3.jpg,diana-adapter-4.jpg,diana-adapter-5.jpg,diana-adapter-6.jpg,diana-adapter-7.jpg,diana-adapter-8.jpg,diana-adapter-9.jpg,diana-adapter-10.jpg,diana-adapter-11.jpg,shutter-release-cable.jpg" %}
 
 ### Questions
 If you have any questions please get in touch.
