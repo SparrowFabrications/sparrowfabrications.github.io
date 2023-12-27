@@ -25,7 +25,7 @@ It is not compatible with the Lomography Diana Instant Square, Diana Baby or Dia
 
 ### Images
 {% include my-gallery.html imagesurl="images/diana-f+-filter"
-   filenames="diana-f+-filter-1.jpg,diana-f+-filter-2.jpg,diana-f+-filter-3.jpg,diana-f+-filter-4.jpg,diana-f+-filter-5.jpg" %}
+   filenames="diana-f+-filter-1.jpg,diana-f+-filter-2.jpg,diana-f+-filter-3.jpg,diana-f+-filter-4.jpg,diana-f+-filter-5.jpg,diana-f+-filter-6.jpg" %}
 
 ### Questions
 If you have any questions please get in touch.
