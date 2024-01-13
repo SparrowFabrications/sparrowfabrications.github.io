@@ -15,6 +15,7 @@
   - [Holga 120S and 120SF (no integrated tripod mount)](holga-120s-adapter)
 - [Holga 120 Replacement Back Clips](holga-120-back-clips)
 - [Holga 120 Filter Adapter](holga-filter)
+- [Holga 120 Replacement Lens Cap](holga-120-lens-cap)
 
 ### Index Card Holders
 - Index Card / Memo Holder for Film, Type & Format; always remember what film you are shooting!
