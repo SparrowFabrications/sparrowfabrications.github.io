@@ -1,5 +1,7 @@
 ## Products
 
+### Blackbird, fly Cameras ###
+- [Blackbird, fly Shutter Release Cable Adapter](blackbird-fly-adapter)
 ### Diana Cameras
 - Shutter Release Cable Adapters
   - [Lomography Diana F+ and Diana+ Cameras](diana-f+-adapter)
@@ -29,6 +31,7 @@
 ## Supported Cameras
 I make and sell a variety of products for the following cameras:
 
+- [Blackbird, fly 35mm camera](http://camera-wiki.org/wiki/Blackbird,_fly)
 - [Diana 120 medium format camera](https://en.wikipedia.org/wiki/Diana_(camera)), including these models
   - Diana+
   - Diana F+
