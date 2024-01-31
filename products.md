@@ -1,7 +1,11 @@
 ## Products
 
+### Belair X 6-12 Cameras ###
+- [Lomography Belair X 6-12 Shutter Release Cable Adapter](belair-x-6-12-adapter)
+
 ### Blackbird, fly Cameras ###
 - [Blackbird, fly Shutter Release Cable Adapter](blackbird-fly-adapter)
+
 ### Diana Cameras
 - Shutter Release Cable Adapters
   - [Lomography Diana F+ and Diana+ Cameras](diana-f+-adapter)
