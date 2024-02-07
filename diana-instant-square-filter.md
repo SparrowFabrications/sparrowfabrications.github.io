@@ -23,5 +23,10 @@ It is not compatible with the Lomography Diana+ or F+, Diana Baby or Diana Mini 
 {% include my-gallery.html imagesurl="images/diana-instant-square-filter"
    filenames="diana-instant-square-filter-1.jpg,diana-instant-square-filter-2.jpg,diana-instant-square-filter-3.jpg,diana-instant-square-filter-4.jpg,diana-instant-square-filter-5.jpg,diana-instant-square-filter-6.jpg" %}
 
+### Reviews
+> Awesome filter adaptor for the diana instant.
+>
+> *Etsy Purchaser, Dec 2023*
+
 ### Questions
 If you have any questions please get in touch.

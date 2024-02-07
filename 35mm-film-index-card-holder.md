@@ -18,5 +18,10 @@ Suitable for cameras shooting 35mm film but could fit any suitable camera and fi
 {% include my-gallery.html imagesurl="images/35mm-film-index-card-holder"
    filenames="index-card-holder-1.jpg,index-card-holder-2.jpg,index-card-holder-3.jpg,index-card-holder-4.jpg" %}
 
+### Reviews
+> Simple, straightforward and once found on the back of every film camera. Simple concept -stick it onto the camera, tear off the top of the film carton and slide it in and you stand a fair chance of remembering what stock is in which body. Now very hard to find a robust version. This certainly meets that spec and is genuinely useful. Recommended.
+>
+> *Etsy Purchaser, Dec 2023*
+
 ### Questions
 If you have any questions please get in touch.

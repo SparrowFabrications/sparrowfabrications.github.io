@@ -32,5 +32,10 @@ Not compatible with the 120WPC, 35 or 135 models.
 {% include my-gallery.html imagesurl="images/holga-120-lens-cap"
    filenames="holga-120-lens-cap-1.jpg,holga-120-lens-cap-2.jpg,holga-120-lens-cap-3.jpg,holga-120-lens-cap-4.jpg,holga-120-lens-cap-5.jpg" %}
 
+### Reviews
+> Shipped quickly and arrived well packaged. Fits my Holga perfectly. Better quality then the original lens cap it came with.
+>
+> *Etsy Purchaser, Feb 2024*
+
 ### Questions
 If you have any questions please get in touch.

@@ -18,5 +18,10 @@ Suitable for cameras shooting 120 format film such as Holgas and Diana’s shown
 {% include my-gallery.html imagesurl="images/120-film-index-card-holder"
    filenames="index-card-holder-1.jpg,index-card-holder-2.jpg,index-card-holder-3.jpg,index-card-holder-4.jpg,index-card-holder-5.jpg,index-card-holder-6.jpg" %}
 
+### Reviews
+> Exactly what was missing from the back of my Holga Wide Pinhole Camera! Feels sturdy and the adhesive strong. Arrived quick... Would buy again for any and all future Holga cameras or any other 120 camera missing a film card holder.
+>
+> *Etsy Purchaser, Jan 2024*
+
 ### Questions
 If you have any questions please get in touch.
