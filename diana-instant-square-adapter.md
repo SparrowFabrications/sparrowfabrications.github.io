@@ -39,8 +39,8 @@ Please note for these models you need these adapters:
 
 It is not compatible with the vintage Diana (1960s) and clone cameras from the period, or the Lomography range of new Diana models such as the Diana+, Diana F+, Diana Baby or Diana Mini.
 
-### Manufacturing
-3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
+### Video
+<video src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_5133_2_ecphm8.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Images
 {% include my-gallery.html imagesurl="images/diana-instant-square-adapter"
@@ -50,6 +50,9 @@ It is not compatible with the vintage Diana (1960s) and clone cameras from the p
 > This is a must have accessory for the Diana instant, and is well made.
 >
 > *Etsy Purchaser, Nov 2023*
+
+### Manufacturing
+3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
 
 ### Questions
 If you have any questions please get in touch.

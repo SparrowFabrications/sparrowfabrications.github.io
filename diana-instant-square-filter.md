@@ -16,9 +16,6 @@ Tested with:
 
 It is not compatible with the Lomography Diana+ or F+, Diana Baby or Diana Mini or the Vintage Diana (1960s) and Clone Cameras.
 
-### Manufacturing
-3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
-
 ### Images
 {% include my-gallery.html imagesurl="images/diana-instant-square-filter"
    filenames="diana-instant-square-filter-1.jpg,diana-instant-square-filter-2.jpg,diana-instant-square-filter-3.jpg,diana-instant-square-filter-4.jpg,diana-instant-square-filter-5.jpg,diana-instant-square-filter-6.jpg" %}
@@ -27,6 +24,9 @@ It is not compatible with the Lomography Diana+ or F+, Diana Baby or Diana Mini 
 > Awesome filter adaptor for the diana instant.
 >
 > *Etsy Purchaser, Dec 2023*
+
+### Manufacturing
+3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
 
 ### Questions
 If you have any questions please get in touch.

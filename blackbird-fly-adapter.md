@@ -35,12 +35,12 @@ To remove:
 Tested with:
 - Blackbird, fly
 
-### Manufacturing
-3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
-
 ### Images
 {% include my-gallery.html imagesurl="images/blackbird-fly-adapter"
    filenames="blackbird-fly-adapter-1.jpg,blackbird-fly-adapter-2.jpg,blackbird-fly-adapter-3.jpg,blackbird-fly-adapter-4.jpg,blackbird-fly-adapter-5.jpg,blackbird-fly-adapter-6.jpg,blackbird-fly-adapter-7.jpg,blackbird-fly-adapter-8.jpg,blackbird-fly-adapter-9.jpg,blackbird-fly-adapter-10.jpg,blackbird-fly-adapter-11.jpg,shutter-release-cable.jpg" %}
+
+### Manufacturing
+3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
 
 ### Questions
 If you have any questions please get in touch.

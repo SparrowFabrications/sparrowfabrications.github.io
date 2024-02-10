@@ -40,8 +40,8 @@ Please note for these models [you need this adapter](holga-120s-adapter)
 
 It is not compatible with the 120WPC, 35 or 135 models.
 
-### Manufacturing
-3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
+### Video
+<video src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_3664_2_ff00nr.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Images
 {% include my-gallery.html imagesurl="images/holga-120-adapter"
@@ -63,6 +63,9 @@ It is not compatible with the 120WPC, 35 or 135 models.
 > Another extremely useful item from this seller, it is very easy to fit and quite secure and does the job perfectly. Thanks for such useful items that make life a lot easier!
 >
 > *ebay Purchaser, March 2023*
+
+### Manufacturing
+3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
 
 ### Questions
 If you have any questions please get in touch.

@@ -29,9 +29,6 @@ Should be compatible with:
 
 Not compatible with the 120WPC, 35 or 135 models.
 
-### Manufacturing
-3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
-
 ### Images
 {% include my-gallery.html imagesurl="images/holga-120-back-clips"
    filenames="holga-120-back-clips-8.jpg,holga-120-back-clips-1.jpg,holga-120-back-clips-2.jpg,holga-120-back-clips-3.jpg,holga-120-back-clips-4.jpg,holga-120-back-clips-5.jpg,holga-120-back-clips-6.jpg,holga-120-back-clips-7.jpg" %}
@@ -48,6 +45,9 @@ Not compatible with the 120WPC, 35 or 135 models.
 >	Great item!! It works as designed. Seller was great. Fast!!
 >
 > *Etsy Purchaser, August 2023*
+
+### Manufacturing
+3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
 
 ### Questions
 If you have any questions please get in touch.

@@ -19,8 +19,8 @@
 - Shutter Release Cable Adapters
   - [Holga 120 Cameras (most models with an integrated tripod mount)](holga-120-adapter)
   - [Holga 120S and 120SF (no integrated tripod mount)](holga-120s-adapter)
-- [Holga 120 Replacement Back Clips](holga-120-back-clips)
 - [Holga 120 Filter Adapter](holga-filter)
+- [Holga 120 Replacement Back Clips](holga-120-back-clips)
 - [Holga 120 Replacement Lens Cap](holga-120-lens-cap)
 
 ### Index Card Holders
@@ -35,6 +35,7 @@
 ## Supported Cameras
 I make and sell a variety of products for the following cameras:
 
+- [Belair X 6-12 camera](http://camera-wiki.org/wiki/Lomography_Belair_X_6-12)
 - [Blackbird, fly 35mm camera](http://camera-wiki.org/wiki/Blackbird,_fly)
 - [Diana 120 medium format camera](https://en.wikipedia.org/wiki/Diana_(camera)), including these models
   - Diana+

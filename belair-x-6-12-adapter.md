@@ -19,12 +19,12 @@ To use:
 Tested with:
 - Belair X 6-12
 
-### Manufacturing
-3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
-
 ### Images
 {% include my-gallery.html imagesurl="images/belair-x-6-12-adapter"
    filenames="belair-x-6-12-adapter-1.jpg,belair-x-6-12-adapter-2.jpg,belair-x-6-12-adapter-3.jpg,belair-x-6-12-adapter-4.jpg,belair-x-6-12-adapter-5.jpg,belair-x-6-12-adapter-6.jpg,shutter-release-cable.jpg" %}
+
+### Manufacturing
+3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
 
 ### Questions
 If you have any questions please get in touch.

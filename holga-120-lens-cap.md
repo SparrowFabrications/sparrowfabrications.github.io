@@ -12,6 +12,7 @@ This is a push fit lens cap, simply press into place.
 Tested with:
 - Holga 120N
 - Holga 120S
+- Holga 120WPC
 
 Should be compatible with:
 - Holga 120CFN
@@ -23,10 +24,7 @@ Should be compatible with:
 - Holga 120PC (Pinhole Camera)
 - Holga 120SF
 
-Not compatible with the 120WPC, 35 or 135 models.
-
-### Manufacturing
-3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
+Not compatible with the 35 or 135 models.
 
 ### Images
 {% include my-gallery.html imagesurl="images/holga-120-lens-cap"
@@ -36,6 +34,9 @@ Not compatible with the 120WPC, 35 or 135 models.
 > Shipped quickly and arrived well packaged. Fits my Holga perfectly. Better quality then the original lens cap it came with.
 >
 > *Etsy Purchaser, Feb 2024*
+
+### Manufacturing
+3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
 
 ### Questions
 If you have any questions please get in touch.

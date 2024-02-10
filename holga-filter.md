@@ -27,9 +27,6 @@ Should be compatible with:
 
 It is not compatible with the 120GTLR, 120TLR, 120WPC, 35 or 135 models.
 
-### Manufacturing
-3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
-
 ### Images
 {% include my-gallery.html imagesurl="images/holga-filter"
    filenames="holga-filter-1.jpg,holga-filter-2.jpg,holga-filter-3.jpg,holga-filter-4.jpg,holga-filter-5.jpg,holga-filter-6.jpg" %}
@@ -38,6 +35,9 @@ It is not compatible with the 120GTLR, 120TLR, 120WPC, 35 or 135 models.
 > Excellent eBay seller doing great work making and selling filter adapters for Holga and Diana F film cameras. Very good communication, combined postage and rapid delivery of adapters. Very good experience all round and I highly recommend this seller.
 >
 > *ebay Purchaser, Nov 2023*
+
+### Manufacturing
+3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
 
 ### Questions
 If you have any questions please get in touch.

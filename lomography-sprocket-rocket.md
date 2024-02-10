@@ -29,12 +29,15 @@ Tested with:
 Should be compatible with:
 - Lomography Sprocket Rocket 2.0
 
-### Manufacturing
-3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
+### Video
+<video src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_8142_qvk3m1.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Images
 {% include my-gallery.html imagesurl="images/lomography-sprocket-rocket-adapter"
    filenames="lomography-sprocket-rocket-adapter-1.jpg,lomography-sprocket-rocket-adapter-2.jpg,lomography-sprocket-rocket-adapter-3.jpg,lomography-sprocket-rocket-adapter-4.jpg,lomography-sprocket-rocket-adapter-5.jpg,lomography-sprocket-rocket-adapter-6.jpg,lomography-sprocket-rocket-adapter-7.jpg,lomography-sprocket-rocket-adapter-8.jpg,lomography-sprocket-rocket-adapter-9.jpg,shutter-release-cable.jpg" %}
+
+### Manufacturing
+3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
 
 ### Questions
 If you have any questions please get in touch.
