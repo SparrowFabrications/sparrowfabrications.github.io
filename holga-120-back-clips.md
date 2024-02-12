@@ -29,6 +29,9 @@ Should be compatible with:
 
 Not compatible with the 120WPC, 35 or 135 models.
 
+### Video
+<video src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_0479_reub3u.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+
 ### Images
 {% include my-gallery.html imagesurl="images/holga-120-back-clips"
    filenames="holga-120-back-clips-8.jpg,holga-120-back-clips-1.jpg,holga-120-back-clips-2.jpg,holga-120-back-clips-3.jpg,holga-120-back-clips-4.jpg,holga-120-back-clips-5.jpg,holga-120-back-clips-6.jpg,holga-120-back-clips-7.jpg" %}

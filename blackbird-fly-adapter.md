@@ -35,6 +35,9 @@ To remove:
 Tested with:
 - Blackbird, fly
 
+### Video
+<video src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_0491_zeos4a.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+
 ### Images
 {% include my-gallery.html imagesurl="images/blackbird-fly-adapter"
    filenames="blackbird-fly-adapter-1.jpg,blackbird-fly-adapter-2.jpg,blackbird-fly-adapter-3.jpg,blackbird-fly-adapter-4.jpg,blackbird-fly-adapter-5.jpg,blackbird-fly-adapter-6.jpg,blackbird-fly-adapter-7.jpg,blackbird-fly-adapter-8.jpg,blackbird-fly-adapter-9.jpg,blackbird-fly-adapter-10.jpg,blackbird-fly-adapter-11.jpg,shutter-release-cable.jpg" %}

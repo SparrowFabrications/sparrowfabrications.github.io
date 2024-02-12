@@ -19,6 +19,9 @@ To use:
 Tested with:
 - Belair X 6-12
 
+### Video
+<video src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_0498_ly68by.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+
 ### Images
 {% include my-gallery.html imagesurl="images/belair-x-6-12-adapter"
    filenames="belair-x-6-12-adapter-1.jpg,belair-x-6-12-adapter-2.jpg,belair-x-6-12-adapter-3.jpg,belair-x-6-12-adapter-4.jpg,belair-x-6-12-adapter-5.jpg,belair-x-6-12-adapter-6.jpg,shutter-release-cable.jpg" %}
