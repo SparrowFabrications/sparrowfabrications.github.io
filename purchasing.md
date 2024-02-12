@@ -15,7 +15,8 @@ I do not profit from shipping and merely cover my costs.
 
 Typical shipping costs are:
 
-- £1.25 to the United Kingdom via Royal Mail Second Class.
-- $12 to the United States via a Royal Mail International Tracked & Signed.
+- £1.65 to the United Kingdom via Royal Mail Second Class.
+- $12.00 to the United States via a Royal Mail International Tracked & Signed.
+- $6.50 to the United States via a Royal Mail Standard Delivery (no tracking).
 
 Please note that where possible I use recyclable packaging, I make an effort to reuse padded envelopes and packaging and to reduce the impact on our environment. This is not about reducing costs as padded envelopes are very economical to buy in bulk.

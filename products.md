@@ -35,14 +35,13 @@
 ## Supported Cameras
 I make and sell a variety of products for the following cameras:
 
-- [Belair X 6-12 camera](http://camera-wiki.org/wiki/Lomography_Belair_X_6-12)
+- [Belair X 6-12 medium format camera](http://camera-wiki.org/wiki/Lomography_Belair_X_6-12)
 - [Blackbird, fly 35mm camera](http://camera-wiki.org/wiki/Blackbird,_fly)
 - [Diana 120 medium format camera](https://en.wikipedia.org/wiki/Diana_(camera)), including these models
   - Diana+
   - Diana F+
   - Diana Original and Clone cameras
-- [Diana Instax Sqaure format camera](http://camera-wiki.org/wiki/Diana_Instant_Square), including these models
-  - Diana Instant Square
+- [Diana Instant Square Instax square format camera](http://camera-wiki.org/wiki/Diana_Instant_Square)
 - [Holga 120 medium format camera](https://en.wikipedia.org/wiki/Holga), including these models
   - Holga 120CFN
   - Holga 120FN
