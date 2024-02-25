@@ -7,21 +7,27 @@
 - [Blackbird, fly Shutter Release Cable Adapter](blackbird-fly-adapter)
 
 ### Diana Cameras
-- Shutter Release Cable Adapters
-  - [Lomography Diana F+ and Diana+ Cameras](diana-f+-adapter)
-  - [Lomography Diana Instant Square](diana-instant-square-adapter)
-  - [Vintage Diana (1960s) and Clone Cameras](diana-adapter)
-- Filter Adapters
-  - [Lomography Diana and Clone Cameras](diana-f+-filter)
-  - [Lomography Diana Instant Square](diana-instant-square-filter)
+- Lomography Diana F+ and Diana+ Cameras
+  - [Filter Adapter](diana-f+-filter)
+  - [Lens Cap](diana-f+-lens-cap)
+  - [Shutter Release Cable Adapter](diana-f+-adapter)
+- Lomography Diana Instant Square cameras
+  - [Filter Adapter](diana-instant-square-filter)
+  - [Lens Cap](diana-instant-square-lens-cap)
+  - [Shutter Release Cable Adapter](diana-instant-square-adapter)
+- Vintage Diana (1960s) and Clone Cameras
+  - [Filter Adapter](diana-f+-filter)
+  - [Lens Cap](diana-f+-lens-cap)
+  - [Shutter Release Cable Adapter](diana-adapter)
 
 ### Holga Cameras
 - Shutter Release Cable Adapters
   - [Holga 120 Cameras (most models with an integrated tripod mount)](holga-120-adapter)
   - [Holga 120S and 120SF (no integrated tripod mount)](holga-120s-adapter)
-- [Holga 120 Filter Adapter](holga-filter)
-- [Holga 120 Replacement Back Clips](holga-120-back-clips)
-- [Holga 120 Replacement Lens Cap](holga-120-lens-cap)
+- Accessories
+  - [Holga 120 Filter Adapter](holga-filter)
+  - [Holga 120 Replacement Back Clips](holga-120-back-clips)
+  - [Holga 120 Replacement Lens Cap](holga-120-lens-cap)
 
 ### Index Card Holders
 - Index Card / Memo Holder for Film, Type & Format; always remember what film you are shooting!
@@ -29,8 +35,9 @@
   - [35mm Film Index Card Holder](35mm-film-index-card-holder)
 
 ### Sprocket Rocket Cameras
-  - [Sprocket Rocket Shutter Release Cable Adapter](lomography-sprocket-rocket)
   - [Sprocket Rocket Filter Adapter](lomography-sprocket-rocket-filter)
+  - [Sprocket Rocket Lens Cap](lomography-sprocket-rocket-lens-cap)
+  - [Sprocket Rocket Shutter Release Cable Adapter](lomography-sprocket-rocket)
 
 ## Supported Cameras
 I make and sell a variety of products for the following cameras:
@@ -40,7 +47,7 @@ I make and sell a variety of products for the following cameras:
 - [Diana 120 medium format camera](https://en.wikipedia.org/wiki/Diana_(camera)), including these models
   - Diana+
   - Diana F+
-  - Diana Original and Clone cameras
+  - Vintage Diana (1960s) and Clone cameras
 - [Diana Instant Square Instax square format camera](http://camera-wiki.org/wiki/Diana_Instant_Square)
 - [Holga 120 medium format camera](https://en.wikipedia.org/wiki/Holga), including these models
   - Holga 120CFN

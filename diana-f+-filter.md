@@ -1,7 +1,7 @@
 ## Diana and Clone Cameras Filter Adapter
 Diana Filter Adapter. Please note the step up ring and filter required are shown but not included.
 
-Designed by me from scratch to fit the Lomography DianaF+, Diana+, vintage Diana (1960s) and associated clone cameras. Requires a 30mm step up ring [such as this one]({{ site.amazon_30mm_step_up_ring_url }}) to suit whatever filters you wish to use.
+Designed by me from scratch to fit the Lomography Diana F+, Diana+, vintage Diana (1960s) and associated clone cameras. Requires a 30mm step up ring [such as this one]({{ site.amazon_30mm_step_up_ring_url }}) to suit whatever filters you wish to use.
 
 ### Directions for use
 To use:
@@ -13,6 +13,7 @@ To use:
 ### Supported Cameras
 Tested with:
 - Lomography Diana F+
+- Vintahe Diana (1960s)
 
 Should be compatible with:
 - Lomography Diana+
