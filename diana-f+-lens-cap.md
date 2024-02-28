@@ -1,5 +1,5 @@
 ## Diana and Clone Cameras Lens Cap
-A replacement lens cap for Diana Instant Square cameras.
+A replacement lens cap for Lomography Diana and vintage Diana cameras.
 
 There is an eyelet so you may attach a lens cap retention strap.
 
@@ -11,7 +11,7 @@ This is a push fit lens cap, simply press into place.
 ### Supported Cameras
 Tested with:
 - Lomography Diana F+
-- Vintahe Diana (1960s)
+- Vintage Diana (1960s)
 
 Should be compatible with:
 - Lomography Diana+
