@@ -35,3 +35,11 @@ Get the site:
 Then serve:
 
     bundle exec jekyll serve
+
+# Update
+
+From time to time it is worth doing:
+
+    bundle Update
+
+Then committing any changes to Gemfile.lock .
