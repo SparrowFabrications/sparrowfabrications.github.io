@@ -1,12 +1,12 @@
 ## Diana Mini Filter Adapter
 Diana Mini Filter Adapter. Please note the step up ring and filter required are shown but not included.
 
-Designed by me from scratch to fit the Lomography Diana Mini. Requires a 37mm step up ring [such as this one]({{ site.amazon_37mm_step_up_ring_url }}) to suit whatever filters you wish to use.
+Designed by me from scratch to fit the Lomography Diana Mini. Requires a 30mm step up ring [such as this one]({{ site.amazon_30mm_step_up_ring_url }}) to suit whatever filters you wish to use.
 
 ### Directions for use
 To use:
 
-1. Gently screw or push a 37mm step up ring into the front of the adapter.
+1. Gently screw or push a 30mm step up ring into the front of the adapter.
 2. Push the adapter onto the lens.
 3. Screw your favourite filter into the step up ring.
 
