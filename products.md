@@ -15,6 +15,8 @@
   - [Filter Adapter](diana-instant-square-filter)
   - [Lens Cap](diana-instant-square-lens-cap)
   - [Shutter Release Cable Adapter](diana-instant-square-adapter)
+- Lomography Diana Mini cameras
+  - [Lens Cap](diana-mini-lens-cap)
 - Vintage Diana (1960s) and Clone Cameras
   - [Filter Adapter](diana-f+-filter)
   - [Lens Cap](diana-f+-lens-cap)
@@ -49,6 +51,7 @@ I make and sell a variety of products for the following cameras:
   - Diana F+
   - Vintage Diana (1960s) and Clone cameras
 - [Diana Instant Square Instax square format camera](http://camera-wiki.org/wiki/Diana_Instant_Square)
+- [Diana Mini 35mm camera](http://camera-wiki.org/wiki/Diana_Mini)
 - [Holga 120 medium format camera](https://en.wikipedia.org/wiki/Holga), including these models
   - Holga 120CFN
   - Holga 120FN
