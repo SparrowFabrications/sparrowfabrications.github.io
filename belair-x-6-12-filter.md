@@ -1,0 +1,25 @@
+## Belair X 6-12 Filter Adapter
+Belair X 6-12 Filter Adapter. Please note the step up ring and filter required are shown but not included.
+
+Designed by me from scratch to fit the Belair X 6-12 camera. This fits both of the supplied lenses. Requires a 30mm step up ring [such as this one]({{ site.amazon_30mm_step_up_ring_url }}) to suit whatever filters you wish to use.
+
+### Directions for use
+To use:
+
+1. Gently screw or push a 30mm step up ring into the front of the adapter.
+2. Push the adapter onto the lens.
+3. Screw your favourite filter into the step up ring.
+
+### Supported Cameras
+Tested with:
+- Belair X 6-12
+
+### Images
+{% include my-gallery.html imagesurl="images/belair-x-6-12-filter"
+   filenames="belair-x-6-12-filter-1.jpg,belair-x-6-12-filter-2.jpg,belair-x-6-12-filter-3.jpg,belair-x-6-12-filter-4.jpg,belair-x-6-12-filter-5.jpg,belair-x-6-12-filter-6.jpg" %}
+
+### Manufacturing
+3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
+
+### Questions
+If you have any questions please get in touch.

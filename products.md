@@ -1,7 +1,8 @@
 ## Products
 
 ### Belair X 6-12 Cameras ###
-- [Lomography Belair X 6-12 Shutter Release Cable Adapter](belair-x-6-12-adapter)
+- [Filter Adapter](belair-x-6-12-filter)
+- [Shutter Release Cable Adapter](belair-x-6-12-adapter)
 
 ### Blackbird, fly Cameras ###
 - [Blackbird, fly Shutter Release Cable Adapter](blackbird-fly-adapter)
@@ -16,6 +17,7 @@
   - [Lens Cap](diana-instant-square-lens-cap)
   - [Shutter Release Cable Adapter](diana-instant-square-adapter)
 - Lomography Diana Mini cameras
+  - [Filter Adapter](diana-mini-filter)
   - [Lens Cap](diana-mini-lens-cap)
 - Vintage Diana (1960s) and Clone Cameras
   - [Filter Adapter](diana-f+-filter)
