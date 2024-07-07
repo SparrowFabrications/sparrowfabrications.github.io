@@ -4,7 +4,7 @@ I manufacture accessories for cameras including the Holga and Diana to allow pho
 ### Products
 Products are individually 3D printed and finished by me. You can purchase products directly from me using PayPal.
 
-If you would prefer you can also purcahse from:
+If you would prefer you can also purchase from:
 
 - [eBay UK]({{ site.ebay_uk_url }}) or [eBay US]({{ site.ebay_us_url }}), and
 - [Etsy]({{ site.etsy_url }}).
