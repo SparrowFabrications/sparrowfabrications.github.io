@@ -3,7 +3,7 @@ A replacement lens cap for Diana Instant Square cameras.
 
 There is an eyelet so you may attach a lens cap retention strap.
 
-Designed by me from scratch to fit the DIana Instant Square camera.
+Designed by me from scratch to fit the Diana Instant Square camera.
 
 ### Directions for use
 This is a push fit lens cap, simply press into place.
