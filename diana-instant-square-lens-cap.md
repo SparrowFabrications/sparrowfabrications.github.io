@@ -16,6 +16,12 @@ Tested with:
 {% include my-gallery.html imagesurl="images/diana-instant-square-lens-cap"
    filenames="diana-instant-square-lens-cap-1.jpg,diana-instant-square-lens-cap-2.jpg,diana-instant-square-lens-cap-3.jpg,diana-instant-square-lens-cap-4.jpg,diana-instant-square-lens-cap-5.jpg" %}
 
+### Reviews
+
+> Love my replacement lens cap. Fits perfectly and honestly, it fits better than the original lens cap that came with my camera which was always loose and falling off. This one fits snug and feels very durable. Very happy with my purchase.
+>
+> *Etsy Purchaser, April 2024*
+
 ### Manufacturing
 3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
 
