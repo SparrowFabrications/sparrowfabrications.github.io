@@ -44,6 +44,7 @@
   - [35mm Film Index Card Holder](35mm-film-index-card-holder)
 
 ### LomoApparat Camaeras
+- [LomoApparat Shutter Release Cable Adapter](lomoapparat-adapter)
 - [LomoApparat Lens Cap](lomoapparat-lens-cap)
 
 ### Sprocket Rocket Cameras
