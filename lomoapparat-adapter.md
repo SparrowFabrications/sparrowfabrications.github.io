@@ -3,7 +3,7 @@ LomoApparat Shutter Release Cable Adapter. Please note the cable required is sho
 
 Designed by me from scratch to fit the LomoApparat camera. It allows you to use a shutter release cable for beautiful long exposures.
 
-This adapter slides into place and is secured into place using the cable anchor. It fits snuggly over and around the lens. It cmes with its own lens cap which is only compatible with this adapter, it does not fit the camera separately.
+This adapter slides into place and is secured into place using the cable anchor. It fits snuggly over and around the lens. It comes with its own lens cap which is only compatible with this adapter, it does not fit the camera separately.
 
 This adapter uses a linear threaded nut to hold the shutter release cable so it is best not to screw the cable in too tight unless you don’t plan on removing it again.
 
