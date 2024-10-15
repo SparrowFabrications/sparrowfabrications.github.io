@@ -5,6 +5,8 @@ Designed by me from scratch to fit the LomoApparat camera. It allows you to use 
 
 This adapter slides into place and is secured into place using the cable anchor. It fits snuggly over and around the lens. It comes with its own lens cap which is only compatible with this adapter, it does not fit the camera separately.
 
+You can mount the LomoApparat Kaleidoscope and Splitzer lens attachments onto this adapter as shown.
+
 This adapter uses a linear threaded nut to hold the shutter release cable so it is best not to screw the cable in too tight unless you don’t plan on removing it again.
 
 ### Directions for use
