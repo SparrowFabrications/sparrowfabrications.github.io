@@ -5,7 +5,7 @@ Designed by me from scratch to fit the LomoApparat camera. It allows you to use 
 
 This adapter slides into place and is secured into place using the cable anchor. It fits snuggly over and around the lens. It comes with its own lens cap which is only compatible with this adapter, it does not fit the camera separately.
 
-You can mount the LomoApparat Kaleidoscope and Splitzer lens attachments onto this adapter as shown.
+You can mount the LomoApparat Close Up, Kaleidoscope and Splitzer lens attachments onto this adapter as shown.
 
 This adapter uses a linear threaded nut to hold the shutter release cable so it is best not to screw the cable in too tight unless you don’t plan on removing it again.
 
@@ -23,7 +23,7 @@ Tested with:
 
 ### Images
 {% include my-gallery.html imagesurl="images/lomoapparat-adapter"
-   filenames="lomoapparat-adapter-1.jpg,lomoapparat-adapter-2.jpg,lomoapparat-adapter-3.jpg,lomoapparat-adapter-4.jpg,lomoapparat-adapter-5.jpg,lomoapparat-adapter-6.jpg,lomoapparat-adapter-7.jpg,lomoapparat-adapter-8.jpg,shutter-release-cable.jpg" %}
+   filenames="lomoapparat-adapter-1.jpg,lomoapparat-adapter-2.jpg,lomoapparat-adapter-3.jpg,lomoapparat-adapter-4.jpg,lomoapparat-adapter-5.jpg,lomoapparat-adapter-6.jpg,lomoapparat-adapter-7.jpg,lomoapparat-adapter-8.jpg,lomoapparat-adapter-9.jpg,shutter-release-cable.jpg" %}
 
 ### Manufacturing
 3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
