@@ -3,7 +3,7 @@ LOMO LC-A Shutter Release Cable Adapter. Please note the cable required is shown
 
 Designed by me from scratch to fit the LOMO LC-A camera. It allows you to use a shutter release cable and filters.
 
-This adapter is push fit, it fits snuggly over and around the lens, whilst allowing access to the iso setting, aperture lever, focus lever and lens switch.
+This adapter is push fit, it fits snuggly over and around the lens, whilst allowing access to the iso setting, aperture lever, focus lever and lens switch. Use of this adapter prevents use of the flash hot shoe.
 
 This adapter uses a linear threaded nut to hold the shutter release cable so it is best not to screw the cable in too tight unless you don’t plan on removing it again.
 
@@ -13,7 +13,7 @@ To use with a cable:
 1. Attached the cable anchor to the adapter.
 2. Screw release cable into the adapter through the top as shown.
 3. Push adapter onto the camera as shown.
-4. Insert the adapter retainer into the flash bar and click it down into the adapter.
+4. Slide the adapter retainer into the flash hot shoe and click it down into the adapter.
 
 To use with a filter:
 
