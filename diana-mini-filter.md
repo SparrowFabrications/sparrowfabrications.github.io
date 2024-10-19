@@ -1,5 +1,5 @@
 ## Diana Mini Filter Adapter
-Diana Mini Filter Adapter. Please note the step up ring and filter required are shown but not included.
+Diana Mini Filter Adapter. Please note the step up ring and filter required are shown but not included. Camera shown is not included.
 
 Designed by me from scratch to fit the Lomography Diana Mini. Requires a 30mm step up ring [such as this one]({{ site.amazon_30mm_step_up_ring_url }}) to suit whatever filters you wish to use.
 

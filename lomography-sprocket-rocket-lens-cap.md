@@ -1,5 +1,5 @@
 ## Sprocket Rocket Cameras Lens Cap
-A replacement lens cap for Sprocket Rocket cameras.
+A replacement lens cap for Sprocket Rocket cameras. Camera shown is not included.
 
 There is an eyelet so you may attach a lens cap retention strap.
 

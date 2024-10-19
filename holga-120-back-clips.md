@@ -1,5 +1,5 @@
 ## Holga 120 Replacement Back Clips
-A pair of replacement back clips for Holga 120 cameras. These replace the rather flimsy standard clips which tend to fall off at inconvenient times.
+A pair of replacement back clips for Holga 120 cameras. These replace the rather flimsy standard clips which tend to fall off at inconvenient times. Camera shown is not included.
 
 These clips are designed to hold the back in place more sturdily. They slide into place and are designed to fit tightly.
 

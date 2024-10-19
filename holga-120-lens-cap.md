@@ -1,5 +1,5 @@
 ## Holga 120 Replacement Lens Cap
-A replacement lens cap for Holga 120 cameras.
+A replacement lens cap for Holga 120 cameras. Camera shown is not included.
 
 There is an eyelet so you may attach a lens cap retention strap.
 

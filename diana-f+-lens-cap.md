@@ -1,5 +1,5 @@
 ## Diana and Clone Cameras Lens Cap
-A replacement lens cap for Lomography Diana and vintage Diana cameras.
+A replacement lens cap for Lomography Diana and vintage Diana cameras. Camera shown is not included.
 
 There is an eyelet so you may attach a lens cap retention strap.
 

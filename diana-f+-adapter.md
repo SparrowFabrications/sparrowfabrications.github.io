@@ -1,5 +1,5 @@
 ## Lomography Diana F+ and Diana+ Shutter Release Cable Adapter
-Lomography Diana F+ and Diana+ 120 Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}).
+Lomography Diana F+ and Diana+ 120 Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included.
 
 Designed by me from scratch to fit the Diana F+ 120 camera. It allows you to use a shutter release cable for beautiful long exposure pictures.
 

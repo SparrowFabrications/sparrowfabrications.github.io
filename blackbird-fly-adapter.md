@@ -1,5 +1,5 @@
 ## Blackbird, fly Shutter Release Cable Adapter
-Blackbird, fly Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}).
+Blackbird, fly Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included.
 
 Designed by me from scratch to fit the Blackbird, fly camera. It allows you to use a shutter release cable for beautiful long exposure pictures.
 

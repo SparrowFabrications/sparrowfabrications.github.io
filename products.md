@@ -43,6 +43,9 @@
   - [120 Format Film Index Card Holder](120-film-index-card-holder)
   - [35mm Film Index Card Holder](35mm-film-index-card-holder)
 
+### LOMO LC-A Cameras
+- [LOMO LC-A Shutter Release Cable Adapter](lomo-lc-a-adapter)
+
 ### LomoApparat Camaeras
 - [LomoApparat Shutter Release Cable Adapter](lomoapparat-adapter)
 - [LomoApparat Lens Cap](lomoapparat-lens-cap)
