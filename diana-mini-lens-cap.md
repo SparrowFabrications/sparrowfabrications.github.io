@@ -1,5 +1,5 @@
 ## Diana Mini Lens Cap
-A replacement lens cap for Lomography Diana Mini cameras.
+A replacement lens cap for Lomography Diana Mini cameras. Camera shown is not included.
 
 There is an eyelet so you may attach a lens cap retention strap.
 

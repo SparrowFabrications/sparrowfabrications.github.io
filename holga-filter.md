@@ -1,5 +1,5 @@
 ## Holga 120 Cameras Filter Adapter
-Holga 120 cameras filter adapter. Please note the step up ring and filter required are shown but not included.
+Holga 120 cameras filter adapter. Please note the step up ring and filter required are shown but not included. Camera shown is not included.
 
 Designed by me from scratch to fit Holga 120 cameras. Requires a 43mm step up ring [such as this one]({{ site.amazon_43mm_step_up_ring_url }}) to suit whatever filters you wish to use.
 
@@ -35,6 +35,10 @@ It is not compatible with the 120GTLR, 120TLR, 120WPC, 35 or 135 models.
 > Excellent eBay seller doing great work making and selling filter adapters for Holga and Diana F film cameras. Very good communication, combined postage and rapid delivery of adapters. Very good experience all round and I highly recommend this seller.
 >
 > *ebay Purchaser, Nov 2023*
+
+> Absolutely brilliant, works a treat and great service too
+>
+> *ebay Purchaser, Aug 2024*
 
 ### Manufacturing
 3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.

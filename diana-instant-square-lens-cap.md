@@ -1,5 +1,5 @@
 ## Diana Instant Square Replacement Lens Cap
-A replacement lens cap for Diana Instant Square cameras.
+A replacement lens cap for Diana Instant Square cameras. Camera shown is not included.
 
 There is an eyelet so you may attach a lens cap retention strap.
 
