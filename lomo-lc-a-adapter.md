@@ -12,7 +12,7 @@ To use with a cable:
 
 1. Attached the cable anchor to the adapter.
 2. Screw release cable into the adapter through the top as shown.
-3. Push adapter onto the camera as shown.
+3. Push adapter onto the camera as shown starting with the bottom edge.
 4. Slide the adapter retainer into the flash hot shoe and click it down into the adapter.
 
 To use with a filter:
@@ -23,7 +23,7 @@ To use with a filter:
 
 ### Supported Cameras
 Tested with:
-- LC-A
+- LOMO LC-A
 
 It is not compatible with the LC-A+ or 120 models.
 
