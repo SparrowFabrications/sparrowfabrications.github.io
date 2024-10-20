@@ -39,5 +39,11 @@ Should be compatible with:
 ### Manufacturing
 3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
 
+### Reviews
+
+> "The Sprocket Rocket cable release adapter from Sparrow Fabrications was excellent. Gone are the days of needing to use a rubber band to make long exposures."
+>
+>*[https://www.jeremymuddphoto.com](https://www.jeremymuddphoto.com/blog/2023/12/11/early-morning-adventures-with-harman-phoenix-200-and-reflx-labs-800t), Dec 2023*
+
 ### Questions
 If you have any questions please get in touch.
