@@ -24,7 +24,7 @@ Tested with:
 Should be compatible with:
 - Holga 120SF
 
-Please note for these models [you need this adapter](holga-120-adapter)
+Please note for these models [you need this adapter](holga-120-adapter.md)
 - Holga 120CFN
 - Holga 120FN
 - Holga 120GCFN

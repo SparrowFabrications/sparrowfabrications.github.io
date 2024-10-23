@@ -5,7 +5,7 @@ I am a photography and camera enthusiast in the United Kingdom. I happened to ha
 
 When my cousin asked me to design a cable adapter for his [Holga](https://en.wikipedia.org/wiki/Holga), I couldn't have predicted I would end up producing a range of products for other camera enthusiasts all over the world, or see beautiful photos people have taken with them.
 
-This is one from my cousin using [this adapter](holga-120-adapter). More of his work is available [here](https://josephasghar.com/holga/).
+This is one from my cousin using [this adapter](holga-120-adapter.md). More of his work is available [here](https://josephasghar.com/holga/).
 
 ![A picture from my cousin taken with a 6 minute exposure](images/beach.jpg)
 

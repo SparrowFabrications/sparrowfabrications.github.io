@@ -1,59 +1,59 @@
 ## Products
 
 ### Belair X 6-12 Cameras ###
-- [Filter Adapter](belair-x-6-12-filter)
-- [Shutter Release Cable Adapter](belair-x-6-12-adapter)
+- [Filter Adapter](belair-x-6-12-filter.md)
+- [Shutter Release Cable Adapter](belair-x-6-12-adapter.md)
 
 ### Blackbird, fly Cameras ###
-- [Blackbird, fly Shutter Release Cable Adapter](blackbird-fly-adapter)
+- [Blackbird, fly Shutter Release Cable Adapter](blackbird-fly-adapter.md)
 
 ### Diana Cameras
 - Lomography Diana Baby 110 Cameras
-  - [Lens Cap](diana-baby-110-lens-cap)
+  - [Lens Cap](diana-baby-110-lens-cap.md)
 - Lomography Diana F+ and Diana+ Cameras
-  - [Filter Adapter](diana-f+-filter)
-  - [Lens Cap](diana-f+-lens-cap)
-  - [Shutter Release Cable Adapter](diana-f+-adapter)
+  - [Filter Adapter](diana-f+-filter.md)
+  - [Lens Cap](diana-f+-lens-cap.md)
+  - [Shutter Release Cable Adapter](diana-f+-adapter.md)
 - Lomography Diana Instant Square cameras
-  - [Filter Adapter](diana-instant-square-filter)
-  - [Lens Cap](diana-instant-square-lens-cap)
-  - [Shutter Release Cable Adapter](diana-instant-square-adapter)
+  - [Filter Adapter](diana-instant-square-filter.md)
+  - [Lens Cap](diana-instant-square-lens-cap.md)
+  - [Shutter Release Cable Adapter](diana-instant-square-adapter.md)
 - Lomography Diana Mini cameras
-  - [Filter Adapter](diana-mini-filter)
-  - [Lens Cap](diana-mini-lens-cap)
+  - [Filter Adapter](diana-mini-filter.md)
+  - [Lens Cap](diana-mini-lens-cap.md)
 - Vintage Diana (1960s) and Clone Cameras
-  - [Filter Adapter](diana-f+-filter)
-  - [Lens Cap](diana-f+-lens-cap)
-  - [Shutter Release Cable Adapter](diana-adapter)
+  - [Filter Adapter](diana-f+-filter.md)
+  - [Lens Cap](diana-f+-lens-cap.md)
+  - [Shutter Release Cable Adapter](diana-adapter.md)
 
 ### Holga Cameras
 - Holga 120 Cameras
-  - [Back Clips](holga-120-back-clips)
-  - [Filter Adapter](holga-filter)
-  - [Lens Cap](holga-120-lens-cap)
+  - [Back Clips](holga-120-back-clips.md)
+  - [Filter Adapter](holga-filter.md)
+  - [Lens Cap](holga-120-lens-cap.md)
   - Shutter Release Cable Adapters
-    - [Holga 120 Cameras (most models with an integrated tripod mount)](holga-120-adapter)
-    - [Holga 120S and 120SF (no integrated tripod mount)](holga-120s-adapter)
+    - [Holga 120 Cameras (most models with an integrated tripod mount)](holga-120-adapter.md)
+    - [Holga 120S and 120SF (no integrated tripod mount)](holga-120s-adapter.md)
 - Holga 135 Cameras
-  - [Filter Adapter](holga-135-filter)
-  - [Lens Cap](holga-135-lens-cap)
+  - [Filter Adapter](holga-135-filter.md)
+  - [Lens Cap](holga-135-lens-cap.md)
 
 ### Index Card Holders
 - Index Card / Memo Holder for Film, Type & Format; always remember what film you are shooting!
-  - [120 Format Film Index Card Holder](120-film-index-card-holder)
-  - [35mm Film Index Card Holder](35mm-film-index-card-holder)
+  - [120 Format Film Index Card Holder](120-film-index-card-holder.md)
+  - [35mm Film Index Card Holder](35mm-film-index-card-holder.md)
 
 ### LOMO LC-A Cameras
-- [LOMO LC-A Shutter Release Cable Adapter](lomo-lc-a-adapter)
+- [LOMO LC-A Shutter Release Cable Adapter](lomo-lc-a-adapter.md)
 
 ### LomoApparat Camaeras
-- [LomoApparat Shutter Release Cable Adapter](lomoapparat-adapter)
-- [LomoApparat Lens Cap](lomoapparat-lens-cap)
+- [LomoApparat Shutter Release Cable Adapter](lomoapparat-adapter.md)
+- [LomoApparat Lens Cap](lomoapparat-lens-cap.md)
 
 ### Sprocket Rocket Cameras
-- [Sprocket Rocket Filter Adapter](lomography-sprocket-rocket-filter)
-- [Sprocket Rocket Lens Cap](lomography-sprocket-rocket-lens-cap)
-- [Sprocket Rocket Shutter Release Cable Adapter](lomography-sprocket-rocket)
+- [Sprocket Rocket Filter Adapter](lomography-sprocket-rocket-filter.md)
+- [Sprocket Rocket Lens Cap](lomography-sprocket-rocket-lens-cap.md)
+- [Sprocket Rocket Shutter Release Cable Adapter](lomography-sprocket-rocket.md)
 
 ## Supported Cameras
 I make and sell a variety of products for the following cameras:

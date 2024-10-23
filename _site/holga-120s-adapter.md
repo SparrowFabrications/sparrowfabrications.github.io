@@ -44,9 +44,3 @@ It is not compatible with the 120WPC, 35 or 135 models.
 ### Images
 {% include my-gallery.html imagesurl="images/holga-120s-adapter"
    filenames="holga-120s-adapter-1.jpg,holga-120s-adapter-2.jpg,holga-120s-adapter-3.jpg,holga-120s-adapter-4.jpg,holga-120s-adapter-5.jpg,holga-120s-adapter-6.jpg,holga-120s-adapter-7.jpg,holga-120s-adapter-81.jpg,shutter-release-cable.jpg" %}
-
-### Manufacturing
-3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
-
-### Questions
-If you have any questions please get in touch.

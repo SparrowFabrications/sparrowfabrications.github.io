@@ -39,9 +39,3 @@ It is not compatible with the 120GTLR, 120TLR, 120WPC, 35 or 135 models.
 > Absolutely brilliant, works a treat and great service too
 >
 > *ebay Purchaser, Aug 2024*
-
-### Manufacturing
-3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
-
-### Questions
-If you have any questions please get in touch.

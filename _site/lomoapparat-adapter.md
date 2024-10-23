@@ -24,9 +24,3 @@ Tested with:
 ### Images
 {% include my-gallery.html imagesurl="images/lomoapparat-adapter"
    filenames="lomoapparat-adapter-1.jpg,lomoapparat-adapter-2.jpg,lomoapparat-adapter-3.jpg,lomoapparat-adapter-4.jpg,lomoapparat-adapter-5.jpg,lomoapparat-adapter-6.jpg,lomoapparat-adapter-7.jpg,lomoapparat-adapter-8.jpg,lomoapparat-adapter-9.jpg,shutter-release-cable.jpg" %}
-
-### Manufacturing
-3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
-
-### Questions
-If you have any questions please get in touch.

@@ -34,7 +34,7 @@ Should be compatible with:
 - Holga 120GTLR
 - Holga 120TLR
 
-Please note for these models [you need this adapter](holga-120s-adapter)
+Please note for these models [you need this adapter](holga-120s-adapter.md)
 - Holga 120S
 - Holga 120SF
 
