@@ -20,9 +20,3 @@ Should be compatible with:
 ### Images
 {% include my-gallery.html imagesurl="images/diana-f+-lens-cap"
    filenames="diana-f+-lens-cap-1.jpg,diana-f+-lens-cap-2.jpg,diana-f+-lens-cap-3.jpg,diana-f+-lens-cap-4.jpg,diana-f+-lens-cap-5.jpg" %}
-
-### Manufacturing
-3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
-
-### Questions
-If you have any questions please get in touch.

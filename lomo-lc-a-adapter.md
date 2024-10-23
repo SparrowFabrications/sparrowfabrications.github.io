@@ -33,9 +33,3 @@ It is not compatible with the LC-A+ or 120 models.
 ### Images
 {% include my-gallery.html imagesurl="images/lomo-lc-a-adapter"
    filenames="lomo-lc-a-adapter-1.jpg,lomo-lc-a-adapter-2.jpg,lomo-lc-a-adapter-3.jpg,lomo-lc-a-adapter-4.jpg,lomo-lc-a-adapter-5.jpg,lomo-lc-a-adapter-6.jpg,lomo-lc-a-adapter-7.jpg,lomo-lc-a-adapter-8.jpg,shutter-release-cable.jpg,step-up-ring.jpg" %}
-
-### Manufacturing
-3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
-
-### Questions
-If you have any questions please get in touch.

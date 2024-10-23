@@ -18,9 +18,3 @@ Should be compatible with:
 ### Images
 {% include my-gallery.html imagesurl="images/lomography-sprocket-rocket-lens-cap"
    filenames="lomography-sprocket-rocket-lens-cap-1.jpg,lomography-sprocket-rocket-lens-cap-2.jpg,lomography-sprocket-rocket-lens-cap-3.jpg,lomography-sprocket-rocket-lens-cap-4.jpg,lomography-sprocket-rocket-lens-cap-5.jpg" %}
-
-### Manufacturing
-3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
-
-### Questions
-If you have any questions please get in touch.

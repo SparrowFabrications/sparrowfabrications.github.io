@@ -62,10 +62,3 @@ Note, these reviews are of the previous version which used an extra clip. The la
 > This adapter fits and works brilliantly and with absolutely no effort to install. The tripod retaining clip is also a super idea! I use the 'glass' lens on my Diana F+ and the adapter did not in any way interfere with the usage of the camera and that lens. It is as good as the original Diana F+ shutter release, which is now a very hard-to-find accessory.
 >
 > *ebay Purchaser, March 2023*
-
-
-### Manufacturing
-3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
-
-### Questions
-If you have any questions please get in touch.

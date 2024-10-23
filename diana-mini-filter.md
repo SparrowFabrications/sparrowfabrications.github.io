@@ -19,9 +19,3 @@ It is not compatible with the Lomography Diana F+, Diana+, Vintage Diana (1960s)
 ### Images
 {% include my-gallery.html imagesurl="images/diana-mini-filter"
    filenames="diana-mini-filter-1.jpg,diana-mini-filter-2.jpg,diana-mini-filter-3.jpg,diana-mini-filter-4.jpg,diana-mini-filter-5.jpg,diana-mini-filter-6.jpg" %}
-
-### Manufacturing
-3D printed in PETG, finished and posted from the United Kingdom. I chose PETG as it is a strong material and the design, although it looks delicate, it is robust.
-
-### Questions
-If you have any questions please get in touch.
