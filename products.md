@@ -2,6 +2,7 @@
 
 ### Belair X 6-12 Cameras ###
 - [Filter Adapter](belair-x-6-12-filter.md)
+- [Lens Cap](belair-x-6-12-lens-cap.md)
 - [Shutter Release Cable Adapter](belair-x-6-12-adapter.md)
 
 ### Blackbird, fly Cameras ###
