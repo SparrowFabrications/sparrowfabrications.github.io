@@ -1,3 +1,6 @@
+---
+description: Lomography Belair X 6-12 Filter Adapter allows you to use filters in your photography.
+---
 ## Belair X 6-12 Filter Adapter
 Belair X 6-12 Filter Adapter. Please note the step up ring and filter required are shown but not included. Camera shown is not included.
 

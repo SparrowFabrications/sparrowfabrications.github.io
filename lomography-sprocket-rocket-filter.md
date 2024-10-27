@@ -1,3 +1,6 @@
+---
+description: Lomography Sprocket Rocket Filter Adapter allows you to use filters in your photography.
+---
 ## Lomography Sprocket Rocket Filter Adapter
 Lomography Sprocket Rocket Filter Adapter. Please note the step up ring and filter required are shown but not included. Camera shown is not included.
 

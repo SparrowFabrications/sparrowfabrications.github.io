@@ -1,3 +1,6 @@
+---
+description: LomoApparat Shutter Release Cable Adapter allows you to use a shutter release cable for beautiful long exposure pictures.
+---
 ## LomoApparat Shutter Release Cable Adapter
 LomoApparat Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included.
 

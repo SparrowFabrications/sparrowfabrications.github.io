@@ -1,3 +1,6 @@
+---
+description: Diana Mini Filter Adapter allows you to use filters in your photography.
+---
 ## Diana Mini Filter Adapter
 Diana Mini Filter Adapter. Please note the step up ring and filter required are shown but not included. Camera shown is not included.
 

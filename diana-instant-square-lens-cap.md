@@ -1,3 +1,6 @@
+---
+description: A replacement lens cap for Lomography Diana Instant Square cameras.
+---
 ## Diana Instant Square Replacement Lens Cap
 A replacement lens cap for Diana Instant Square cameras. Camera shown is not included.
 

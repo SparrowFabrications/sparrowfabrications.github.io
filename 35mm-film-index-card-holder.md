@@ -1,5 +1,8 @@
+---
+description: Index Card Holder for 35mm film boxes to remind you what film, type and format you are shooting. Never forget what film you are shooting again!
+---
 ## Index Card Holder for 35mm Film
-Index Card Holder to remind you what film, type and format you are shooting. Never forget what film you are shooting again!
+Index Card Holder to remind you what 35mm film, type and format you are shooting. Never forget what film you are shooting again!
 
 The dimensions of this item are:
 - 44mm wide, 42mm high, 4mm deep

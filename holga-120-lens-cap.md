@@ -1,3 +1,6 @@
+---
+description: A replacement lens cap for Holga 120 cameras.
+---
 ## Holga 120 Replacement Lens Cap
 A replacement lens cap for Holga 120 cameras. Camera shown is not included.
 

@@ -1,3 +1,6 @@
+---
+description: A replacement lens cap for LomoApparat cameras.
+---
 ## LomoApparat Replacement Lens Cap
 A replacement lens cap for LomoApparat cameras. Camera shown is not included.
 

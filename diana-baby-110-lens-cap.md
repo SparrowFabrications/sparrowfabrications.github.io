@@ -1,3 +1,6 @@
+---
+description: A replacement lens cap for Lomography Diana Baby 110 cameras.
+---
 ## Diana Baby 110 Lens Cap
 A replacement lens cap for Lomography Diana Baby 110 cameras. Camera shown is not included.
 

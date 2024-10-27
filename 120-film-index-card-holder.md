@@ -1,5 +1,8 @@
+---
+description: Index Card Holder for 120 film boxes to remind you what film, type and format you are shooting. Never forget what film you are shooting again!
+---
 ## Index Card Holder for 120 Format Film
-Index Card Holder to remind you what film, type and format you are shooting. Never forget what film you are shooting again!
+Index Card Holder to remind you what 120 film, type and format you are shooting. Never forget what film you are shooting again!
 
 The dimensions of this item are:
 - 36mm wide, 34mm high, 4mm deep

@@ -1,3 +1,6 @@
+---
+description: I manufacture accessories for lomography cameras allow photography enthusiasts like myself to get the most out of their cameras.
+---
 ## Welcome!
 I manufacture accessories for cameras including the Holga and Diana to allow photography and lomography enthusiasts like myself to get the most out of their cameras.
 

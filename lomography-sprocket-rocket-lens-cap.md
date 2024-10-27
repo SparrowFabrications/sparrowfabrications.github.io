@@ -1,3 +1,6 @@
+---
+description: A replacement lens cap for Sprocket Rocket cameras.
+---
 ## Sprocket Rocket Cameras Lens Cap
 A replacement lens cap for Sprocket Rocket cameras. Camera shown is not included.
 

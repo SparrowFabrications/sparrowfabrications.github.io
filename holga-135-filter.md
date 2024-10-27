@@ -1,3 +1,6 @@
+---
+description: Holga 135 Filter Adapter allows you to use filters in your photography.
+---
 ## Holga 135 Cameras Filter Adapter
 Holga 135 cameras filter adapter. Please note the step up ring and filter required are shown but not included. Camera shown is not included.
 

@@ -1,3 +1,6 @@
+---
+description: A list of all the 3D printed products I make and the lomography cameras they work with.
+---
 ## Products
 
 ### Belair X 6-12 Cameras ###

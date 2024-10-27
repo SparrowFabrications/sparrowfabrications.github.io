@@ -1,3 +1,6 @@
+---
+description: Describes why I started Sparrow Fabrications, thanks to my cousing asking if I could make something for his camera.
+---
 ## About Sparrow Fabrications
 Sparrow Fabrications started by accident.
 

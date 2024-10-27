@@ -1,3 +1,6 @@
+---
+description: Describes how parts are 3D printed by Sparrow Fabrications.
+---
 ## Manufacturing
 All parts are made on my modified [Prusa MK3S](https://www.prusa3d.com/category/original-prusa-i3-mk3s/) using PETG filament.
 

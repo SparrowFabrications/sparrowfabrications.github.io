@@ -1,3 +1,6 @@
+---
+description: Holga 120S Shutter Release Cable Adapter allows you to use a shutter release cable for beautiful long exposure pictures.
+---
 ## Holga 120S Shutter Release Cable Adapter
 Holga 120S Shutter Release Cable Adapter with shutter button extender. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included.
 

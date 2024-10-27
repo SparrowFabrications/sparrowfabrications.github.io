@@ -1,3 +1,6 @@
+---
+description: A replacement lens cap for Lomography Diana Mini cameras.
+---
 ## Diana Mini Lens Cap
 A replacement lens cap for Lomography Diana Mini cameras. Camera shown is not included.
 

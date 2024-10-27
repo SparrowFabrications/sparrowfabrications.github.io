@@ -1,3 +1,6 @@
+---
+description: Diana Instant Square Filter Adapter allows you to use filters in your photography.
+---
 ## Diana Instant Square Filter Adapter
 Diana Instant Square Filter Adapter. Please note the step up ring and filter required are shown but not included. Camera shown is not included.
 

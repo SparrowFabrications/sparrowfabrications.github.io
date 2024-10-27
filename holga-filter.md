@@ -1,3 +1,6 @@
+---
+description: Holga 120 Filter Adapter allows you to use filters in your photography.
+---
 ## Holga 120 Cameras Filter Adapter
 Holga 120 cameras filter adapter. Please note the step up ring and filter required are shown but not included. Camera shown is not included.
 
