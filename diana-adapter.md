@@ -43,10 +43,6 @@ Tested with:
 Should be compatible with:
 - Any similar Diana clone with a similar shutter button position and action.
 
-Please note for these models you need these adapters:
-- [Diana F+ and Diana+ Cameras](diana-f+-adapter)
-- [Diana Instant Square](diana-instant-square-adapter)
-
 It is not compatible with the Lomography range of new Diana models such as the Diana+, Diana F+, Diana Instant Square, Diana Baby or Diana Mini.
 
 ### Video

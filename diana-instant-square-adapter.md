@@ -36,10 +36,6 @@ Note the upper and lower pieces of the adapter are purposefully snug so firmly p
 Tested with:
 - Lomography Diana Instant Square
 
-Please note for these models you need these adapters:
-- [Diana F+ and Diana+ Cameras](diana-f+-adapter)
-- [Diana Original and Clone Cameras](diana-adapter)
-
 It is not compatible with the vintage Diana (1960s) and clone cameras from the period, or the Lomography range of new Diana models such as the Diana+, Diana F+, Diana Baby or Diana Mini.
 
 ### Video
