@@ -30,6 +30,9 @@ Should be compatible with:
 
 It is not compatible with the 120GTLR, 120TLR, 120WPC, 35 or 135 models.
 
+### Video
+<video src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_ec8ukg.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+
 ### Images
 {% include my-gallery.html imagesurl="images/holga-filter"
    filenames="holga-filter-1.jpg,holga-filter-2.jpg,holga-filter-3.jpg,holga-filter-4.jpg,holga-filter-5.jpg,holga-filter-6.jpg" %}

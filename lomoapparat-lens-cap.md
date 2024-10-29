@@ -15,6 +15,9 @@ Simply slide into place and lift the bottom edge slightly to allow the securing 
 Tested with:
 - LomoApparat
 
+### Video
+<video src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_kmzwyj.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+
 ### Images
 {% include my-gallery.html imagesurl="images/lomoapparat-lens-cap"
    filenames="lomoapparat-lens-cap-1.jpg,lomoapparat-lens-cap-2.jpg,lomoapparat-lens-cap-3.jpg,lomoapparat-lens-cap-4.jpg,lomoapparat-lens-cap-5.jpg" %}

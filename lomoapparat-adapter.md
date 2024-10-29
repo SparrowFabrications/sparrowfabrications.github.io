@@ -24,6 +24,9 @@ To use:
 Tested with:
 - LomoApparat
 
+### Video
+<video src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_roo4ck.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+
 ### Images
 {% include my-gallery.html imagesurl="images/lomoapparat-adapter"
    filenames="lomoapparat-adapter-1.jpg,lomoapparat-adapter-2.jpg,lomoapparat-adapter-3.jpg,lomoapparat-adapter-4.jpg,lomoapparat-adapter-5.jpg,lomoapparat-adapter-6.jpg,lomoapparat-adapter-7.jpg,lomoapparat-adapter-8.jpg,lomoapparat-adapter-9.jpg,shutter-release-cable.jpg" %}

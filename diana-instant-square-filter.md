@@ -19,6 +19,9 @@ Tested with:
 
 It is not compatible with the Lomography Diana+ or F+, Diana Baby or Diana Mini or the Vintage Diana (1960s) and Clone Cameras.
 
+### Video
+<video src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_sfxxs1.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+
 ### Images
 {% include my-gallery.html imagesurl="images/diana-instant-square-filter"
    filenames="diana-instant-square-filter-1.jpg,diana-instant-square-filter-2.jpg,diana-instant-square-filter-3.jpg,diana-instant-square-filter-4.jpg,diana-instant-square-filter-5.jpg,diana-instant-square-filter-6.jpg" %}

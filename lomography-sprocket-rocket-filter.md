@@ -22,6 +22,9 @@ Tested with:
 Should be compatible with:
 - Lomography Sprocket Rocket 2.0
 
+### Video
+<video src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_herwrs.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+
 ### Images
 {% include my-gallery.html imagesurl="images/lomography-sprocket-rocket-filter"
    filenames="lomography-sprocket-rocket-filter-1.jpg,lomography-sprocket-rocket-filter-2.jpg,lomography-sprocket-rocket-filter-3.jpg,lomography-sprocket-rocket-filter-4.jpg,lomography-sprocket-rocket-filter-5.jpg,lomography-sprocket-rocket-filter-6.jpg" %}

@@ -23,6 +23,9 @@ Should be compatible with:
 
 It is not compatible with the 35 or 120 models.
 
+### Video
+<video src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_mtljbf.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+
 ### Images
 {% include my-gallery.html imagesurl="images/holga-135-filter"
    filenames="holga-135-filter-1.jpg,holga-135-filter-2.jpg,holga-135-filter-3.jpg,holga-135-filter-4.jpg,holga-135-filter-5.jpg,holga-135-filter-6.jpg" %}

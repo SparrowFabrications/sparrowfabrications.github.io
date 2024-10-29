@@ -15,6 +15,9 @@ This is a push fit lens cap, simply press into place.
 Tested with:
 - Diana Instant Square
 
+### Video
+<video src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_d0ybnt.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+
 ### Images
 {% include my-gallery.html imagesurl="images/diana-instant-square-lens-cap"
    filenames="diana-instant-square-lens-cap-1.jpg,diana-instant-square-lens-cap-2.jpg,diana-instant-square-lens-cap-3.jpg,diana-instant-square-lens-cap-4.jpg,diana-instant-square-lens-cap-5.jpg" %}

@@ -21,6 +21,9 @@ Should be compatible with:
 
 Not compatible with the 35 or 120 models.
 
+### Video
+<video src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_e7k0pl.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+
 ### Images
 {% include my-gallery.html imagesurl="images/holga-135-lens-cap"
    filenames="holga-135-lens-cap-1.jpg,holga-135-lens-cap-2.jpg,holga-135-lens-cap-3.jpg,holga-135-lens-cap-4.jpg,holga-135-lens-cap-5.jpg" %}
