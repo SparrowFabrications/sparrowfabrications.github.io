@@ -10,6 +10,8 @@ This adapter is push fit, it fits snuggly on the side of the camera body.
 
 This adapter uses a linear threaded nut to hold the shutter release cable so it is best not to screw the cable in too tight unless you don’t plan on removing it again. Also, it is best to fit this cable before mounting the adapter on the camera.
 
+Please note, the Belair requires quite a bit of force to depress the shutter button. Hence, this adapter requires a reasonably good quality shutter release cable to work correctly. Avoid bending the cable past 90 degrees relative to the securing point or you may find that the cable is not strong enough to depress the shutter button fully. For best results keep the shutter release cable as straight as possible.
+
 ### Directions for use
 To use:
 
