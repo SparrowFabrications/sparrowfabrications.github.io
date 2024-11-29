@@ -36,3 +36,8 @@ It is not compatible with the LC-A+ or 120 models.
 ### Images
 {% include my-gallery.html imagesurl="images/lomo-lc-a-adapter"
    filenames="lomo-lc-a-adapter-1.jpg,lomo-lc-a-adapter-2.jpg,lomo-lc-a-adapter-3.jpg,lomo-lc-a-adapter-4.jpg,lomo-lc-a-adapter-5.jpg,lomo-lc-a-adapter-6.jpg,lomo-lc-a-adapter-7.jpg,lomo-lc-a-adapter-8.jpg,shutter-release-cable.jpg,step-up-ring.jpg" %}
+
+### Reviews
+>Thank you again sparrowfabrications for this much needed attachment, it turns the LCA+ - an already a superior camera into an even more useful one! ... Fitting the adapter attachment was very easy and it stays secure in use.
+>
+> *ebay Purchaser, Nov 2024*

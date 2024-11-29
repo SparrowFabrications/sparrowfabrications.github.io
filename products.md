@@ -35,9 +35,7 @@ description: A list of all the 3D printed products I make and the lomography cam
   - [Back Clips](holga-120-back-clips.md)
   - [Filter Adapter](holga-filter.md)
   - [Lens Cap](holga-120-lens-cap.md)
-  - Shutter Release Cable Adapters
-    - [Holga 120 Cameras (most models with an integrated tripod mount)](holga-120-adapter.md)
-    - [Holga 120S and 120SF (no integrated tripod mount)](holga-120s-adapter.md)
+  - [Shutter Release Cable Adapter](holga-120-v2-adapter.md)
 - Holga 135 Cameras
   - [Filter Adapter](holga-135-filter.md)
   - [Lens Cap](holga-135-lens-cap.md)

@@ -30,3 +30,8 @@ Tested with:
 ### Images
 {% include my-gallery.html imagesurl="images/lomoapparat-adapter"
    filenames="lomoapparat-adapter-1.jpg,lomoapparat-adapter-2.jpg,lomoapparat-adapter-3.jpg,lomoapparat-adapter-4.jpg,lomoapparat-adapter-5.jpg,lomoapparat-adapter-6.jpg,lomoapparat-adapter-7.jpg,lomoapparat-adapter-8.jpg,lomoapparat-adapter-9.jpg,shutter-release-cable.jpg" %}
+
+### Reviews
+>Thank you sparrowfabrications for this wonderful attachment, it turns the Apparat into an even better camera - the missing accessory has been found! The included lens cap also works a treat - well better than the original! The attachment itself and it's holding clip are extremely well thought out and effortless in use.
+>
+> *ebay Purchaser, Nov 2024*
