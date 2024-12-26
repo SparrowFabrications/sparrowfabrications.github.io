@@ -20,6 +20,8 @@ To use:
 3. Push adapter onto the camera.
 4. After use return the ISO dial to it's previous setting.
 
+Note, whilst the adapter is in use be careful handling the camera or you may spoil your photos by disturbing the adapter!
+
 ### Supported Cameras
 Tested with:
 - Belair X 6-12

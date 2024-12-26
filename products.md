@@ -14,6 +14,7 @@ description: A list of all the 3D printed products I make and the lomography cam
 ### Diana Cameras
 - Lomography Diana Baby 110 Cameras
   - [Lens Cap](diana-baby-110-lens-cap.md)
+  - [Shutter Release Cable Adapter](diana-baby-110-adapter.md)
 - Lomography Diana F+ and Diana+ Cameras
   - [Filter Adapter](diana-f+-filter.md)
   - [Lens Cap](diana-f+-lens-cap.md)

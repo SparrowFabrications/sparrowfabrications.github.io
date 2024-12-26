@@ -36,6 +36,8 @@ Note the upper and lower pieces of the adapter are purposefully snug so firmly p
 
 There is some variability in the diameter of the lens mountings across original Diana cameras and their clones. If it is too slack then electrical tape wound round the housing may help to remedy this.
 
+Note, whilst the adapter is in use be careful handling the camera or you may spoil your photos by disturbing the adapter!
+
 ### Supported Cameras
 Tested with:
 - Diana model No. 151

@@ -24,7 +24,7 @@ To use:
 7. After each exposure (Photo 10) use the handles on the side of the adapter to gently lift it away from the shutter button (Photo 11), you will hear the shutter button click to reset.
 8. After use set the exposure switch back to N again.
 
-Note if you use this be careful if handling the camera whilst the shutter is open or you may spoil your photos by disturbing the adapter!
+Note, whilst the adapter is in use be careful handling the camera or you may spoil your photos by disturbing the adapter!
 
 To remove:
 

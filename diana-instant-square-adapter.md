@@ -20,7 +20,8 @@ This uses a linear threaded nut to hold the shutter release cable so it is best 
 9. Set the Aperture switch to the desired setting.
 10. After use set the exposure switch back to N again.
 
-Note if you use this be careful if handling the camera whilst the shutter is open or you may spoil your photos by disturbing the adapter!
+Note, whilst the adapter is in use be careful handling the camera or you may spoil your photos by disturbing the adapter!
+
 
 To remove:
 
