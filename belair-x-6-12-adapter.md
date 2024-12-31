@@ -6,7 +6,7 @@ Lomography Belair X 6-12 Shutter Release Cable Adapter. Please note the cable re
 
 Designed by me from scratch to fit the Belair X 6-12 camera. It allows you to use a shutter release cable for beautiful long exposure pictures.
 
-This adapter is push fit, it fits snuggly on the side of the camera body. I make two versions of this, one for the standard Belair in black plastic, and one for the Jetsetter which comes in brown leather and metal. These adapters are different sizes!
+This adapter is push fit, it fits snuggly on the side of the camera body. I make two versions of this, one for the City Slicker which comes in black plastic, and one for the Jetsetter which comes in brown leather and metal. These adapters are different sizes! I have not had the opportunity to test one on the Globe-trotter or Trailblazer but I would guess the model I make for the Jetsetter would fit them.
 
 This adapter uses a linear threaded nut to hold the shutter release cable so it is best not to screw the cable in too tight unless you don’t plan on removing it again. Also, it is best to fit this cable before mounting the adapter on the camera.
 
@@ -24,10 +24,14 @@ Note, whilst the adapter is in use be careful handling the camera or you may spo
 
 ### Supported Cameras
 Tested with:
-- Belair X 6-12 (black plastic)
+- Belair X 6-12 City Slicker (black plastic)
 - Belair X 6-12 Jetsetter (brown leather and metal)
 
-### Standard in Black Plastic
+Should be compatible with:
+- Belair X 6-12 Globe-trotter (snake-style patterned leather and metal)
+- Belair X 6-12 Trailblazer (dark brown leather and metal)
+
+### City Slicker in Black Plastic
 
 #### Video
 <video src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_0498_ly68by.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
