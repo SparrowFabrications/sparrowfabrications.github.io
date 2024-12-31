@@ -6,7 +6,7 @@ A replacement lens cap for Sprocket Rocket cameras. Camera shown is not included
 
 There is an eyelet so you may attach a lens cap retention strap.
 
-Designed by me from scratch to fit the Lomography Sprocket Roacket cameras.
+Designed by me from scratch to fit the Lomography Sprocket Rocket cameras.
 
 ### Directions for use
 This is a push fit lens cap, simply press into place.

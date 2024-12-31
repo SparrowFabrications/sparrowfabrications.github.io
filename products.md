@@ -2,6 +2,7 @@
 description: A list of all the 3D printed products I make and the lomography cameras they work with.
 ---
 ## Products
+All of my shutter release cable adapters require a suitable shutter release cable. If you'd like to read more about these [I have some thoughts here](shutter-release-cable.md).
 
 ### Belair X 6-12 Cameras ###
 - [Filter Adapter](belair-x-6-12-filter.md)
