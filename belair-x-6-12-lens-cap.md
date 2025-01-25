@@ -13,7 +13,12 @@ This is a push fit lens cap, simply press into place.
 
 ### Supported Cameras
 Tested with:
-- Belair X 6-12
+- Belair X 6-12 City Slicker (black plastic)
+- Belair X 6-12 Jet Setter (brown leather and metal)
+
+Should be compatible with:
+- Belair X 6-12 Globe-trotter (snake-style patterned leather and metal)
+- Belair X 6-12 Trailblazer (dark brown leather and metal)
 
 ### Images
 {% include my-gallery.html imagesurl="images/belair-x-6-12-lens-cap"
