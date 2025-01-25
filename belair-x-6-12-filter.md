@@ -9,7 +9,7 @@ Designed by me from scratch to fit the Belair X 6-12 camera. This fits both of t
 ### Directions for use
 To use:
 
-1. Gently screw or push a 30mm step up ring into the front of the adapter.
+1. Gently screw or push a 37mm step up ring into the front of the adapter.
 2. Push the adapter onto the lens.
 3. Screw your favourite filter into the step up ring.
 
