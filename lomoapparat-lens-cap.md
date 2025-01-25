@@ -21,3 +21,9 @@ Tested with:
 ### Images
 {% include my-gallery.html imagesurl="images/lomoapparat-lens-cap"
    filenames="lomoapparat-lens-cap-1.jpg,lomoapparat-lens-cap-2.jpg,lomoapparat-lens-cap-3.jpg,lomoapparat-lens-cap-4.jpg,lomoapparat-lens-cap-5.jpg" %}
+
+#### Reviews
+
+>Thick, durable material and fits my LomoApparat perfectly! So glad I found this item after losing my original lens cap during my trip. Seller was responsive too when I inquired about international shipping.
+>
+> *eBay Purchaser, January 2025*

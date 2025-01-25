@@ -4,7 +4,7 @@ description: Lomography Belair X 6-12 Filter Adapter allows you to use filters i
 ## Belair X 6-12 Filter Adapter
 Belair X 6-12 Filter Adapter. Please note the step up ring and filter required are shown but not included. Camera shown is not included.
 
-Designed by me from scratch to fit the Belair X 6-12 camera. This fits both of the supplied lenses. Requires a 30mm step up ring [such as this one]({{ site.amazon_30mm_step_up_ring_url }}) to suit whatever filters you wish to use.
+Designed by me from scratch to fit the Belair X 6-12 camera. This fits both of the supplied lenses. Requires a 37mm step up ring to suit whatever filters you wish to use.
 
 ### Directions for use
 To use:

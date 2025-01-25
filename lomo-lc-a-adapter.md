@@ -2,7 +2,7 @@
 description: LOMO LC-A Release Cable Adapter allows you to use a shutter release cable for beautiful long exposure pictures.
 ---
 ## LOMO LC-A Shutter Release Cable Adapter
-LOMO LC-A Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included. Also, note the step up ring and filter required are shown but not included. Requires a 30mm step up ring [such as this one]({{ site.amazon_30mm_step_up_ring_url }}) to suit whatever filters you wish to use.
+LOMO LC-A Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included. Also, note the step up ring and filter required are shown but not included. Requires a 30mm step up ring to suit whatever filters you wish to use.
 
 Designed by me from scratch to fit the LOMO LC-A camera. It allows you to use a shutter release cable and filters.
 

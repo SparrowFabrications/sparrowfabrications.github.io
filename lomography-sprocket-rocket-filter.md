@@ -4,7 +4,7 @@ description: Lomography Sprocket Rocket Filter Adapter allows you to use filters
 ## Lomography Sprocket Rocket Filter Adapter
 Lomography Sprocket Rocket Filter Adapter. Please note the step up ring and filter required are shown but not included. Camera shown is not included.
 
-Designed by me from scratch to fit the Lomography Sprocket Rocket camera. Requires a 43mm step up ring [such as this one]({{ site.amazon_43mm_step_up_ring_url }}) to suit whatever filters you wish to use.
+Designed by me from scratch to fit the Lomography Sprocket Rocket camera. Requires a 43mm step up ring to suit whatever filters you wish to use.
 
 ### Directions for use
 To use:

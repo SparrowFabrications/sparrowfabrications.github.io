@@ -49,7 +49,7 @@ You can access the tripod socket through the tripod mount on the bottom of the a
 Can be used in three ways:
 
 1. If your tripod bolt is a sensible length it will pass through the port on the bottom of the adapter and engage with the socket.
-2. You can remove the tripod mount for flush mounting with the tripod.
+2. You can remove the tripod mount for flush mounting with a tripod (not included).
 3. You can use a thumbscrew (not included) to keep the adapter in place and attach it to a tripod.
 
 #### Video

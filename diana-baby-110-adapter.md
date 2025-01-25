@@ -4,7 +4,7 @@ description: Lomography Diana Baby 110Shutter Release Cable Adapter allows you t
 ## Lomography Diana Baby 110 Shutter Release Cable Adapter
 Lomography Diana Baby 110 Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included.
 
-Designed by me from scratch to fit the Diana Baby 110 camera. It allows you to use a shutter release cable for beautiful long exposure pictures. This is intended to be used with a tripod to secure the adpater in place. It has an integrated tripod mount to allow you to seat the camera on a tripod.
+Designed by me from scratch to fit the Diana Baby 110 camera. It allows you to use a shutter release cable for beautiful long exposure pictures. This is intended to be used with a tripod to secure the adapter in place. It has an integrated tripod mount to allow you to seat the camera on a tripod.
 
 This uses a linear threaded nut to hold the shutter release cable so it is best not to screw the cable in too tight unless you don’t plan on removing it again.
 
@@ -12,7 +12,7 @@ This uses a linear threaded nut to hold the shutter release cable so it is best 
 To use:
 
 1. Set the exposure switch to B.
-2. Gently push the adapter over the lens on the camera until it touches the camera body with no gaps.
+2. With the lens mounted on the camera gently push the adapter over the lens until it touches the camera body with no gaps. This was designed around the 24mm lens, using other lenses such as the 12mm lens for example may require a little more force.
 3. Screw release cable into the adapter as shown.
 4. After use set the exposure switch back to N again.
 
