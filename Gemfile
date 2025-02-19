@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 gem 'nokogiri'
-gem 'rack', '~> 2.2.8'
+gem 'rack', '~> 2.2.11'
 gem 'rspec'
 gem "github-pages", group: :jekyll_plugins
 gem 'jekyll-sitemap'
