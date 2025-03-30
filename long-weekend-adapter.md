@@ -24,7 +24,6 @@ To use with a filter:
 
 1. Gently screw or push a 30mm step up ring into the front of the adapter.
 2. Push adapter onto the camera as shown.
-3. Insert the adapter retainer into the flash bar and click it down into the adapter.
 
 ### Supported Cameras
 Tested with:
