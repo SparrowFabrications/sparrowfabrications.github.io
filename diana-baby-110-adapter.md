@@ -28,6 +28,9 @@ To remove:
 Tested with:
 - Lomography Diana Baby 110
 
+### Video
+<video src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_y8vvlz.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+
 ### Images
 {% include my-gallery.html imagesurl="images/diana-baby-110-adapter"
    filenames="diana-baby-110-adapter-1.jpg,diana-baby-110-adapter-2.jpg,diana-baby-110-adapter-3.jpg,diana-baby-110-adapter-4.jpg,diana-baby-110-adapter-5.jpg,diana-baby-110-adapter-6.jpg,diana-baby-110-adapter-7.jpg,shutter-release-cable.jpg" %}

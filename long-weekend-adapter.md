@@ -29,6 +29,9 @@ To use with a filter:
 Tested with:
 - Long Weekend
 
+### Video
+<video src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_qmvspg.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+
 ### Images
 {% include my-gallery.html imagesurl="images/long-weekend-adapter"
    filenames="long-weekend-adapter-1.jpg,long-weekend-adapter-2.jpg,long-weekend-adapter-3.jpg,long-weekend-adapter-4.jpg,long-weekend-adapter-5.jpg,long-weekend-adapter-6.jpg,long-weekend-adapter-7.jpg,shutter-release-cable.jpg,step-up-ring.jpg,thumb-screw.jpg" %}
