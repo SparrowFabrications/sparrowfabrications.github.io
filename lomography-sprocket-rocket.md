@@ -8,7 +8,7 @@ Designed by me from scratch to fit the Lomography Sprocket Rocket camera. It all
 
 This uses a linear threaded nut to hold the shutter release cable so it is best not to screw the cable in too tight unless you don’t plan on removing it again.
 
-Please note the clip used to give the adapter extra rigidity should you need it . It is secured in place using the 1/4 inch screw that comes with the camera or a tripod screw. Unfortunately, many tripod screws are ridiculously short. If you want to use this clip with a tripod it requires the tripod’s mounting screw to have a usable length of at least 6.5mm / 1/4 of an inch or more.
+Please note the clip used to give the adapter extra rigidity should you need it. It is secured in place using the 1/4 inch screw that comes with the camera or a tripod screw. Unfortunately, many tripod screws are ridiculously short. If you want to use this clip with a tripod it requires the tripod’s mounting screw to have a usable length of at least 6.5mm / 1/4 of an inch or more.
 
 If you need to use the clip and your tripod has a short screw you can either source a longer one or use a 1/4 inch male to 1/4 inch female thumb screw adapter. These are readily available on market places such as Amazon and eBay. Please contact me for help if you need it.
 

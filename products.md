@@ -54,6 +54,9 @@ All of my shutter release cable adapters require a suitable shutter release cabl
 - [LomoApparat Shutter Release Cable Adapter](lomoapparat-adapter.md)
 - [LomoApparat Lens Cap](lomoapparat-lens-cap.md)
 
+### Long Weekend cameras
+- [Long Weekend Shutter Release Cable Adapter](long-weekend-adapter.md)
+
 ### Sprocket Rocket Cameras
 - [Sprocket Rocket Filter Adapter](lomography-sprocket-rocket-filter.md)
 - [Sprocket Rocket Lens Cap](lomography-sprocket-rocket-lens-cap.md)
@@ -90,6 +93,7 @@ I make and sell a variety of products for the following cameras:
   - Holga 135FC
 - [LOMO LC-A 35mm film camera](http://camera-wiki.org/wiki/LOMO_LC-A)
 - [LomoApparat 35mm film camera](http://camera-wiki.org/wiki/LomoApparat)
+- [Long Weekend camera](https://www.longweekendbrand.com/)
 - [Sprocket Rocket 35mm film camera](http://camera-wiki.org/wiki/Lomographic_Sprocket_Rocket), including these models
   - Sprocket Rocket Version 1.0
   - Sprocket Rocket Version 2.0
