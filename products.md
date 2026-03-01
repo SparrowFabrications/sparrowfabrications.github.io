@@ -5,6 +5,7 @@ description: A list of all the 3D printed products I make and the lomography cam
 All of my shutter release cable adapters require a suitable shutter release cable. If you'd like to read more about these [I have some thoughts here](shutter-release-cable.md).
 
 ### Belair X 6-12 Cameras ###
+- [Body Cap](belair-x-6-12-body-cap.md)
 - [Filter Adapter](belair-x-6-12-filter.md)
 - [Lens Cap](belair-x-6-12-lens-cap.md)
 - [Shutter Release Cable Adapter](belair-x-6-12-adapter.md)
