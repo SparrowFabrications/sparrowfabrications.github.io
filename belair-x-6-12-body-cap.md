@@ -7,7 +7,7 @@ A replacement body cap for Belair X 6-12 cameras. Camera shown is not included.
 Designed by me from scratch to fit the Belair X 6-12 camera.
 
 ### Directions for use
-This is a push and twist fit lenbodys cap, simply align the indicators, press gently into place and twist clockwise. Reverse this to remove.
+This is a push and twist fit body cap, simply align the indicators, press gently into place and twist clockwise. Reverse this to remove.
 
 ### Supported Cameras
 Tested with:
