@@ -40,6 +40,6 @@ Then serve:
 
 From time to time it is worth doing:
 
-    bundle Update
+    bundle update
 
 Then committing any changes to Gemfile.lock .
