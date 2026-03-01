@@ -1,5 +1,5 @@
 ---
-description: Replacement lens cap for the Lomography Belair X 6-12 Filter Adapter.
+description: Replacement lens cap for the Lomography Belair X 6-12.
 ---
 ## Belair X 6-12 Lens Cap
 A replacement lens cap for Belair X 6-12 cameras. Camera shown is not included.
