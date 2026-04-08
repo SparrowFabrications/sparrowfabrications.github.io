@@ -51,7 +51,7 @@ All of my shutter release cable adapters require a suitable shutter release cabl
 ### LOMO LC-A Cameras
 - [LOMO LC-A Shutter Release Cable Adapter](lomo-lc-a-adapter.md)
 
-### LomoApparat Camaeras
+### LomoApparat Cameras
 - [LomoApparat Shutter Release Cable Adapter](lomoapparat-adapter.md)
 - [LomoApparat Lens Cap](lomoapparat-lens-cap.md)
 
