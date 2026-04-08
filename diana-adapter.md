@@ -47,9 +47,9 @@ Should be compatible with:
 
 It is not compatible with the Lomography range of new Diana models such as the Diana+, Diana F+, Diana Instant Square, Diana Baby or Diana Mini.
 
-### Video
+### Installation Video
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_9968_bcyjdj.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
-### Images
+### Product Images
 {% include my-gallery.html imagesurl="images/diana-adapter"
    filenames="diana-adapter-1.jpg,diana-adapter-2.jpg,diana-adapter-3.jpg,diana-adapter-4.jpg,diana-adapter-5.jpg,diana-adapter-6.jpg,diana-adapter-7.jpg,diana-adapter-8.jpg,diana-adapter-9.jpg,diana-adapter-10.jpg,diana-adapter-11.jpg,shutter-release-cable.jpg" %}

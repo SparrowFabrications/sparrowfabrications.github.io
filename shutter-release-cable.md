@@ -59,7 +59,7 @@ These are the main problems I have encountered with these cables.
 
 #### 1. Wear on threads at the pin end
 
-Some cables use softer metal in the threaded housing. Over time means the threads fail to bite, rendering the cable useless. This isn't particularly a problem if the cable is inexpensive.
+Some cables use softer metal in the threaded housing. Over time, the threads fail to bite, rendering the cable useless. This isn't particularly a problem if the cable is inexpensive.
 
 ![Closeup showing wear to the end of one of my cables.](/images/shutter-release-cable/src-6.jpg)
 *Closeup showing wear to the end of one of my cables.*

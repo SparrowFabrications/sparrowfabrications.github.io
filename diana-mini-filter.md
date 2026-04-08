@@ -19,9 +19,9 @@ Tested with:
 
 It is not compatible with the Lomography Diana F+, Diana+, Vintage Diana (1960s) and Clone Cameras, Lomography Diana Instant Square or Diana Baby.
 
-### Video
+### Installation Video
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_yad7eb.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
-### Images
+### Product Images
 {% include my-gallery.html imagesurl="images/diana-mini-filter"
    filenames="diana-mini-filter-1.jpg,diana-mini-filter-2.jpg,diana-mini-filter-3.jpg,diana-mini-filter-4.jpg,diana-mini-filter-5.jpg,diana-mini-filter-6.jpg" %}

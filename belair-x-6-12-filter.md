@@ -22,9 +22,9 @@ Should be compatible with:
 - Belair X 6-12 Globe-trotter (snake-style patterned leather and metal)
 - Belair X 6-12 Trailblazer (dark brown leather and metal)
 
-### Video
+### Installation Video
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_g4hhiz.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
-### Images
+### Product Images
 {% include my-gallery.html imagesurl="images/belair-x-6-12-filter"
    filenames="belair-x-6-12-filter-1.jpg,belair-x-6-12-filter-2.jpg,belair-x-6-12-filter-3.jpg,belair-x-6-12-filter-4.jpg,belair-x-6-12-filter-5.jpg,belair-x-6-12-filter-6.jpg" %}

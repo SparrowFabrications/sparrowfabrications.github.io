@@ -43,10 +43,10 @@ Should be compatible with:
 
 It is not compatible with vintage Diana (1960s) and associated clone cameras from the period, the Lomography Diana Instant Square, Diana Baby or Diana Mini.
 
-### Video
+### Installation Video
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_7973_2_gxfuap.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
-### Images
+### Product Images
 {% include my-gallery.html imagesurl="images/diana-f+-adapter"
    filenames="diana-f+-adapter-1.jpg,diana-f+-adapter-2.jpg,diana-f+-adapter-3.jpg,diana-f+-adapter-4.jpg,diana-f+-adapter-5.jpg,diana-f+-adapter-6.jpg,diana-f+-adapter-7.jpg,diana-f+-adapter-8.jpg,diana-f+-adapter-9.jpg,diana-f+-adapter-10.jpg,diana-f+-adapter-11.jpg,shutter-release-cable.jpg" %}
 

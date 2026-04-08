@@ -24,10 +24,10 @@ Should be compatible with:
 
 It is not compatible with the Lomography Diana Instant Square, Diana Baby or Diana Mini.
 
-### Video
+### Installation Video
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_lwbbb1.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
-### Images
+### Product Images
 {% include my-gallery.html imagesurl="images/diana-f+-filter"
    filenames="diana-f+-filter-1.jpg,diana-f+-filter-2.jpg,diana-f+-filter-3.jpg,diana-f+-filter-4.jpg,diana-f+-filter-5.jpg,diana-f+-filter-6.jpg" %}
 

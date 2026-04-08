@@ -18,6 +18,6 @@ Should be compatible with:
 - Belair X 6-12 Jet Setter (brown leather and metal)
 - Belair X 6-12 Trailblazer (dark brown leather and metal)
 
-### Images
+### Product Images
 {% include my-gallery.html imagesurl="images/belair-x-6-12-body-cap"
    filenames="belair-x-6-12-body-cap-1.jpg,belair-x-6-12-body-cap-2.jpg,belair-x-6-12-body-cap-3.jpg,belair-x-6-12-body-cap-4.jpg,belair-x-6-12-body-cap-5.jpg" %}

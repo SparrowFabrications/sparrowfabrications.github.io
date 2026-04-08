@@ -1,7 +1,7 @@
 ---
 description: Products from Sparrow Fabrications can be purchased directly from me, or from ebay and Etsy.
 ---
-## Puchasing
+## Purchasing
 If you are in the UK and would like to save me the platform fees you can purchase directly from me using PayPal, please contact me first via email at **{{ site.email_address }}**.
 
 Alternatively you can purchase via:

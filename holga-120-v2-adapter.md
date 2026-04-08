@@ -52,10 +52,10 @@ Can be used in three ways:
 2. You can remove the tripod mount for flush mounting with a tripod (not included).
 3. You can use a thumbscrew (not included) to keep the adapter in place and attach it to a tripod.
 
-#### Video
+#### Installation Video
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_4373_2_aa3tra.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
-#### Images
+#### Product Images
 {% include my-gallery.html imagesurl="images/holga-120-adapter-v2"
    filenames="holga-120-adapter-1.jpg,holga-120-adapter-2.jpg,shutter-button-extender.jpg,holga-120-adapter-3.jpg,holga-120-adapter-4.jpg,holga-120-adapter-7.jpg,holga-120-adapter-8.jpg,holga-120-adapter-5.jpg,holga-120-adapter-6.jpg,holga-120-adapter-11.jpg,holga-120-adapter-9.jpg,holga-120-adapter-10.jpg,shutter-release-cable.jpg,thumb-screw.jpg" %}
 
@@ -79,9 +79,9 @@ Can be used in three ways:
 ### Cameras without an integrated tripod mount
 This adapter can be attached to any tripod that has a standard UNC 1/4 inch bolt.
 
-#### Video
+#### Installation Video
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_3667_oukpna.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
-#### Images
+#### Product Images
 {% include my-gallery.html imagesurl="images/holga-120s-adapter"
    filenames="holga-120s-adapter-1.jpg,holga-120s-adapter-2.jpg,holga-120s-adapter-3.jpg,holga-120s-adapter-4.jpg,holga-120s-adapter-5.jpg,holga-120s-adapter-6.jpg,holga-120s-adapter-7.jpg,holga-120s-adapter-81.jpg,shutter-release-cable.jpg" %}

@@ -20,6 +20,6 @@ Should be compatible with:
 - Belair X 6-12 Globe-trotter (snake-style patterned leather and metal)
 - Belair X 6-12 Trailblazer (dark brown leather and metal)
 
-### Images
+### Product Images
 {% include my-gallery.html imagesurl="images/belair-x-6-12-lens-cap"
    filenames="belair-x-6-12-lens-cap-1.jpg,belair-x-6-12-lens-cap-2.jpg,belair-x-6-12-lens-cap-3.jpg,belair-x-6-12-lens-cap-4.jpg,belair-x-6-12-lens-cap-5.jpg" %}
