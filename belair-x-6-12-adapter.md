@@ -34,7 +34,7 @@ Should be compatible with:
 ### City Slicker in Black Plastic
 
 #### Video
-<video src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_0498_ly68by.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+<video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_0498_ly68by.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 #### Images
 {% include my-gallery.html imagesurl="images/belair-x-6-12-adapter"
@@ -43,7 +43,7 @@ Should be compatible with:
 ### Jetsetter in Brown Leather and Metal
 
 #### Video
-<video src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_4237_bb9qsa.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+<video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_4237_bb9qsa.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 #### Images
 {% include my-gallery.html imagesurl="images/belair-x-6-12-adapter-jetsetter"

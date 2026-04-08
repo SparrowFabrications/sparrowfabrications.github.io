@@ -53,7 +53,7 @@ Can be used in three ways:
 3. You can use a thumbscrew (not included) to keep the adapter in place and attach it to a tripod.
 
 #### Video
-<video src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_4373_2_aa3tra.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+<video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_4373_2_aa3tra.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 #### Images
 {% include my-gallery.html imagesurl="images/holga-120-adapter-v2"
@@ -80,7 +80,7 @@ Can be used in three ways:
 This adapter can be attached to any tripod that has a standard UNC 1/4 inch bolt.
 
 #### Video
-<video src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_3667_oukpna.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+<video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_3667_oukpna.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 #### Images
 {% include my-gallery.html imagesurl="images/holga-120s-adapter"

@@ -31,7 +31,7 @@ Tested with:
 It is not compatible with the LC-A+ or 120 models.
 
 ### Video
-<video src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_3217_kr46v0.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+<video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_3217_kr46v0.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Images
 {% include my-gallery.html imagesurl="images/lomo-lc-a-adapter"

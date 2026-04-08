@@ -44,7 +44,7 @@ Should be compatible with:
 It is not compatible with vintage Diana (1960s) and associated clone cameras from the period, the Lomography Diana Instant Square, Diana Baby or Diana Mini.
 
 ### Video
-<video src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_7973_2_gxfuap.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+<video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_7973_2_gxfuap.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Images
 {% include my-gallery.html imagesurl="images/diana-f+-adapter"

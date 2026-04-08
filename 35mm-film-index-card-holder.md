@@ -15,7 +15,7 @@ Simply attach this index card holder to your camera. Then tear off the end of th
 Suitable for cameras shooting 35mm film but could fit any suitable camera and film box.
 
 ### Video
-<video src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_0485_y2bnzt.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+<video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_0485_y2bnzt.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Images
 {% include my-gallery.html imagesurl="images/35mm-film-index-card-holder"
