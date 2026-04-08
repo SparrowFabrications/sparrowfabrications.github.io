@@ -26,4 +26,4 @@ Tested with:
 
 >Thick, durable material and fits my LomoApparat perfectly! So glad I found this item after losing my original lens cap during my trip. Seller was responsive too when I inquired about international shipping.
 >
-> *eBay Purchaser, January 2025*
+> *ebay Purchaser, January 2025*

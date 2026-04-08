@@ -16,7 +16,7 @@ To use:
 ### Supported Cameras
 Tested with:
 - Belair X 6-12 City Slicker (black plastic)
-- Belair X 6-12 Jet Setter (brown leather and metal)
+- Belair X 6-12 Jetsetter (brown leather and metal)
 
 Should be compatible with:
 - Belair X 6-12 Globe-trotter (snake-style patterned leather and metal)

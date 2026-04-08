@@ -10,12 +10,12 @@ This adapter is push fit, it fits snuggly over and around the lens.
 
 This adapter uses a linear threaded nut to hold the shutter release cable so it is best not to screw the cable in too tight unless you don’t plan on removing it again.
 
-Please note you can secure this adapter in place using a thumb screw adapter or by mounting it on a tripod. Unfortunately, many tripod screws are ridiculously short. If your tripod has a short screw you can either source a longer one or use a 1/4 inch male to 1/4 inch female thumb screw adapter. These are readily available on market places such as Amazon and eBay. Please contact me for help if you need it.
+Please note you can secure this adapter in place using a thumb screw adapter or by mounting it on a tripod. Unfortunately, many tripod screws are ridiculously short. If your tripod has a short screw you can either source a longer one or use a 1/4 inch male to 1/4 inch female thumb screw adapter. These are readily available on market places such as Amazon and ebay. Please contact me for help if you need it.
 
 ### Directions for use
 To use with a cable:
 
-1. Attached the cable anchor to the adapter.
+1. Attach the cable anchor to the adapter.
 2. Screw release cable into the adapter through the top as shown.
 3. Push adapter onto the camera as shown starting with the bottom edge.
 4. Optionally secure the adapter with a thumb screw or a tripod.

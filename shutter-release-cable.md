@@ -40,7 +40,7 @@ Depress the plunger and it will lock in place until you press the locking disc d
 Which you use is personal preference, I have both.
 
 ### Construction
-Mechanical shutter release cables are typically consist of the following:
+Mechanical shutter release cables typically consist of the following:
 
 - a small helically wound compression spring with a plunger at one end and a steel pin at the other - this transmits the force applied by the operator
 - an inner sheath consisting of a helically wound extension spring
@@ -77,7 +77,7 @@ Some cables may expand slightly when a force is applied to the plunger. You can 
 
 #### 4. Force spring is not very strong
 
-The force spring may compress under tension which means rather than transmitting all of the force applied ot the plunger it stores some of it whilst under tension. This reduces the force applied by action of the plunger and reduces the distance the pin travels.
+The force spring may compress under tension which means rather than transmitting all of the force applied to the plunger it stores some of it whilst under tension. This reduces the force applied by action of the plunger and reduces the distance the pin travels.
 
 #### 5. Sticking cables
 
@@ -86,7 +86,7 @@ Due to wear and tear related to the above problems cables may not release correc
 The latter four issues tend to occur more frequently on longer cables in my experience.
 
 ### Solutions
-The only solutions I have to these issues are to replace cheaper cables moire often, or buy more expensive cables.
+The only solutions I have to these issues are to replace cheaper cables more often, or buy more expensive cables.
 
 ### What cables do you use?
 

@@ -20,7 +20,7 @@ To use:
 3. Gently push the cable anchor section of the adapter off the adapter body.
 4. Screw release cable into the cable anchor through the top (Photo 6).
 5. Push the cable anchor into the adapter (Photo 7).
-6. Gently push the adapter down onto the camera (Photo 8) ensuring the right hand support arm sits below the apperture switch on the lower lens (Photo 9).
+6. Gently push the adapter down onto the camera (Photo 8) ensuring the right hand support arm sits below the aperture switch on the lower lens (Photo 9).
 7. After each exposure (Photo 10) use the handles on the side of the adapter to gently lift it away from the shutter button (Photo 11), you will hear the shutter button click to reset.
 8. After use set the exposure switch back to N again.
 

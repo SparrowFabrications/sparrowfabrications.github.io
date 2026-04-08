@@ -16,7 +16,7 @@ To use:
 ### Supported Cameras
 Tested with:
 - Lomography Diana F+
-- Vintahe Diana (1960s)
+- Vintage Diana (1960s)
 
 Should be compatible with:
 - Lomography Diana+

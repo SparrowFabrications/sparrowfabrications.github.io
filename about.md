@@ -16,7 +16,7 @@ Even his photo of his setup is beautiful!
 
 ![The setup for my cousin's photo](images/tripod.jpg)
 
-## Website
+### Website
 
 All content remains the copyright of Sparrow Fabrications and must not be used without permission.
 

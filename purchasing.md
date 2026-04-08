@@ -1,17 +1,17 @@
 ---
-description: Products from Sparrow Fabrications can be purchased directly from me, or from eBay and Etsy.
+description: Products from Sparrow Fabrications can be purchased directly from me, or from ebay and Etsy.
 ---
-## Where to buy?
+## Puchasing
 If you are in the UK and would like to save me the platform fees you can purchase directly from me using PayPal, please contact me first via email at **{{ site.email_address }}**.
 
 Alternatively you can purchase via:
 
-- [eBay UK]({{ site.ebay_uk_url }}) or [eBay US]({{ site.ebay_us_url}}), and
+- [ebay UK]({{ site.ebay_uk_url }}) or [ebay US]({{ site.ebay_us_url}}), and
 - [Etsy]({{ site.etsy_url }}).
 
-Please note that eBay charges a shipping cost per item and where multiple items are purchased I refund excess postage after tax and fees.
+Please note that ebay charges a shipping cost per item and where multiple items are purchased I refund excess postage after tax and fees.
 
-## What about shipping?
+### What about shipping?
 I use Royal Mail for domestic and international shipping. Royal Mail is very competitive internationally as they own their own aircraft then hand off to local shipping partners in the destination country.
 
 I do not profit from shipping and merely cover my costs.

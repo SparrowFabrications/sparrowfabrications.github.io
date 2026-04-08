@@ -1,5 +1,5 @@
 ---
-description: Lomography Diana Baby 110Shutter Release Cable Adapter allows you to use a shutter release cable for beautiful long exposure pictures.
+description: Lomography Diana Baby 110 Shutter Release Cable Adapter allows you to use a shutter release cable for beautiful long exposure pictures.
 ---
 ## Lomography Diana Baby 110 Shutter Release Cable Adapter
 Lomography Diana Baby 110 Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included.

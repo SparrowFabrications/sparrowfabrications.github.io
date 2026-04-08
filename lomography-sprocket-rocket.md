@@ -2,7 +2,7 @@
 description: Lomography Sprocket Rocket Shutter Release Cable Adapter allows you to use a shutter release cable for beautiful long exposure pictures.
 ---
 ## Lomography Sprocket Rocket Shutter Release Cable Adapter
-Lomography Sprocket Rocket Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url}}). Camera shown is not included.
+Lomography Sprocket Rocket Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included.
 
 Designed by me from scratch to fit the Lomography Sprocket Rocket camera. It allows you to use a shutter release cable for beautiful long exposure pictures or selfies.
 
@@ -10,7 +10,7 @@ This uses a linear threaded nut to hold the shutter release cable so it is best 
 
 Please note the clip used to give the adapter extra rigidity should you need it. It is secured in place using the 1/4 inch screw that comes with the camera or a tripod screw. Unfortunately, many tripod screws are ridiculously short. If you want to use this clip with a tripod it requires the tripod’s mounting screw to have a usable length of at least 6.5mm / 1/4 of an inch or more.
 
-If you need to use the clip and your tripod has a short screw you can either source a longer one or use a 1/4 inch male to 1/4 inch female thumb screw adapter. These are readily available on market places such as Amazon and eBay. Please contact me for help if you need it.
+If you need to use the clip and your tripod has a short screw you can either source a longer one or use a 1/4 inch male to 1/4 inch female thumb screw adapter. These are readily available on market places such as Amazon and ebay. Please contact me for help if you need it.
 
 ### Directions for use
 To use:

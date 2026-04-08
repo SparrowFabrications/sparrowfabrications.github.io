@@ -4,16 +4,16 @@ description: A list of all the 3D printed products I make and the lomography cam
 ## Products
 All of my shutter release cable adapters require a suitable shutter release cable. If you'd like to read more about these [I have some thoughts here](shutter-release-cable.md).
 
-### Belair X 6-12 Cameras ###
+#### Belair X 6-12 Cameras ###
 - [Body Cap](belair-x-6-12-body-cap.md)
 - [Filter Adapter](belair-x-6-12-filter.md)
 - [Lens Cap](belair-x-6-12-lens-cap.md)
 - [Shutter Release Cable Adapter](belair-x-6-12-adapter.md)
 
-### Blackbird, fly Cameras ###
+#### Blackbird, fly Cameras ###
 - [Blackbird, fly Shutter Release Cable Adapter](blackbird-fly-adapter.md)
 
-### Diana Cameras
+#### Diana Cameras
 - Lomography Diana Baby 110 Cameras
   - [Lens Cap](diana-baby-110-lens-cap.md)
   - [Shutter Release Cable Adapter](diana-baby-110-adapter.md)
@@ -33,7 +33,7 @@ All of my shutter release cable adapters require a suitable shutter release cabl
   - [Lens Cap](diana-f+-lens-cap.md)
   - [Shutter Release Cable Adapter](diana-adapter.md)
 
-### Holga Cameras
+#### Holga Cameras
 - Holga 120 Cameras
   - [Back Clips](holga-120-back-clips.md)
   - [Filter Adapter](holga-filter.md)
@@ -43,22 +43,22 @@ All of my shutter release cable adapters require a suitable shutter release cabl
   - [Filter Adapter](holga-135-filter.md)
   - [Lens Cap](holga-135-lens-cap.md)
 
-### Index Card Holders
+#### Index Card Holders
 - Index Card / Memo Holder for Film, Type & Format; always remember what film you are shooting!
   - [120 Format Film Index Card Holder](120-film-index-card-holder.md)
   - [35mm Film Index Card Holder](35mm-film-index-card-holder.md)
 
-### LOMO LC-A Cameras
+#### LOMO LC-A Cameras
 - [LOMO LC-A Shutter Release Cable Adapter](lomo-lc-a-adapter.md)
 
-### LomoApparat Cameras
+#### LomoApparat Cameras
 - [LomoApparat Shutter Release Cable Adapter](lomoapparat-adapter.md)
 - [LomoApparat Lens Cap](lomoapparat-lens-cap.md)
 
-### Long Weekend cameras
+#### Long Weekend cameras
 - [Long Weekend Shutter Release Cable Adapter](long-weekend-adapter.md)
 
-### Sprocket Rocket Cameras
+#### Sprocket Rocket Cameras
 - [Sprocket Rocket Filter Adapter](lomography-sprocket-rocket-filter.md)
 - [Sprocket Rocket Lens Cap](lomography-sprocket-rocket-lens-cap.md)
 - [Sprocket Rocket Shutter Release Cable Adapter](lomography-sprocket-rocket.md)

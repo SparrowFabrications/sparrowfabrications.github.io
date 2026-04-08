@@ -13,7 +13,7 @@ This adapter uses a linear threaded nut to hold the shutter release cable so it 
 ### Directions for use
 To use with a cable:
 
-1. Attached the cable anchor to the adapter.
+1. Attach the cable anchor to the adapter.
 2. Screw release cable into the adapter through the top as shown.
 3. Push adapter onto the camera as shown starting with the bottom edge.
 4. Slide the adapter retainer into the flash hot shoe and click it down into the adapter.
