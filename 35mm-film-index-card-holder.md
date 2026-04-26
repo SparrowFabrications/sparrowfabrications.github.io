@@ -1,5 +1,7 @@
 ---
-description: Index Card Holder for 35mm film boxes to remind you what film, type and format you are shooting. Never forget what film you are shooting again!
+title: "35mm Film Index Card Holder | 3D Printed UK"
+description: "3D printed index card holder for 35mm film cameras. Attach to your camera and never forget what film you are shooting. Made in the UK by Sparrow Fabrications."
+product_schema: true
 ---
 ## Index Card Holder for 35mm Film
 Index Card Holder to remind you what 35mm film, type and format you are shooting. Never forget what film you are shooting again!
@@ -18,10 +20,13 @@ Suitable for cameras shooting 35mm film but could fit any suitable camera and fi
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_0485_y2bnzt.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Product Images
-{% include my-gallery.html imagesurl="images/35mm-film-index-card-holder"
+{% include my-gallery.html imagesurl="images/35mm-film-index-card-holder" alt="35mm film index card holder attached to camera"
    filenames="index-card-holder-1.jpg,index-card-holder-2.jpg,index-card-holder-3.jpg,index-card-holder-4.jpg" %}
 
 ### Reviews
 > Simple, straightforward and once found on the back of every film camera. Simple concept -stick it onto the camera, tear off the top of the film carton and slide it in and you stand a fair chance of remembering what stock is in which body. Now very hard to find a robust version. This certainly meets that spec and is genuinely useful. Recommended.
 >
 > *Etsy Purchaser, Dec 2023*
+
+### Also available
+- [120 Format Film Index Card Holder](120-film-index-card-holder.md)

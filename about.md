@@ -1,5 +1,6 @@
 ---
-description: Describes why I started Sparrow Fabrications, thanks to my cousin asking if I could make something for his camera.
+title: "About Sparrow Fabrications | UK 3D Printed Camera Accessories"
+description: "The story behind Sparrow Fabrications — UK maker of 3D printed accessories for lomography cameras including the Holga, Diana and more."
 ---
 ## About Sparrow Fabrications
 Sparrow Fabrications started by accident.
@@ -8,7 +9,7 @@ I am a photography and camera enthusiast in the United Kingdom. I happened to ha
 
 When my cousin asked me to design a cable adapter for his [Holga](https://en.wikipedia.org/wiki/Holga), I couldn't have predicted I would end up producing a range of products for other camera enthusiasts all over the world, or see beautiful photos people have taken with them.
 
-This is one from my cousin using [this Holga 120 adapter](holga-120-adapter.md). More of his work is available on [his Holga photography page](https://josephasghar.com/holga/).
+This is one from my cousin using [this Holga 120 adapter](holga-120-v2-adapter.md). More of his work is available on [his Holga photography page](https://josephasghar.com/holga/).
 
 ![A picture from my cousin taken with a 6 minute exposure](images/beach.jpg)
 

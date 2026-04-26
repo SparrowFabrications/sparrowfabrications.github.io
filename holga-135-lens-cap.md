@@ -1,5 +1,7 @@
 ---
-description: A replacement lens cap for Holga 135 cameras.
+title: "Holga 135 Replacement Lens Cap | 3D Printed UK"
+description: "3D printed replacement lens cap for Holga 135 cameras. Fits Holga 135, 135BC and 135FC. Includes eyelet for a lens cap retention strap. Made in the UK by Sparrow Fabrications."
+product_schema: true
 ---
 ## Holga 135 Replacement Lens Cap
 A replacement lens cap for Holga 135 cameras. Camera shown is not included.
@@ -25,5 +27,8 @@ Not compatible with the 35 or 120 models.
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_e7k0pl.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Product Images
-{% include my-gallery.html imagesurl="images/holga-135-lens-cap"
+{% include my-gallery.html imagesurl="images/holga-135-lens-cap" alt="Holga 135 replacement lens cap"
    filenames="holga-135-lens-cap-1.jpg,holga-135-lens-cap-2.jpg,holga-135-lens-cap-3.jpg,holga-135-lens-cap-4.jpg,holga-135-lens-cap-5.jpg" %}
+
+### Also available for the Holga 135
+- [Filter Adapter](holga-135-filter.md)

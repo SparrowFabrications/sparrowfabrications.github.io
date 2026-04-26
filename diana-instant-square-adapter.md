@@ -1,5 +1,7 @@
 ---
-description: Lomography Diana Instant Square Release Cable Adapter allows you to use a shutter release cable for beautiful long exposure pictures.
+title: "Diana Instant Square Shutter Release Cable Adapter | 3D Printed UK"
+description: "3D printed shutter release cable adapter for the Lomography Diana Instant Square Instax camera. Enables long exposure photography and selfies. Made in the UK by Sparrow Fabrications."
+product_schema: true
 ---
 ## Lomography Diana Instant Square Shutter Release Cable Adapter
 Lomography Diana Instant Square Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included.
@@ -43,10 +45,14 @@ It is not compatible with the vintage Diana (1960s) and clone cameras from the p
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_5133_2_ecphm8.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Product Images
-{% include my-gallery.html imagesurl="images/diana-instant-square-adapter"
+{% include my-gallery.html imagesurl="images/diana-instant-square-adapter" alt="Diana Instant Square shutter release cable adapter"
    filenames="diana-instant-square-adapter-1.jpg,diana-instant-square-adapter-2.jpg,diana-instant-square-adapter-3.jpg,diana-instant-square-adapter-4.jpg,diana-instant-square-adapter-5.jpg,diana-instant-square-adapter-6.jpg,diana-instant-square-adapter-7.jpg,diana-instant-square-adapter-8.jpg,diana-instant-square-adapter-9.jpg,diana-instant-square-adapter-10.jpg,diana-instant-square-adapter-11.jpg,shutter-release-cable.jpg" %}
 
 ### Reviews
 > This is a must have accessory for the Diana instant, and is well made.
 >
 > *Etsy Purchaser, Nov 2023*
+
+### Also available for the Diana Instant Square
+- [Filter Adapter](diana-instant-square-filter.md)
+- [Lens Cap](diana-instant-square-lens-cap.md)

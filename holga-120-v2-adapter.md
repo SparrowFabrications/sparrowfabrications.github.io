@@ -1,5 +1,7 @@
 ---
-description: Holga 120 Shutter Release Cable Adapter allows you to use a shutter release cable for beautiful long exposure pictures.
+title: "Holga 120 Shutter Release Cable Adapter | 3D Printed UK"
+description: "3D printed shutter release cable adapter for Holga 120 cameras. Fits all major Holga 120 variants. Enables long exposure bulb mode photography. Includes shutter button extender. Made in the UK by Sparrow Fabrications."
+product_schema: true
 ---
 ## Holga 120 Shutter Release Cable Adapter
 Holga 120 Shutter Release Cable Adapter with shutter button extender. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included.
@@ -56,7 +58,7 @@ Can be used in three ways:
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_4373_2_aa3tra.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 #### Product Images
-{% include my-gallery.html imagesurl="images/holga-120-adapter-v2"
+{% include my-gallery.html imagesurl="images/holga-120-adapter-v2" alt="Holga 120 shutter release cable adapter"
    filenames="holga-120-adapter-1.jpg,holga-120-adapter-2.jpg,shutter-button-extender.jpg,holga-120-adapter-3.jpg,holga-120-adapter-4.jpg,holga-120-adapter-7.jpg,holga-120-adapter-8.jpg,holga-120-adapter-5.jpg,holga-120-adapter-6.jpg,holga-120-adapter-11.jpg,holga-120-adapter-9.jpg,holga-120-adapter-10.jpg,shutter-release-cable.jpg,thumb-screw.jpg" %}
 
 #### Reviews
@@ -83,5 +85,10 @@ This adapter can be attached to any tripod that has a standard UNC 1/4 inch bolt
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_3667_oukpna.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 #### Product Images
-{% include my-gallery.html imagesurl="images/holga-120s-adapter"
+{% include my-gallery.html imagesurl="images/holga-120s-adapter" alt="Holga 120S shutter release cable adapter without tripod mount"
    filenames="holga-120s-adapter-1.jpg,holga-120s-adapter-2.jpg,holga-120s-adapter-3.jpg,holga-120s-adapter-4.jpg,holga-120s-adapter-5.jpg,holga-120s-adapter-6.jpg,holga-120s-adapter-7.jpg,holga-120s-adapter-81.jpg,shutter-release-cable.jpg" %}
+
+### Also available for the Holga 120
+- [Back Clips](holga-120-back-clips.md)
+- [Filter Adapter](holga-filter.md)
+- [Lens Cap](holga-120-lens-cap.md)

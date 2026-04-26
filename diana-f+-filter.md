@@ -1,5 +1,7 @@
 ---
-description: Diana Filter Adapter allows you to use filters in your photography.
+title: "Diana F+, Diana+ and Vintage Diana Filter Adapter | 3D Printed UK"
+description: "3D printed filter adapter for Lomography Diana F+, Diana+, and vintage Diana (1960s) cameras. Accepts a 30mm step-up ring to use any photographic filter. Made in the UK by Sparrow Fabrications."
+product_schema: true
 ---
 ## Diana and Clone Cameras Filter Adapter
 Diana Filter Adapter. Please note the step up ring and filter required are shown but not included. Camera shown is not included.
@@ -28,10 +30,14 @@ It is not compatible with the Lomography Diana Instant Square, Diana Baby or Dia
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_lwbbb1.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Product Images
-{% include my-gallery.html imagesurl="images/diana-f+-filter"
+{% include my-gallery.html imagesurl="images/diana-f+-filter" alt="Diana F+ filter adapter"
    filenames="diana-f+-filter-1.jpg,diana-f+-filter-2.jpg,diana-f+-filter-3.jpg,diana-f+-filter-4.jpg,diana-f+-filter-5.jpg,diana-f+-filter-6.jpg" %}
 
 ### Reviews
 > Excellent eBay seller doing great work making and selling filter adapters for Holga and Diana F film cameras. Very good communication, combined postage and rapid delivery of adapters. Very good experience all round and I highly recommend this seller.
 >
 > *ebay Purchaser, Nov 2023*
+
+### Also available for the Diana F+ and Diana+
+- [Lens Cap](diana-f+-lens-cap.md)
+- [Shutter Release Cable Adapter](diana-f+-adapter.md)

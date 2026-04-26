@@ -1,5 +1,6 @@
 ---
-description: Describes how parts are 3D printed by Sparrow Fabrications.
+title: "Manufacturing | Sparrow Fabrications"
+description: "How Sparrow Fabrications 3D prints camera accessories using PETG filament on a Prusa MK3S, hand finished and tested in the UK."
 ---
 ## Manufacturing
 All parts are made on my modified [Prusa MK3S](https://www.prusa3d.com/category/original-prusa-i3-mk3s/) using PETG filament.

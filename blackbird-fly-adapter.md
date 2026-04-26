@@ -1,5 +1,7 @@
 ---
-description: Blackbird, fly Shutter Release Cable Adapter allows you to use a shutter release cable for beautiful long exposure pictures.
+title: "Blackbird, fly Shutter Release Cable Adapter | 3D Printed UK"
+description: "3D printed shutter release cable adapter for the Blackbird, fly 35mm film camera. Enables long exposure photography with bulb mode. Made in the UK by Sparrow Fabrications."
+product_schema: true
 ---
 ## Blackbird, fly Shutter Release Cable Adapter
 Blackbird, fly Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included.
@@ -42,5 +44,5 @@ Tested with:
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_0491_zeos4a.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Product Images
-{% include my-gallery.html imagesurl="images/blackbird-fly-adapter"
+{% include my-gallery.html imagesurl="images/blackbird-fly-adapter" alt="Blackbird fly shutter release cable adapter"
    filenames="blackbird-fly-adapter-1.jpg,blackbird-fly-adapter-2.jpg,blackbird-fly-adapter-3.jpg,blackbird-fly-adapter-4.jpg,blackbird-fly-adapter-5.jpg,blackbird-fly-adapter-6.jpg,blackbird-fly-adapter-7.jpg,blackbird-fly-adapter-8.jpg,blackbird-fly-adapter-9.jpg,blackbird-fly-adapter-10.jpg,blackbird-fly-adapter-11.jpg,shutter-release-cable.jpg" %}

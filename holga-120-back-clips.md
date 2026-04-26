@@ -1,5 +1,7 @@
 ---
-description: A pair of replacement back clips for Holga 120 cameras.
+title: "Holga 120 Replacement Back Clips | 3D Printed UK"
+description: "3D printed replacement back clips for Holga 120 cameras. Sturdier than the originals with built-in strap loops. Fits Holga 120N, 120S, 120CFN and more. Made in the UK by Sparrow Fabrications."
+product_schema: true
 ---
 ## Holga 120 Replacement Back Clips
 A pair of replacement back clips for Holga 120 cameras. These replace the rather flimsy standard clips which tend to fall off at inconvenient times. Camera shown is not included.
@@ -36,7 +38,7 @@ Not compatible with the 120WPC, 35 or 135 models.
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_0479_reub3u.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Product Images
-{% include my-gallery.html imagesurl="images/holga-120-back-clips"
+{% include my-gallery.html imagesurl="images/holga-120-back-clips" alt="Holga 120 replacement back clips"
    filenames="holga-120-back-clips-8.jpg,holga-120-back-clips-1.jpg,holga-120-back-clips-2.jpg,holga-120-back-clips-3.jpg,holga-120-back-clips-4.jpg,holga-120-back-clips-5.jpg,holga-120-back-clips-6.jpg,holga-120-back-clips-7.jpg" %}
 
 ### Reviews
@@ -51,3 +53,8 @@ Not compatible with the 120WPC, 35 or 135 models.
 >	Great item!! It works as designed. Seller was great. Fast!!
 >
 > *Etsy Purchaser, August 2023*
+
+### Also available for the Holga 120
+- [Filter Adapter](holga-filter.md)
+- [Lens Cap](holga-120-lens-cap.md)
+- [Shutter Release Cable Adapter](holga-120-v2-adapter.md)

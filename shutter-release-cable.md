@@ -1,5 +1,6 @@
 ---
-description: Thoughts on shutter release cables, their use, construction and quality.
+title: "Shutter Release Cables Guide | Sparrow Fabrications"
+description: "A guide to mechanical shutter release cables — how they work, their construction, common problems, and which to choose for lomography cameras."
 ---
 ## Shutter Release Cables
 ![Two of my shutter release cables.](/images/shutter-release-cable/src-1.jpg)

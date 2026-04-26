@@ -1,5 +1,7 @@
 ---
-description: Diana Mini Filter Adapter allows you to use filters in your photography.
+title: "Diana Mini Filter Adapter | 3D Printed UK"
+description: "3D printed filter adapter for the Lomography Diana Mini 35mm camera. Accepts a 30mm step-up ring to use any photographic filter. Made in the UK by Sparrow Fabrications."
+product_schema: true
 ---
 ## Diana Mini Filter Adapter
 Diana Mini Filter Adapter. Please note the step up ring and filter required are shown but not included. Camera shown is not included.
@@ -23,5 +25,8 @@ It is not compatible with the Lomography Diana F+, Diana+, Vintage Diana (1960s)
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_yad7eb.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Product Images
-{% include my-gallery.html imagesurl="images/diana-mini-filter"
+{% include my-gallery.html imagesurl="images/diana-mini-filter" alt="Diana Mini filter adapter"
    filenames="diana-mini-filter-1.jpg,diana-mini-filter-2.jpg,diana-mini-filter-3.jpg,diana-mini-filter-4.jpg,diana-mini-filter-5.jpg,diana-mini-filter-6.jpg" %}
+
+### Also available for the Diana Mini
+- [Lens Cap](diana-mini-lens-cap.md)

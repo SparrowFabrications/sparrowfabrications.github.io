@@ -1,5 +1,7 @@
 ---
-description: A replacement lens cap for Lomography Diana and vintage Diana cameras.
+title: "Diana F+, Diana+ and Vintage Diana Replacement Lens Cap | 3D Printed UK"
+description: "3D printed replacement lens cap for Lomography Diana F+, Diana+, and vintage Diana cameras. Push-fit with eyelet for a lens cap retention strap. Made in the UK by Sparrow Fabrications."
+product_schema: true
 ---
 ## Diana and Clone Cameras Lens Cap
 A replacement lens cap for Lomography Diana and vintage Diana cameras. Camera shown is not included.
@@ -24,5 +26,9 @@ Should be compatible with:
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_azth0s.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Product Images
-{% include my-gallery.html imagesurl="images/diana-f+-lens-cap"
+{% include my-gallery.html imagesurl="images/diana-f+-lens-cap" alt="Diana F+ replacement lens cap"
    filenames="diana-f+-lens-cap-1.jpg,diana-f+-lens-cap-2.jpg,diana-f+-lens-cap-3.jpg,diana-f+-lens-cap-4.jpg,diana-f+-lens-cap-5.jpg" %}
+
+### Also available for the Diana F+ and Diana+
+- [Filter Adapter](diana-f+-filter.md)
+- [Shutter Release Cable Adapter](diana-f+-adapter.md)

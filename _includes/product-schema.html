@@ -1,0 +1,27 @@
+{% if page.product_schema %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "{{ page.title }}",
+  "description": "{{ page.description }}",
+  "brand": {
+    "@type": "Brand",
+    "name": "Sparrow Fabrications"
+  },
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Sparrow Fabrications",
+    "url": "https://sparrowfabrications.co.uk"
+  },
+  "offers": {
+    "@type": "Offer",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Sparrow Fabrications"
+    }
+  }
+}
+</script>
+{% endif %}

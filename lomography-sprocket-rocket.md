@@ -1,5 +1,7 @@
 ---
-description: Lomography Sprocket Rocket Shutter Release Cable Adapter allows you to use a shutter release cable for beautiful long exposure pictures.
+title: "Sprocket Rocket Shutter Release Cable Adapter | 3D Printed UK"
+description: "3D printed shutter release cable adapter for the Lomography Sprocket Rocket 35mm film camera. Enables long exposure photography. Fits both Sprocket Rocket versions. Made in the UK by Sparrow Fabrications."
+product_schema: true
 ---
 ## Lomography Sprocket Rocket Shutter Release Cable Adapter
 Lomography Sprocket Rocket Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included.
@@ -40,7 +42,7 @@ Should be compatible with:
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_8142_qvk3m1.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Product Images
-{% include my-gallery.html imagesurl="images/lomography-sprocket-rocket-adapter"
+{% include my-gallery.html imagesurl="images/lomography-sprocket-rocket-adapter" alt="Sprocket Rocket shutter release cable adapter"
    filenames="lomography-sprocket-rocket-adapter-1.jpg,lomography-sprocket-rocket-adapter-2.jpg,lomography-sprocket-rocket-adapter-3.jpg,lomography-sprocket-rocket-adapter-4.jpg,lomography-sprocket-rocket-adapter-5.jpg,lomography-sprocket-rocket-adapter-6.jpg,lomography-sprocket-rocket-adapter-7.jpg,lomography-sprocket-rocket-adapter-8.jpg,lomography-sprocket-rocket-adapter-9.jpg,shutter-release-cable.jpg" %}
 
 ### Reviews
@@ -48,3 +50,7 @@ Should be compatible with:
 > "The Sprocket Rocket cable release adapter from Sparrow Fabrications was excellent. Gone are the days of needing to use a rubber band to make long exposures."
 >
 >*[https://www.jeremymuddphoto.com](https://www.jeremymuddphoto.com/blog/2023/12/11/early-morning-adventures-with-harman-phoenix-200-and-reflx-labs-800t), Dec 2023*
+
+### Also available for the Sprocket Rocket
+- [Filter Adapter](lomography-sprocket-rocket-filter.md)
+- [Lens Cap](lomography-sprocket-rocket-lens-cap.md)

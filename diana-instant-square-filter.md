@@ -1,5 +1,7 @@
 ---
-description: Diana Instant Square Filter Adapter allows you to use filters in your photography.
+title: "Diana Instant Square Filter Adapter | 3D Printed UK"
+description: "3D printed filter adapter for the Lomography Diana Instant Square camera. Accepts a 37mm step-up ring to use any photographic filter. Made in the UK by Sparrow Fabrications."
+product_schema: true
 ---
 ## Diana Instant Square Filter Adapter
 Diana Instant Square Filter Adapter. Please note the step up ring and filter required are shown but not included. Camera shown is not included.
@@ -23,10 +25,14 @@ It is not compatible with the Lomography Diana+ or F+, Diana Baby or Diana Mini 
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_sfxxs1.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Product Images
-{% include my-gallery.html imagesurl="images/diana-instant-square-filter"
+{% include my-gallery.html imagesurl="images/diana-instant-square-filter" alt="Diana Instant Square filter adapter"
    filenames="diana-instant-square-filter-1.jpg,diana-instant-square-filter-2.jpg,diana-instant-square-filter-3.jpg,diana-instant-square-filter-4.jpg,diana-instant-square-filter-5.jpg,diana-instant-square-filter-6.jpg" %}
 
 ### Reviews
 > Awesome filter adaptor for the diana instant.
 >
 > *Etsy Purchaser, Dec 2023*
+
+### Also available for the Diana Instant Square
+- [Lens Cap](diana-instant-square-lens-cap.md)
+- [Shutter Release Cable Adapter](diana-instant-square-adapter.md)

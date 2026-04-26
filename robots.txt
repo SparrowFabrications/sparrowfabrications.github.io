@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sparrowfabrications.co.uk/sitemap.xml

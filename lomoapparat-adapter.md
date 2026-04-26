@@ -1,5 +1,7 @@
 ---
-description: LomoApparat Shutter Release Cable Adapter allows you to use a shutter release cable for beautiful long exposure pictures.
+title: "LomoApparat Shutter Release Cable Adapter | 3D Printed UK"
+description: "3D printed shutter release cable adapter for the LomoApparat 35mm film camera. Enables long exposure photography. Compatible with LomoApparat Close Up, Kaleidoscope and Splitzer attachments. Made in the UK by Sparrow Fabrications."
+product_schema: true
 ---
 ## LomoApparat Shutter Release Cable Adapter
 LomoApparat Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included.
@@ -28,10 +30,13 @@ Tested with:
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_roo4ck.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Product Images
-{% include my-gallery.html imagesurl="images/lomoapparat-adapter"
+{% include my-gallery.html imagesurl="images/lomoapparat-adapter" alt="LomoApparat shutter release cable adapter"
    filenames="lomoapparat-adapter-1.jpg,lomoapparat-adapter-2.jpg,lomoapparat-adapter-3.jpg,lomoapparat-adapter-4.jpg,lomoapparat-adapter-5.jpg,lomoapparat-adapter-6.jpg,lomoapparat-adapter-7.jpg,lomoapparat-adapter-8.jpg,lomoapparat-adapter-9.jpg,shutter-release-cable.jpg" %}
 
 ### Reviews
 >Thank you sparrowfabrications for this wonderful attachment, it turns the Apparat into an even better camera - the missing accessory has been found! The included lens cap also works a treat - well better than the original! The attachment itself and it's holding clip are extremely well thought out and effortless in use.
 >
 > *ebay Purchaser, Nov 2024*
+
+### Also available for the LomoApparat
+- [Lens Cap](lomoapparat-lens-cap.md)

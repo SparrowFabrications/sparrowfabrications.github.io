@@ -1,5 +1,6 @@
 ---
-description: A list of all the 3D printed products I make and the lomography cameras they work with.
+title: "All Products | Sparrow Fabrications"
+description: "Full list of 3D printed camera accessories for Holga, Diana, Sprocket Rocket, LOMO LC-A, LomoApparat, Belair, Blackbird fly and more. Made in the UK."
 page_class: products-page
 ---
 ## Products
@@ -67,15 +68,15 @@ All of my shutter release cable adapters require a suitable shutter release cabl
 ## Supported Cameras
 I make and sell a variety of products for the following cameras:
 
-- [Belair X 6-12 medium format camera](http://camera-wiki.org/wiki/Lomography_Belair_X_6-12)
-- [Blackbird, fly 35mm film camera](http://camera-wiki.org/wiki/Blackbird,_fly)
+- [Belair X 6-12 medium format camera](https://camera-wiki.org/wiki/Lomography_Belair_X_6-12)
+- [Blackbird, fly 35mm film camera](https://camera-wiki.org/wiki/Blackbird,_fly)
 - [Diana 120 medium format camera](https://en.wikipedia.org/wiki/Diana_(camera)), including these models
   - Diana+
   - Diana F+
   - Vintage Diana (1960s) and Clone cameras
-- [Diana Baby 110 film camera](http://camera-wiki.org/wiki/Diana_Baby_110)
-- [Diana Instant Square Instax square format camera](http://camera-wiki.org/wiki/Diana_Instant_Square)
-- [Diana Mini 35mm film camera](http://camera-wiki.org/wiki/Diana_Mini)
+- [Diana Baby 110 film camera](https://camera-wiki.org/wiki/Diana_Baby_110)
+- [Diana Instant Square Instax square format camera](https://camera-wiki.org/wiki/Diana_Instant_Square)
+- [Diana Mini 35mm film camera](https://camera-wiki.org/wiki/Diana_Mini)
 - [Holga 120 medium format camera](https://en.wikipedia.org/wiki/Holga), including these models
   - Holga 120CFN
   - Holga 120FN
@@ -89,14 +90,14 @@ I make and sell a variety of products for the following cameras:
   - Holga 120S
   - Holga 120SF
   - Holga 120TLR
-- [Holga 135 35mm film camera](http://camera-wiki.org/wiki/Holga_135)
+- [Holga 135 35mm film camera](https://camera-wiki.org/wiki/Holga_135)
   - Holga 135
   - Holga 135BC
   - Holga 135FC
-- [LOMO LC-A 35mm film camera](http://camera-wiki.org/wiki/LOMO_LC-A)
-- [LomoApparat 35mm film camera](http://camera-wiki.org/wiki/LomoApparat)
+- [LOMO LC-A 35mm film camera](https://camera-wiki.org/wiki/LOMO_LC-A)
+- [LomoApparat 35mm film camera](https://camera-wiki.org/wiki/LomoApparat)
 - [Long Weekend camera](https://www.longweekendbrand.com/)
-- [Sprocket Rocket 35mm film camera](http://camera-wiki.org/wiki/Lomographic_Sprocket_Rocket), including these models
+- [Sprocket Rocket 35mm film camera](https://camera-wiki.org/wiki/Lomographic_Sprocket_Rocket), including these models
   - Sprocket Rocket Version 1.0
   - Sprocket Rocket Version 2.0
 

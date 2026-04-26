@@ -1,5 +1,7 @@
 ---
-description: A replacement lens cap for Sprocket Rocket cameras.
+title: "Sprocket Rocket Replacement Lens Cap | 3D Printed UK"
+description: "3D printed replacement lens cap for Lomography Sprocket Rocket cameras. Fits both versions. Includes eyelet for a lens cap retention strap. Made in the UK by Sparrow Fabrications."
+product_schema: true
 ---
 ## Sprocket Rocket Cameras Lens Cap
 A replacement lens cap for Sprocket Rocket cameras. Camera shown is not included.
@@ -22,5 +24,9 @@ Should be compatible with:
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_kqcaqp.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Product Images
-{% include my-gallery.html imagesurl="images/lomography-sprocket-rocket-lens-cap"
+{% include my-gallery.html imagesurl="images/lomography-sprocket-rocket-lens-cap" alt="Sprocket Rocket replacement lens cap"
    filenames="lomography-sprocket-rocket-lens-cap-1.jpg,lomography-sprocket-rocket-lens-cap-2.jpg,lomography-sprocket-rocket-lens-cap-3.jpg,lomography-sprocket-rocket-lens-cap-4.jpg,lomography-sprocket-rocket-lens-cap-5.jpg" %}
+
+### Also available for the Sprocket Rocket
+- [Filter Adapter](lomography-sprocket-rocket-filter.md)
+- [Shutter Release Cable Adapter](lomography-sprocket-rocket.md)

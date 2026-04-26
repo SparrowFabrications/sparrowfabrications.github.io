@@ -1,5 +1,7 @@
 ---
-description: Lomography Belair X 6-12 Shutter Release Cable Adapter allows you to use a shutter release cable for beautiful long exposure pictures.
+title: "Belair X 6-12 Shutter Release Cable Adapter | 3D Printed UK"
+description: "3D printed shutter release cable adapter for the Lomography Belair X 6-12 medium format camera. Fits City Slicker and Jetsetter models. Made in the UK by Sparrow Fabrications."
+product_schema: true
 ---
 ## Belair X 6-12 Shutter Release Cable Adapter
 Lomography Belair X 6-12 Shutter Release Cable Adapter. Please note the cable required is shown but not included. Camera shown is not included.
@@ -37,7 +39,7 @@ Should be compatible with:
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_0498_ly68by.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 #### Product Images
-{% include my-gallery.html imagesurl="images/belair-x-6-12-adapter"
+{% include my-gallery.html imagesurl="images/belair-x-6-12-adapter" alt="Belair X 6-12 shutter release cable adapter"
    filenames="belair-x-6-12-adapter-1.jpg,belair-x-6-12-adapter-2.jpg,belair-x-6-12-adapter-3.jpg,belair-x-6-12-adapter-4.jpg,belair-x-6-12-adapter-5.jpg,belair-x-6-12-adapter-6.jpg,shutter-release-cable.jpg" %}
 
 ### Jetsetter in Brown Leather and Metal
@@ -46,5 +48,10 @@ Should be compatible with:
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_4237_bb9qsa.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 #### Product Images
-{% include my-gallery.html imagesurl="images/belair-x-6-12-adapter-jetsetter"
+{% include my-gallery.html imagesurl="images/belair-x-6-12-adapter-jetsetter" alt="Belair X 6-12 Jetsetter shutter release cable adapter"
   filenames="belair-x-6-12-adapter-1.jpg,belair-x-6-12-adapter-2.jpg,belair-x-6-12-adapter-3.jpg,belair-x-6-12-adapter-4.jpg,belair-x-6-12-adapter-5.jpg,belair-x-6-12-adapter-6.jpg,shutter-release-cable.jpg" %}
+
+### Also available for the Belair X 6-12
+- [Body Cap](belair-x-6-12-body-cap.md)
+- [Filter Adapter](belair-x-6-12-filter.md)
+- [Lens Cap](belair-x-6-12-lens-cap.md)

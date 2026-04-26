@@ -1,5 +1,7 @@
 ---
-description: Lomography Diana F+ and Diana+ Shutter Release Cable Adapter allows you to use a shutter release cable for beautiful long exposure pictures.
+title: "Diana F+ and Diana+ Shutter Release Cable Adapter | 3D Printed UK"
+description: "3D printed shutter release cable adapter for the Lomography Diana F+ and Diana+ 120 cameras. Enables beautiful long exposure photography. Made in the UK by Sparrow Fabrications."
+product_schema: true
 ---
 ## Lomography Diana F+ and Diana+ Shutter Release Cable Adapter
 Lomography Diana F+ and Diana+ 120 Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included.
@@ -47,7 +49,7 @@ It is not compatible with vintage Diana (1960s) and associated clone cameras fro
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_7973_2_gxfuap.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Product Images
-{% include my-gallery.html imagesurl="images/diana-f+-adapter"
+{% include my-gallery.html imagesurl="images/diana-f+-adapter" alt="Diana F+ shutter release cable adapter fitted to camera"
    filenames="diana-f+-adapter-1.jpg,diana-f+-adapter-2.jpg,diana-f+-adapter-3.jpg,diana-f+-adapter-4.jpg,diana-f+-adapter-5.jpg,diana-f+-adapter-6.jpg,diana-f+-adapter-7.jpg,diana-f+-adapter-8.jpg,diana-f+-adapter-9.jpg,diana-f+-adapter-10.jpg,diana-f+-adapter-11.jpg,shutter-release-cable.jpg" %}
 
 ### Reviews
@@ -61,3 +63,7 @@ Note, these reviews are of the previous version which used an extra clip. The la
 > This adapter fits and works brilliantly and with absolutely no effort to install. The tripod retaining clip is also a super idea! I use the 'glass' lens on my Diana F+ and the adapter did not in any way interfere with the usage of the camera and that lens. It is as good as the original Diana F+ shutter release, which is now a very hard-to-find accessory.
 >
 > *ebay Purchaser, March 2023*
+
+### Also available for the Diana F+ and Diana+
+- [Filter Adapter](diana-f+-filter.md)
+- [Lens Cap](diana-f+-lens-cap.md)
