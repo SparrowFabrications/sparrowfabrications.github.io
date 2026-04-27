@@ -2,6 +2,7 @@
 title: "Holga 120 Filter Adapter | 3D Printed UK"
 description: "3D printed filter adapter for Holga 120 cameras. Accepts a 43mm step-up ring to use any photographic filter. Fits all major Holga 120 variants. Made in the UK by Sparrow Fabrications."
 product_schema: true
+rating_count: 2
 ---
 ## Holga 120 Cameras Filter Adapter
 Holga 120 cameras filter adapter. Please note the step up ring and filter required are shown but not included. Camera shown is not included.

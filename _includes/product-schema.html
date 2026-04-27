@@ -13,15 +13,24 @@
     "@type": "Organization",
     "name": "Sparrow Fabrications",
     "url": "https://sparrowfabrications.co.uk"
-  },
+  }{% if page.price %},
   "offers": {
     "@type": "Offer",
+    "price": "{{ page.price }}",
+    "priceCurrency": "{{ page.price_currency | default: 'GBP' }}",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",
       "name": "Sparrow Fabrications"
     }
-  }
+  }{% endif %}{% if page.rating_count %},
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{ page.rating_value | default: 5 }}",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "{{ page.rating_count }}"
+  }{% endif %}
 }
 </script>
 {% endif %}

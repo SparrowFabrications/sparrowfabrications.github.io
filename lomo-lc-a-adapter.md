@@ -2,6 +2,7 @@
 title: "LOMO LC-A Shutter Release Cable and Filter Adapter | 3D Printed UK"
 description: "3D printed shutter release cable and filter adapter for the LOMO LC-A 35mm film camera. Enables long exposure photography and use of photographic filters. Made in the UK by Sparrow Fabrications."
 product_schema: true
+rating_count: 1
 ---
 ## LOMO LC-A Shutter Release Cable Adapter
 LOMO LC-A Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included. Also, note the step up ring and filter required are shown but not included. Requires a 30mm step up ring to suit whatever filters you wish to use.
