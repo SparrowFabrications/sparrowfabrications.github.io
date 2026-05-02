@@ -1,7 +1,6 @@
 ---
 title: "Diana Instant Square Replacement Lens Cap | 3D Printed UK"
 description: "3D printed replacement lens cap for Lomography Diana Instant Square cameras. Better fit than the original. Push-fit with eyelet for a lens cap retention strap. Made in the UK by Sparrow Fabrications."
-product_schema: true
 rating_count: 1
 ---
 ## Diana Instant Square Replacement Lens Cap

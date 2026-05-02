@@ -1,7 +1,6 @@
 ---
 title: "Diana Mini Filter Adapter | 3D Printed UK"
 description: "3D printed filter adapter for the Lomography Diana Mini 35mm camera. Accepts a 30mm step-up ring to use any photographic filter. Made in the UK by Sparrow Fabrications."
-product_schema: true
 ---
 ## Diana Mini Filter Adapter
 Diana Mini Filter Adapter. Please note the step up ring and filter required are shown but not included. Camera shown is not included.

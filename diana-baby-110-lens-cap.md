@@ -1,7 +1,6 @@
 ---
 title: "Diana Baby 110 Replacement Lens Cap | 3D Printed UK"
 description: "3D printed replacement lens cap for Lomography Diana Baby 110 cameras. Push-fit with eyelet for a lens cap retention strap. Made in the UK by Sparrow Fabrications."
-product_schema: true
 ---
 ## Diana Baby 110 Lens Cap
 A replacement lens cap for Lomography Diana Baby 110 cameras. Camera shown is not included.

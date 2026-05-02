@@ -1,7 +1,6 @@
 ---
 title: "35mm Film Index Card Holder | 3D Printed UK"
 description: "3D printed index card holder for 35mm film cameras. Attach to your camera and never forget what film you are shooting. Made in the UK by Sparrow Fabrications."
-product_schema: true
 rating_count: 1
 ---
 ## Index Card Holder for 35mm Film

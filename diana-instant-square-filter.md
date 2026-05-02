@@ -1,7 +1,6 @@
 ---
 title: "Diana Instant Square Filter Adapter | 3D Printed UK"
 description: "3D printed filter adapter for the Lomography Diana Instant Square camera. Accepts a 37mm step-up ring to use any photographic filter. Made in the UK by Sparrow Fabrications."
-product_schema: true
 rating_count: 1
 ---
 ## Diana Instant Square Filter Adapter
