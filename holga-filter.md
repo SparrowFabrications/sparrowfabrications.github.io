@@ -4,7 +4,7 @@ description: "3D printed filter adapter for Holga 120 cameras. Accepts a 43mm st
 rating_count: 2
 ---
 ## Holga 120 Cameras Filter Adapter
-Holga 120 cameras filter adapter. Please note the step up ring and filter required are shown but not included. Camera shown is not included.
+Holga 120 cameras filter adapter. Please note the step up ring required is shown but not included. Camera shown is not included.
 
 Designed by me from scratch to fit Holga 120 cameras. Requires a 43mm step up ring to suit whatever filters you wish to use.
 
@@ -49,6 +49,7 @@ It is not compatible with the 120GTLR, 120TLR, 120WPC, 35 or 135 models.
 > *ebay Purchaser, Aug 2024*
 
 ### Also available for the Holga 120
+- [Composition Guide](holga-composition-guide.md)
 - [Back Clips](holga-120-back-clips.md)
 - [Lens Cap](holga-120-lens-cap.md)
 - [Shutter Release Cable Adapter](holga-120-v2-adapter.md)

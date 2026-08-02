@@ -89,6 +89,7 @@ This adapter can be attached to any tripod that has a standard UNC 1/4 inch bolt
    filenames="holga-120s-adapter-1.jpg,holga-120s-adapter-2.jpg,holga-120s-adapter-3.jpg,holga-120s-adapter-4.jpg,holga-120s-adapter-5.jpg,holga-120s-adapter-6.jpg,holga-120s-adapter-7.jpg,holga-120s-adapter-81.jpg,shutter-release-cable.jpg" %}
 
 ### Also available for the Holga 120
+- [Composition Guide](holga-composition-guide.md)
 - [Back Clips](holga-120-back-clips.md)
 - [Filter Adapter](holga-filter.md)
 - [Lens Cap](holga-120-lens-cap.md)

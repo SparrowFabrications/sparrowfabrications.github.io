@@ -44,6 +44,7 @@ Not compatible with the 35 or 135 models.
 > *Etsy Purchaser, Feb 2024*
 
 ### Also available for the Holga 120
+- [Composition Guide](holga-composition-guide.md)
 - [Back Clips](holga-120-back-clips.md)
 - [Filter Adapter](holga-filter.md)
 - [Shutter Release Cable Adapter](holga-120-v2-adapter.md)

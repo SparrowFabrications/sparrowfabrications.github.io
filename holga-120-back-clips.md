@@ -55,6 +55,7 @@ Not compatible with the 120WPC, 35 or 135 models.
 > *Etsy Purchaser, August 2023*
 
 ### Also available for the Holga 120
+- [Composition Guide](holga-composition-guide.md)
 - [Filter Adapter](holga-filter.md)
 - [Lens Cap](holga-120-lens-cap.md)
 - [Shutter Release Cable Adapter](holga-120-v2-adapter.md)

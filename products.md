@@ -38,12 +38,17 @@ All of my shutter release cable adapters require a suitable shutter release cabl
 ### Holga Cameras
 - Holga 120 Cameras
   - [Back Clips](holga-120-back-clips.md)
+  - [Composition Guide](holga-composition-guide.md)
   - [Filter Adapter](holga-filter.md)
   - [Lens Cap](holga-120-lens-cap.md)
   - [Shutter Release Cable Adapter](holga-120-v2-adapter.md)
 - Holga 135 Cameras
   - [Filter Adapter](holga-135-filter.md)
   - [Lens Cap](holga-135-lens-cap.md)
+- Holga Digital Cameras
+  - [Filter Adapter](holga-digital-filter.md)
+  - [Lens Cap](holga-digital-lens-cap.md)
+  - [Shutter Release Cable Adapter](holga-digital-adapter.md)
 
 ### Index Card Holders
 - Index Card / Memo Holder for Film, Type & Format; always remember what film you are shooting!

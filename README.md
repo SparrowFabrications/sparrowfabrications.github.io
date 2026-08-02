@@ -43,3 +43,26 @@ From time to time it is worth doing:
     bundle update
 
 Then committing any changes to Gemfile.lock .
+
+##
+
+You can also install chruby to manage ruby versions. Once you have, in your terminal run:
+
+  chruby 3.4.9
+
+to set a version. Then delete the Gemfile.lock and run
+
+  ssh-add ~/.ssh/git/id
+  git pull origin main
+  bundler update --bundler
+  bundler update --all
+
+to update your dependencies and addres vulnerabilities.
+
+To commit:
+
+  ssh-add ~/.ssh/git/id
+  git commit -a -m "Updated dependencies"
+  git push origin main
+
+

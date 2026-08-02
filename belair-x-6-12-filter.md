@@ -3,7 +3,7 @@ title: "Belair X 6-12 Filter Adapter | 3D Printed UK"
 description: "3D printed filter adapter for the Lomography Belair X 6-12 medium format camera. Accepts a 37mm step-up ring to use any photographic filter. Made in the UK by Sparrow Fabrications."
 ---
 ## Belair X 6-12 Filter Adapter
-Belair X 6-12 Filter Adapter. Please note the step up ring and filter required are shown but not included. Camera shown is not included.
+Belair X 6-12 Filter Adapter. Please note the step up ring required is shown but not included. Camera shown is not included.
 
 Designed by me from scratch to fit the Belair X 6-12 camera. This fits both of the supplied lenses. Requires a 37mm step up ring to suit whatever filters you wish to use.
 

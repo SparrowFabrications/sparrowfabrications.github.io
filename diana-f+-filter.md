@@ -4,7 +4,7 @@ description: "3D printed filter adapter for Lomography Diana F+, Diana+, and vin
 rating_count: 1
 ---
 ## Diana and Clone Cameras Filter Adapter
-Diana Filter Adapter. Please note the step up ring and filter required are shown but not included. Camera shown is not included.
+Diana Filter Adapter. Please note the step up ring required is shown but not included. Camera shown is not included.
 
 Designed by me from scratch to fit the Lomography Diana F+, Diana+, vintage Diana (1960s) and associated clone cameras. Requires a 30mm step up ring [such as this one]({{ site.amazon_30mm_step_up_ring_url }}) to suit whatever filters you wish to use.
 
