@@ -95,6 +95,7 @@ I make and sell a variety of products for the following cameras:
   - Holga 120S
   - Holga 120SF
   - Holga 120TLR
+  - Holga 120WPC
 - [Holga 135 35mm film camera](https://camera-wiki.org/wiki/Holga_135)
   - Holga 135
   - Holga 135BC

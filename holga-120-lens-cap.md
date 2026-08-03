@@ -1,6 +1,6 @@
 ---
 title: "Holga 120 Replacement Lens Cap | 3D Printed UK"
-description: "3D printed replacement lens cap for Holga 120 cameras. Fits Holga 120N, 120S, 120CFN and all major variants. Includes eyelet for a retention strap. Made in the UK by Sparrow Fabrications."
+description: "3D printed replacement lens cap for Holga 120 cameras. Fits Holga 120N, 120S, 120CFN, 120WPC and all major variants. Includes eyelet for a retention strap. Made in the UK by Sparrow Fabrications."
 rating_count: 1
 ---
 ## Holga 120 Replacement Lens Cap
