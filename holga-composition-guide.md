@@ -5,7 +5,7 @@ description: "3D printed composition guide for Holga 120 cameras. Fits the hot s
 ## Holga 120 Composition Guide
 A composition guide for Holga 120 cameras. Camera shown is not included.
 
-Available in three sizes to suit your chosen film format and mask combination:
+Comes as a kit including three sizes to suit your chosen film format and mask combination:
 - 6x4.5 cm portrait
 - 6x4.5 cm landscape
 - 6x6 cm square
