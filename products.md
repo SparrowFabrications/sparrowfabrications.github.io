@@ -99,6 +99,7 @@ I make and sell a variety of products for the following cameras:
   - Holga 135
   - Holga 135BC
   - Holga 135FC
+- [Holga Digital camera](https://www.kickstarter.com/projects/2098439381/holga-digital-restyle-the-retro-vintage-into-new-c)
 - [LOMO LC-A 35mm film camera](https://camera-wiki.org/wiki/LOMO_LC-A)
 - [LomoApparat 35mm film camera](https://camera-wiki.org/wiki/LomoApparat)
 - [Long Weekend camera](https://www.longweekendbrand.com/)

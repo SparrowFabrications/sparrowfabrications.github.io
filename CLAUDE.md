@@ -90,6 +90,8 @@ Add a link in the appropriate named section. Sections are grouped by camera bran
 
 If the camera brand already has a section, add the new product as a nested sub-section within it — not as a new top-level section. For example, Holga Digital sits under `### Holga Cameras` as `- Holga Digital Cameras` with indented links beneath it.
 
+Also check the `## Supported Cameras` section further down `products.md`. If this is a new camera model, add it there too (alphabetically, matching the style of existing entries — a linked camera name, plus indented sub-model bullets if applicable). If the camera is already listed there, no change is needed.
+
 ### 6. Cross-reference all sibling products
 
 Every product page must have an `### Also available for the [Camera Model]` section at the bottom listing every other product for that camera. When adding a new product:
