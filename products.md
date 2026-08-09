@@ -40,6 +40,7 @@ All of my shutter release cable adapters require a suitable shutter release cabl
   - [Back Clips](holga-120-back-clips.md)
   - [Composition Guide](holga-composition-guide.md)
   - [Filter Adapter](holga-filter.md)
+  - [Filter Adapter (120WPC)](holga-120wpc-filter.md)
   - [Lens Cap](holga-120-lens-cap.md)
   - [Shutter Release Cable Adapter](holga-120-v2-adapter.md)
 - Holga 135 Cameras

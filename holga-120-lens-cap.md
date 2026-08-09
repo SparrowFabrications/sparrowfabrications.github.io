@@ -47,4 +47,5 @@ Not compatible with the 35 or 135 models.
 - [Composition Guide](holga-composition-guide.md)
 - [Back Clips](holga-120-back-clips.md)
 - [Filter Adapter](holga-filter.md)
+- [Filter Adapter (120WPC)](holga-120wpc-filter.md)
 - [Shutter Release Cable Adapter](holga-120-v2-adapter.md)

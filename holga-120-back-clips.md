@@ -58,5 +58,6 @@ Not compatible with the 35 or 135 models.
 ### Also available for the Holga 120
 - [Composition Guide](holga-composition-guide.md)
 - [Filter Adapter](holga-filter.md)
+- [Filter Adapter (120WPC)](holga-120wpc-filter.md)
 - [Lens Cap](holga-120-lens-cap.md)
 - [Shutter Release Cable Adapter](holga-120-v2-adapter.md)
