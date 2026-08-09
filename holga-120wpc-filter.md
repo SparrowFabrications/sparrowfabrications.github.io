@@ -19,7 +19,7 @@ To use:
 
 ### Product Images
 {% include my-gallery.html imagesurl="images/holga-120wpc-filter" alt="Holga 120WPC filter adapter"
-   filenames="holga-120wpc-filter-1.jpg,holga-120wpc-filter-2.jpg,holga-120wpc-filter-3.jpg,holga-120wpc-filter-4.jpg,holga-120wpc-filter-5.jpg" %}
+   filenames="holga-120wpc-filter-1.jpg,holga-120wpc-filter-2.jpg,holga-120wpc-filter-3.jpg,holga-120wpc-filter-4.jpg,holga-120wpc-filter-5.jpg,holga-120wpc-filter-6.jpg" %}
 
 ### Also available for the Holga 120WPC
 - [Back Clips](holga-120-back-clips.md)
