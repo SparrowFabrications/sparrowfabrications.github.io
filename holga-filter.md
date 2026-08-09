@@ -37,7 +37,7 @@ It is not compatible with the 120GTLR, 120TLR, 120WPC, 35 or 135 models.
 
 ### Product Images
 {% include my-gallery.html imagesurl="images/holga-filter" alt="Holga 120 filter adapter"
-   filenames="holga-filter-1.jpg,holga-filter-2.jpg,holga-filter-3.jpg,holga-filter-4.jpg,holga-filter-5.jpg,holga-filter-6.jpg" %}
+   filenames="holga-filter-1.jpg,holga-filter-2.jpg,holga-filter-3.jpg,holga-filter-4.jpg,holga-filter-5.jpg,holga-filter-6.jpg,holga-filter-7.jpg" %}
 
 ### Reviews
 > Excellent eBay seller doing great work making and selling filter adapters for Holga and Diana F film cameras. Very good communication, combined postage and rapid delivery of adapters. Very good experience all round and I highly recommend this seller.

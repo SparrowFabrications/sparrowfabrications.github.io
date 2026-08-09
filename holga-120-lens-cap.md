@@ -36,7 +36,7 @@ Not compatible with the 35 or 135 models.
 
 ### Product Images
 {% include my-gallery.html imagesurl="images/holga-120-lens-cap" alt="Holga 120 replacement lens cap"
-   filenames="holga-120-lens-cap-1.jpg,holga-120-lens-cap-2.jpg,holga-120-lens-cap-3.jpg,holga-120-lens-cap-4.jpg,holga-120-lens-cap-5.jpg" %}
+   filenames="holga-120-lens-cap-1.jpg,holga-120-lens-cap-2.jpg,holga-120-lens-cap-3.jpg,holga-120-lens-cap-4.jpg,holga-120-lens-cap-5.jpg,holga-120-lens-cap-6.jpg" %}
 
 ### Reviews
 > Shipped quickly and arrived well packaged. Fits my Holga perfectly. Better quality than the original lens cap it came with.

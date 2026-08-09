@@ -40,7 +40,7 @@ Not compatible with the 35 or 135 models.
 
 ### Product Images
 {% include my-gallery.html imagesurl="images/holga-120-back-clips" alt="Holga 120 replacement back clips"
-   filenames="holga-120-back-clips-8.jpg,holga-120-back-clips-1.jpg,holga-120-back-clips-2.jpg,holga-120-back-clips-3.jpg,holga-120-back-clips-4.jpg,holga-120-back-clips-5.jpg,holga-120-back-clips-6.jpg,holga-120-back-clips-7.jpg" %}
+   filenames="holga-120-back-clips-7.jpg,holga-120-back-clips-1.jpg,holga-120-back-clips-2.jpg,holga-120-back-clips-3.jpg,holga-120-back-clips-4.jpg,holga-120-back-clips-5.jpg,holga-120-back-clips-6.jpg,holga-120-back-clips-8.jpg,holga-120-back-clips-9.jpg" %}
 
 ### Reviews
 > A useful item, both for lost clips and as an update.
