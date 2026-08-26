@@ -1,7 +1,7 @@
 ---
 title: "Diana Instant Square Shutter Release Cable Adapter | 3D Printed UK"
 description: "3D printed shutter release cable adapter for the Lomography Diana Instant Square Instax camera. Enables long exposure photography and selfies. Made in the UK by Sparrow Fabrications."
-rating_count: 1
+rating_count: 4
 ---
 ## Lomography Diana Instant Square Shutter Release Cable Adapter
 Lomography Diana Instant Square Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included.
@@ -52,6 +52,18 @@ It is not compatible with the vintage Diana (1960s) and clone cameras from the p
 > This is a must have accessory for the Diana instant, and is well made.
 >
 > *Etsy Purchaser, Nov 2023*
+
+> Joe is great to work with. I'm so pleased to have this clever adapter for my Diana Instant Square.
+>
+> *Etsy Purchaser, Jun 2026*
+
+> The shutter release adapter for the Lomo Diana Square works perfectly!
+>
+> *Etsy Purchaser, Mar 2025*
+
+> Joe is great to do business with. His work is a labour of love and so he cares about his products and the people who buy them. His products are high quality. He is an excellent communicator. I would buy from him again.
+>
+> *Etsy Purchaser, Oct 2025*
 
 ### Also available for the Diana Instant Square
 - [Filter Adapter](diana-instant-square-filter.md)

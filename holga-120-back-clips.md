@@ -1,7 +1,7 @@
 ---
 title: "Holga 120 Replacement Back Clips | 3D Printed UK"
 description: "3D printed replacement back clips for Holga 120 cameras. Sturdier than the originals with built-in strap loops. Fits Holga 120N, 120S, 120CFN, 120WPC and more. Made in the UK by Sparrow Fabrications."
-rating_count: 3
+rating_count: 4
 ---
 ## Holga 120 Replacement Back Clips
 A pair of replacement back clips for Holga 120 cameras. These replace the rather flimsy standard clips which tend to fall off at inconvenient times. Camera shown is not included.
@@ -54,6 +54,10 @@ Not compatible with the 35 or 135 models.
 >	Great item!! It works as designed. Seller was great. Fast!!
 >
 > *Etsy Purchaser, August 2023*
+
+> Superbly made, beautiful quality.
+>
+> *Etsy Purchaser, Mar 2026*
 
 ### Also available for the Holga 120
 - [Composition Guide](holga-composition-guide.md)

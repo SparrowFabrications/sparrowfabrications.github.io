@@ -1,7 +1,7 @@
 ---
 title: "LomoApparat Replacement Lens Cap | 3D Printed UK"
 description: "3D printed replacement lens cap for LomoApparat cameras. Better fit than the original. Includes eyelet for a lens cap retention strap. Made in the UK by Sparrow Fabrications."
-rating_count: 1
+rating_count: 3
 ---
 ## LomoApparat Replacement Lens Cap
 A replacement lens cap for LomoApparat cameras. Camera shown is not included.
@@ -29,6 +29,14 @@ Tested with:
 >Thick, durable material and fits my LomoApparat perfectly! So glad I found this item after losing my original lens cap during my trip. Seller was responsive too when I inquired about international shipping.
 >
 > *ebay Purchaser, January 2025*
+
+> Absolutely brilliant! This lens cap is exactly the kind of product you never realise you need until you have it. It fits perfectly and is so thoughtfully designed. The quality is excellent, the packaging was very carefully done, and the dispatch was incredibly quick. A special thank you to Joe for the friendly updates and photos throughout the process. Thank you, SparrowFabrications, for such a wonderful product and outstanding service. Highly recommended!
+>
+> *Etsy Purchaser, Aug 2026*
+
+> Exactly what I needed, better than expected. Thank you so much!
+>
+> *Etsy Purchaser, Aug 2026*
 
 ### Also available for the LomoApparat
 - [Shutter Release Cable Adapter](lomoapparat-adapter.md)

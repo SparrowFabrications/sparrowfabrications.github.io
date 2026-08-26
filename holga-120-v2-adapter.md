@@ -1,7 +1,7 @@
 ---
 title: "Holga 120 Shutter Release Cable Adapter | 3D Printed UK"
 description: "3D printed shutter release cable adapter for Holga 120 cameras. Fits all major Holga 120 variants. Enables long exposure bulb mode photography. Includes shutter button extender. Made in the UK by Sparrow Fabrications."
-rating_count: 4
+rating_count: 8
 ---
 ## Holga 120 Shutter Release Cable Adapter
 Holga 120 Shutter Release Cable Adapter with shutter button extender. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included.
@@ -77,6 +77,22 @@ Can be used in three ways:
 > Another extremely useful item from this seller, it is very easy to fit and quite secure and does the job perfectly. Thanks for such useful items that make life a lot easier!
 >
 > *ebay Purchaser, March 2023*
+
+> Excellent service and communication. Quality product fits and works extremely well. Have not tried the shutter extension piece as I can operate the shutter as normal with the adapter in place. I am really pleased with this adapter and I would recommend it. The item arrived in perfect condition, really good value and of good appearance. I happily recommend this seller/business.
+>
+> *ebay Purchaser, 2025*
+
+> Highly recommended seller! Great comms, prompt postage, and a great little product. Thank you sparrowfabrications :)
+>
+> *ebay Purchaser, 2025*
+
+> Great product - works perfectly with my Holga 120PC.
+>
+> *Etsy Purchaser, Jun 2026*
+
+> Perfect and exactly what I needed. Thank you!
+>
+> *Etsy Purchaser, Apr 2026*
 
 ### Cameras without an integrated tripod mount
 This adapter can be attached to any tripod that has a standard UNC 1/4 inch bolt.

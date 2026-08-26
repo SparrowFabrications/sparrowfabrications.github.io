@@ -1,6 +1,7 @@
 ---
 title: "Belair X 6-12 Shutter Release Cable Adapter | 3D Printed UK"
 description: "3D printed shutter release cable adapter for the Lomography Belair X 6-12 medium format camera. Fits City Slicker and Jetsetter models. Made in the UK by Sparrow Fabrications."
+rating_count: 1
 ---
 ## Belair X 6-12 Shutter Release Cable Adapter
 Lomography Belair X 6-12 Shutter Release Cable Adapter. Please note the cable required is shown but not included. Camera shown is not included.
@@ -49,6 +50,11 @@ Should be compatible with:
 #### Product Images
 {% include my-gallery.html imagesurl="images/belair-x-6-12-adapter-jetsetter" alt="Belair X 6-12 Jetsetter shutter release cable adapter"
   filenames="belair-x-6-12-adapter-1.jpg,belair-x-6-12-adapter-2.jpg,belair-x-6-12-adapter-3.jpg,belair-x-6-12-adapter-4.jpg,belair-x-6-12-adapter-5.jpg,belair-x-6-12-adapter-6.jpg,shutter-release-cable.jpg" %}
+
+### Reviews
+> Excellent! Works perfectly and speedy delivery.
+>
+> *ebay Purchaser, 2026*
 
 ### Also available for the Belair X 6-12
 - [Body Cap](belair-x-6-12-body-cap.md)
