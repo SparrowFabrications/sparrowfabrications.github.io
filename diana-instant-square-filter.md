@@ -4,6 +4,13 @@ description: "3D printed filter adapter for the Lomography Diana Instant Square 
 rating_count: 1
 ---
 ## Diana Instant Square Filter Adapter
+
+<div class="shop-links">
+  <a href="https://www.etsy.com/uk/listing/1606944336/filter-adapter-for-diana-instant-square" class="btn-primary">Buy on Etsy</a>
+  <a href="https://www.ebay.co.uk/itm/126209211114" class="btn-primary">eBay UK</a>
+  <a href="https://www.ebay.com/itm/126209211114" class="btn-primary">eBay US</a>
+</div>
+
 Diana Instant Square Filter Adapter. Please note the step up ring required is shown but not included. Camera shown is not included.
 
 Designed by me from scratch to fit the Lomography Diana Instant Square. Requires a 37mm step up ring to suit whatever filters you wish to use.

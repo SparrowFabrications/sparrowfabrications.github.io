@@ -1,9 +1,16 @@
 ---
 title: "Holga 120 Filter Adapter | 3D Printed UK"
 description: "3D printed filter adapter for Holga 120 cameras. Accepts a 43mm step-up ring to use any photographic filter. Fits all major Holga 120 variants. Made in the UK by Sparrow Fabrications."
-rating_count: 4
+rating_count: 7
 ---
 ## Holga 120 Cameras Filter Adapter
+
+<div class="shop-links">
+  <a href="https://www.etsy.com/uk/listing/1607809480/filter-adapter-for-holga-120-camera" class="btn-primary">Buy on Etsy</a>
+  <a href="https://www.ebay.co.uk/itm/128017955602" class="btn-primary">eBay UK</a>
+  <a href="https://www.ebay.com/itm/128017955602" class="btn-primary">eBay US</a>
+</div>
+
 Holga 120 cameras filter adapter. Please note the step up ring required is shown but not included. Camera shown is not included.
 
 Designed by me from scratch to fit Holga 120 cameras. Requires a 43mm step up ring to suit whatever filters you wish to use.
@@ -55,6 +62,18 @@ It is not compatible with the 120GTLR, 120TLR, 120WPC, 35 or 135 models.
 > Fantastic store with top quality items. I'm a repeat buyer many times over.
 >
 > *Etsy Purchaser, Apr 2026*
+
+> Well-made item that serves a need not easily met otherwise.
+>
+> *Etsy Purchaser, Jan 2026*
+
+> Fits perfectly on my holga.
+>
+> *Etsy Purchaser, Dec 2025*
+
+> I absolutely recommend this product and this store! The seller was very helpful and quickly answered my questions. I even received the product earlier than expected.
+>
+> *Etsy Purchaser, Aug 2025*
 
 ### Also available for the Holga 120
 - [Composition Guide](holga-composition-guide.md)

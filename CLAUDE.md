@@ -28,13 +28,33 @@ rating_count: 4   # optional — only add once there are real reviews
 
 Substitute the camera model name throughout the body copy. The structure follows this pattern:
 
-1. Intro paragraph — what it is, what's shown but not included, link to cable if applicable
-2. `### Directions for use` — numbered steps
-3. `### Supported Cameras` — tested and compatible models
-4. `### Installation Video` — embed from Etsy static hosting (optional, only if video exists)
-5. `### Product Images` — gallery include (see below)
-6. `### Reviews` — blockquote format (optional, only once reviews exist)
-7. `### Also available for [camera]` — links to sibling products
+1. Title (`## `) heading
+2. Buy-links block — direct links to this product's own Etsy/eBay UK/eBay US listings (see below)
+3. Intro paragraph — what it is, what's shown but not included, link to cable if applicable
+4. `### Directions for use` — numbered steps
+5. `### Supported Cameras` — tested and compatible models
+6. `### Installation Video` — embed from Etsy static hosting (optional, only if video exists)
+7. `### Product Images` — gallery include (see below)
+8. `### Reviews` — blockquote format (optional, only once reviews exist)
+9. `### Also available for [camera]` — links to sibling products
+
+### Buy-links block
+
+Immediately after the `## ` title heading (before the intro/description paragraph), add direct links to this specific product's own listings (not the shop homepage — those live in `purchasing.md`/`index.md`). Leave a blank line both before and after the block so Kramdown renders it correctly:
+
+```html
+<div class="shop-links">
+  <a href="https://www.etsy.com/uk/listing/<id>/<slug>" class="btn-primary">Buy on Etsy</a>
+  <a href="https://www.ebay.co.uk/itm/<item-number>" class="btn-primary">eBay UK</a>
+  <a href="https://www.ebay.com/itm/<item-number>" class="btn-primary">eBay US</a>
+</div>
+```
+
+eBay UK and eBay US share the same item number for a given listing — the US link is just the `.com` version of the same `/itm/<item-number>` path, not a separate lookup.
+
+If a product page covers more than one distinct listing (e.g. separate variants each sold as their own Etsy/eBay listing, like the Holga 120 vs 120S adapter, or the Belair City Slicker vs Jetsetter adapter), place a buy-links block under each variant's own subsection heading instead of once at the top.
+
+eBay's shop, search, and item pages are bot-protected (Akamai) and cannot be reliably fetched or verified programmatically — likewise Etsy's shop/listing pages (DataDome). Don't guess or fabricate listing IDs; get them from the seller directly (e.g. the seller's own dashboard, or a supplied export/mapping) rather than scraping.
 
 ### 3. Images
 

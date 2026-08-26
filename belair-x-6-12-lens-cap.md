@@ -4,6 +4,13 @@ description: "3D printed replacement lens cap for the Lomography Belair X 6-12 m
 rating_count: 1
 ---
 ## Belair X 6-12 Lens Cap
+
+<div class="shop-links">
+  <a href="https://www.etsy.com/uk/listing/1816053797/replacement-lens-cap-for-belair-x-6-12" class="btn-primary">Buy on Etsy</a>
+  <a href="https://www.ebay.co.uk/itm/126744045621" class="btn-primary">eBay UK</a>
+  <a href="https://www.ebay.com/itm/126744045621" class="btn-primary">eBay US</a>
+</div>
+
 A replacement lens cap for Belair X 6-12 cameras. Camera shown is not included.
 
 There is an eyelet so you may attach a lens cap retention strap.

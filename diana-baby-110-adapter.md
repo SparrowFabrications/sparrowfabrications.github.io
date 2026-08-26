@@ -3,6 +3,13 @@ title: "Diana Baby 110 Shutter Release Cable Adapter | 3D Printed UK"
 description: "3D printed shutter release cable adapter for the Lomography Diana Baby 110 camera. Includes integrated tripod mount for stable long exposure photography. Made in the UK by Sparrow Fabrications."
 ---
 ## Lomography Diana Baby 110 Shutter Release Cable Adapter
+
+<div class="shop-links">
+  <a href="https://www.etsy.com/uk/listing/1835007064/shutter-release-cable-adapter-for-diana" class="btn-primary">Buy on Etsy</a>
+  <a href="https://www.ebay.co.uk/itm/126851504651" class="btn-primary">eBay UK</a>
+  <a href="https://www.ebay.com/itm/126851504651" class="btn-primary">eBay US</a>
+</div>
+
 Lomography Diana Baby 110 Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included.
 
 Designed by me from scratch to fit the Diana Baby 110 camera. It allows you to use a shutter release cable for beautiful long exposure pictures. This is intended to be used with a tripod to secure the adapter in place. It has an integrated tripod mount to allow you to seat the camera on a tripod.

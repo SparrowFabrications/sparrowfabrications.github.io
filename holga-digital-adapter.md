@@ -4,6 +4,13 @@ description: "3D printed shutter release cable adapter for Holga Digital cameras
 Made in the UK by Sparrow Fabrications."
 ---
 ## Holga Digital Shutter Release Cable Adapter
+
+<div class="shop-links">
+  <a href="https://www.etsy.com/uk/listing/4548445687/shutter-release-cable-adapter-for-holga" class="btn-primary">Buy on Etsy</a>
+  <a href="https://www.ebay.co.uk/itm/128007370350" class="btn-primary">eBay UK</a>
+  <a href="https://www.ebay.com/itm/128007370350" class="btn-primary">eBay US</a>
+</div>
+
 Holga Digital Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included.
 
 Designed by me from scratch to fit the Holga Digital camera. These adapters allow you to use a shutter release cable for beautiful long exposure pictures.

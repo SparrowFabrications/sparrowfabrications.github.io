@@ -1,7 +1,7 @@
 ---
 title: "Holga 120 Shutter Release Cable Adapter | 3D Printed UK"
 description: "3D printed shutter release cable adapter for Holga 120 cameras. Fits all major Holga 120 variants. Enables long exposure bulb mode photography. Includes shutter button extender. Made in the UK by Sparrow Fabrications."
-rating_count: 8
+rating_count: 15
 ---
 ## Holga 120 Shutter Release Cable Adapter
 Holga 120 Shutter Release Cable Adapter with shutter button extender. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included.
@@ -46,6 +46,13 @@ Should be compatible with:
 Not compatible with the 120WPC, 35 or 135 models.
 
 ### Cameras with an integrated tripod mount
+
+<div class="shop-links">
+  <a href="https://www.etsy.com/uk/listing/1376382311/shutter-release-cable-adapter-button" class="btn-primary">Buy on Etsy</a>
+  <a href="https://www.ebay.co.uk/itm/125533418672" class="btn-primary">eBay UK</a>
+  <a href="https://www.ebay.com/itm/125533418672" class="btn-primary">eBay US</a>
+</div>
+
 You can access the tripod socket through the tripod mount on the bottom of the adapter. Alternatively, you may remove the tripod mount from the adapter for flush mounting on the tripod.
 
 Can be used in three ways:
@@ -94,7 +101,22 @@ Can be used in three ways:
 >
 > *Etsy Purchaser, Apr 2026*
 
+> Works as it should. Good bit of kit!
+>
+> *Etsy Purchaser, Jul 2026*
+
+> Shutter release mount works flawlessly. I've bought from this store multiple times and will continue to do so.
+>
+> *Etsy Purchaser, Apr 2026*
+
 ### Cameras without an integrated tripod mount
+
+<div class="shop-links">
+  <a href="https://www.etsy.com/uk/listing/1410650095/shutter-release-cable-adapter-button" class="btn-primary">Buy on Etsy</a>
+  <a href="https://www.ebay.co.uk/itm/125727724645" class="btn-primary">eBay UK</a>
+  <a href="https://www.ebay.com/itm/125727724645" class="btn-primary">eBay US</a>
+</div>
+
 This adapter can be attached to any tripod that has a standard UNC 1/4 inch bolt.
 
 #### Installation Video
@@ -103,6 +125,27 @@ This adapter can be attached to any tripod that has a standard UNC 1/4 inch bolt
 #### Product Images
 {% include my-gallery.html imagesurl="images/holga-120s-adapter" alt="Holga 120S shutter release cable adapter without tripod mount"
    filenames="holga-120s-adapter-1.jpg,holga-120s-adapter-2.jpg,holga-120s-adapter-3.jpg,holga-120s-adapter-4.jpg,holga-120s-adapter-5.jpg,holga-120s-adapter-6.jpg,holga-120s-adapter-7.jpg,holga-120s-adapter-81.jpg,shutter-release-cable.jpg" %}
+
+#### Reviews
+> Good eBay experience. Helpful seller – made sure I had ordered the right adapter for a Holga camera before sending, when I had actually ordered the wrong type. Thanks!
+>
+> *ebay Purchaser, 2024*
+
+> Fits perfect! Quick response from seller. Very good custom product.
+>
+> *ebay Purchaser, 2024*
+
+> Exactly what I was looking for, a great price on an item I couldn't get anywhere else.
+>
+> *ebay Purchaser, 2024*
+
+> Item fits Holga perfectly and looks the part. Great service, thoroughly recommend this seller.
+>
+> *ebay Purchaser, 2024*
+
+> Absolutely went above and beyond as a seller! Would buy camera gear again from them!!
+>
+> *ebay Purchaser, 2024*
 
 ### Also available for the Holga 120
 - [Composition Guide](holga-composition-guide.md)

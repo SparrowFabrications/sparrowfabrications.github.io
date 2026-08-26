@@ -1,8 +1,16 @@
 ---
 title: "Holga 135 Filter Adapter | 3D Printed UK"
 description: "3D printed filter adapter for Holga 135 cameras. Accepts a 43mm step-up ring to use any photographic filter. Fits Holga 135, 135BC and 135FC. Made in the UK by Sparrow Fabrications."
+rating_count: 1
 ---
 ## Holga 135 Cameras Filter Adapter
+
+<div class="shop-links">
+  <a href="https://www.etsy.com/uk/listing/1810354235/filter-adapter-for-holga-135-camera" class="btn-primary">Buy on Etsy</a>
+  <a href="https://www.ebay.co.uk/itm/126725395783" class="btn-primary">eBay UK</a>
+  <a href="https://www.ebay.com/itm/126725395783" class="btn-primary">eBay US</a>
+</div>
+
 Holga 135 cameras filter adapter. Please note the step up ring required is shown but not included. Camera shown is not included.
 
 Designed by me from scratch to fit Holga 135 cameras. Requires a 43mm step up ring to suit whatever filters you wish to use.
@@ -30,6 +38,11 @@ It is not compatible with the 35 or 120 models.
 ### Product Images
 {% include my-gallery.html imagesurl="images/holga-135-filter" alt="Holga 135 filter adapter"
    filenames="holga-135-filter-1.jpg,holga-135-filter-2.jpg,holga-135-filter-3.jpg,holga-135-filter-4.jpg,holga-135-filter-5.jpg,holga-135-filter-6.jpg" %}
+
+### Reviews
+> Amazing store. I bought from them multiple times in the past and everything has fit and worked perfectly.
+>
+> *Etsy Purchaser, Mar 2026*
 
 ### Also available for the Holga 135
 - [Lens Cap](holga-135-lens-cap.md)

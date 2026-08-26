@@ -1,9 +1,16 @@
 ---
 title: "LomoApparat Shutter Release Cable Adapter | 3D Printed UK"
 description: "3D printed shutter release cable adapter for the LomoApparat 35mm film camera. Enables long exposure photography. Compatible with LomoApparat Close Up, Kaleidoscope and Splitzer attachments. Made in the UK by Sparrow Fabrications."
-rating_count: 1
+rating_count: 6
 ---
 ## LomoApparat Shutter Release Cable Adapter
+
+<div class="shop-links">
+  <a href="https://www.etsy.com/uk/listing/1810447535/shutter-release-cable-adapter-for" class="btn-primary">Buy on Etsy</a>
+  <a href="https://www.ebay.co.uk/itm/126725597758" class="btn-primary">eBay UK</a>
+  <a href="https://www.ebay.com/itm/126725597758" class="btn-primary">eBay US</a>
+</div>
+
 LomoApparat Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included.
 
 Designed by me from scratch to fit the LomoApparat camera. It allows you to use a shutter release cable for beautiful long exposures.
@@ -37,6 +44,26 @@ Tested with:
 >Thank you sparrowfabrications for this wonderful attachment, it turns the Apparat into an even better camera - the missing accessory has been found! The included lens cap also works a treat - well better than the original! The attachment itself and it's holding clip are extremely well thought out and effortless in use.
 >
 > *ebay Purchaser, Nov 2024*
+
+> High tech bits for lo-fi gear.
+>
+> *Etsy Purchaser, Aug 2025*
+
+> This item has a great fit and function.
+>
+> *Etsy Purchaser, Jan 2025*
+
+> Great shop. Great service. Great product.
+>
+> *Etsy Purchaser, Sep 2025*
+
+> As always a super purchase for an extremely useful accessory, good to know there's somebody out there to cater for analogue enthusiasts!
+>
+> *ebay Purchaser, 2026*
+
+> Your products got to me at 10th of November. There is no broken parts. I tried setting it up onto my APPARAT, and that is good. I will take it with my APPARAT on next weekend. Thanks a lot.
+>
+> *ebay Purchaser, 2025*
 
 ### Also available for the LomoApparat
 - [Lens Cap](lomoapparat-lens-cap.md)

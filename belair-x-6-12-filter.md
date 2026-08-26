@@ -1,8 +1,16 @@
 ---
 title: "Belair X 6-12 Filter Adapter | 3D Printed UK"
 description: "3D printed filter adapter for the Lomography Belair X 6-12 medium format camera. Accepts a 37mm step-up ring to use any photographic filter. Made in the UK by Sparrow Fabrications."
+rating_count: 3
 ---
 ## Belair X 6-12 Filter Adapter
+
+<div class="shop-links">
+  <a href="https://www.etsy.com/uk/listing/1744272458/filter-adapter-for-belair-x-6-12-camera" class="btn-primary">Buy on Etsy</a>
+  <a href="https://www.ebay.co.uk/itm/126565880764" class="btn-primary">eBay UK</a>
+  <a href="https://www.ebay.com/itm/126565880764" class="btn-primary">eBay US</a>
+</div>
+
 Belair X 6-12 Filter Adapter. Please note the step up ring required is shown but not included. Camera shown is not included.
 
 Designed by me from scratch to fit the Belair X 6-12 camera. This fits both of the supplied lenses. Requires a 37mm step up ring to suit whatever filters you wish to use.
@@ -29,6 +37,19 @@ Should be compatible with:
 ### Product Images
 {% include my-gallery.html imagesurl="images/belair-x-6-12-filter" alt="Belair X 6-12 filter adapter"
    filenames="belair-x-6-12-filter-1.jpg,belair-x-6-12-filter-2.jpg,belair-x-6-12-filter-3.jpg,belair-x-6-12-filter-4.jpg,belair-x-6-12-filter-5.jpg,belair-x-6-12-filter-6.jpg" %}
+
+### Reviews
+> Great Fit - Quick Delivery!!
+>
+> *ebay Purchaser, 2025*
+
+> Nicely packed and fast delivery, thank you!
+>
+> *ebay Purchaser, 2024*
+
+> A useful add-on to increase the useability of the lens.
+>
+> *ebay Purchaser, 2024*
 
 ### Also available for the Belair X 6-12
 - [Body Cap](belair-x-6-12-body-cap.md)

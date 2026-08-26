@@ -3,6 +3,13 @@ title: "Belair X 6-12 Replacement Body Cap | 3D Printed UK"
 description: "3D printed replacement body cap for the Lomography Belair X 6-12 medium format camera. Fits all Belair X 6-12 variants. Made in the UK by Sparrow Fabrications."
 ---
 ## Belair X 6-12 Body Cap
+
+<div class="shop-links">
+  <a href="https://www.etsy.com/uk/listing/4464837156/replacement-body-cap-for-belair-x-6-12" class="btn-primary">Buy on Etsy</a>
+  <a href="https://www.ebay.co.uk/itm/127711636045" class="btn-primary">eBay UK</a>
+  <a href="https://www.ebay.com/itm/127711636045" class="btn-primary">eBay US</a>
+</div>
+
 A replacement body cap for Belair X 6-12 cameras. Camera shown is not included.
 
 Designed by me from scratch to fit the Belair X 6-12 camera.

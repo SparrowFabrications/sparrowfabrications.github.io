@@ -1,9 +1,16 @@
 ---
 title: "120 Format Film Index Card Holder | 3D Printed UK"
 description: "3D printed index card holder for 120 format film cameras such as the Holga and Diana. Attach to your camera and never forget what film you are shooting. Made in the UK by Sparrow Fabrications."
-rating_count: 5
+rating_count: 7
 ---
 ## Index Card Holder for 120 Format Film
+
+<div class="shop-links">
+  <a href="https://www.etsy.com/uk/listing/1490795301/index-card-holder-for-120-format-film" class="btn-primary">Buy on Etsy</a>
+  <a href="https://www.ebay.co.uk/itm/125943929976" class="btn-primary">eBay UK</a>
+  <a href="https://www.ebay.com/itm/125943929976" class="btn-primary">eBay US</a>
+</div>
+
 Index Card Holder to remind you what 120 film, type and format you are shooting. Never forget what film you are shooting again!
 
 The dimensions of this item are:
@@ -43,6 +50,14 @@ Suitable for cameras shooting 120 format film such as Holgas and Diana’s shown
 > Seller was fast to ship, the products work as described and are easy to use. The products also seem very durable and not likely to get lost.
 >
 > *Etsy Purchaser, Apr 2026*
+
+> It's exactly what I wanted. The perfect accessory to my old Pentax K1000. I always forget what stock I have on, and so this little thing will help.
+>
+> *Etsy Purchaser, Feb 2026*
+
+> I love these. Very high quality.
+>
+> *Etsy Purchaser, Feb 2026*
 
 ### Also available
 - [35mm Film Index Card Holder](35mm-film-index-card-holder.md)

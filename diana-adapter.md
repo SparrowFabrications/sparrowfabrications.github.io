@@ -1,8 +1,16 @@
 ---
 title: "Vintage Diana (1960s) and Clone Camera Shutter Release Cable Adapter | 3D Printed UK"
 description: "3D printed shutter release cable adapter for vintage Diana 120 cameras (1960s), Diana F, and clone cameras. Enables long exposure photography. Made in the UK by Sparrow Fabrications."
+rating_count: 1
 ---
 ## Vintage Diana (1960s), Diana F and Clone Cameras Shutter Release Cable Adapter
+
+<div class="shop-links">
+  <a href="https://www.etsy.com/uk/listing/1579117829/shutter-release-cable-adapter-for" class="btn-primary">Buy on Etsy</a>
+  <a href="https://www.ebay.co.uk/itm/126118962624" class="btn-primary">eBay UK</a>
+  <a href="https://www.ebay.com/itm/126118962624" class="btn-primary">eBay US</a>
+</div>
+
 Vintage (1960s) Diana 120 Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included.
 
 Designed by me from scratch to fit the original 1960s Diana 120 camera, Diana F and any similar clones from that period with an identical shutter button placement and action. It allows you to use a shutter release cable for beautiful long exposure pictures.
@@ -54,6 +62,11 @@ It is not compatible with the Lomography range of new Diana models such as the D
 ### Product Images
 {% include my-gallery.html imagesurl="images/diana-adapter" alt="Vintage Diana 120 shutter release cable adapter"
    filenames="diana-adapter-1.jpg,diana-adapter-2.jpg,diana-adapter-3.jpg,diana-adapter-4.jpg,diana-adapter-5.jpg,diana-adapter-6.jpg,diana-adapter-7.jpg,diana-adapter-8.jpg,diana-adapter-9.jpg,diana-adapter-10.jpg,diana-adapter-11.jpg,shutter-release-cable.jpg" %}
+
+### Reviews
+> Great adaptor. Perfect vendor.
+>
+> *ebay Purchaser, 2026*
 
 ### Also available for Diana cameras
 - [Diana F+ and Diana+ Shutter Release Cable Adapter](diana-f+-adapter.md)

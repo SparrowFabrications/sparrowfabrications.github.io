@@ -1,9 +1,16 @@
 ---
 title: "Holga 120 Replacement Lens Cap | 3D Printed UK"
 description: "3D printed replacement lens cap for Holga 120 cameras. Fits Holga 120N, 120S, 120CFN, 120WPC and all major variants. Includes eyelet for a retention strap. Made in the UK by Sparrow Fabrications."
-rating_count: 1
+rating_count: 4
 ---
 ## Holga 120 Replacement Lens Cap
+
+<div class="shop-links">
+  <a href="https://www.etsy.com/uk/listing/1642916692/replacement-lens-cap-for-holga-120" class="btn-primary">Buy on Etsy</a>
+  <a href="https://www.ebay.co.uk/itm/128018006496" class="btn-primary">eBay UK</a>
+  <a href="https://www.ebay.com/itm/128018006496" class="btn-primary">eBay US</a>
+</div>
+
 A replacement lens cap for Holga 120 cameras. Camera shown is not included.
 
 There is an eyelet so you may attach a lens cap retention strap.
@@ -42,6 +49,18 @@ Not compatible with the 35 or 135 models.
 > Shipped quickly and arrived well packaged. Fits my Holga perfectly. Better quality than the original lens cap it came with.
 >
 > *Etsy Purchaser, Feb 2024*
+
+> Lens cap fits my holga 120 perfectly. Thanks!
+>
+> *Etsy Purchaser, Nov 2025*
+
+> Everything about this purchase was perfect. The lens cap fits perfectly. Super happy customer here.
+>
+> *Etsy Purchaser, May 2025*
+
+> Great. Nice article. Beautiful work.
+>
+> *Etsy Purchaser, Mar 2026*
 
 ### Also available for the Holga 120
 - [Composition Guide](holga-composition-guide.md)

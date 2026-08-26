@@ -1,9 +1,16 @@
 ---
 title: "Sprocket Rocket Shutter Release Cable Adapter | 3D Printed UK"
 description: "3D printed shutter release cable adapter for the Lomography Sprocket Rocket 35mm film camera. Enables long exposure photography. Fits both Sprocket Rocket versions. Made in the UK by Sparrow Fabrications."
-rating_count: 1
+rating_count: 8
 ---
 ## Lomography Sprocket Rocket Shutter Release Cable Adapter
+
+<div class="shop-links">
+  <a href="https://www.etsy.com/uk/listing/1526217418/shutter-release-cable-adapter-for" class="btn-primary">Buy on Etsy</a>
+  <a href="https://www.ebay.co.uk/itm/126045205623" class="btn-primary">eBay UK</a>
+  <a href="https://www.ebay.com/itm/126045205623" class="btn-primary">eBay US</a>
+</div>
+
 Lomography Sprocket Rocket Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included.
 
 Designed by me from scratch to fit the Lomography Sprocket Rocket camera. It allows you to use a shutter release cable for beautiful long exposure pictures or selfies.
@@ -50,6 +57,34 @@ Should be compatible with:
 > "The Sprocket Rocket cable release adapter from Sparrow Fabrications was excellent. Gone are the days of needing to use a rubber band to make long exposures."
 >
 >*[https://www.jeremymuddphoto.com](https://www.jeremymuddphoto.com/blog/2023/12/11/early-morning-adventures-with-harman-phoenix-200-and-reflx-labs-800t), Dec 2023*
+
+> As described. Great solution. Ta.
+>
+> *Etsy Purchaser, Jun 2026*
+
+> Beautiful adapter that fits the sprocket rocket perfectly. Works flawlessly. I could not be happier.
+>
+> *Etsy Purchaser, Jan 2026*
+
+> Top tier customer service! Great product!
+>
+> *Etsy Purchaser, Mar 2024*
+
+> All parts arrived and are brand new 3D printed parts. Fit perfectly and was as the pictures in the listing. Decent price for an item that someone put time and effort into designing. Very happy. Good quality.
+>
+> *ebay Purchaser, 2025*
+
+> The item arrived yesterday safely, promptly, and exactly as described in the sales listing. I installed on the Sprocket Rocket and worked enough to know that it'll stay "glued" to the little camera from here on out. It's a wonderful design and produced item. Well done, sir.
+>
+> *ebay Purchaser, 2025*
+
+> Thank you again for such a useful item for my Sprocket Rocket camera. A friend had my original, so didn't think twice about a further purchase! I really like your accessories!
+>
+> *ebay Purchaser, 2026*
+
+> It really works!
+>
+> *ebay Purchaser, 2026*
 
 ### Also available for the Sprocket Rocket
 - [Filter Adapter](lomography-sprocket-rocket-filter.md)

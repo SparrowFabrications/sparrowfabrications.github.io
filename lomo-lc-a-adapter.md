@@ -1,9 +1,16 @@
 ---
 title: "LOMO LC-A Shutter Release Cable and Filter Adapter | 3D Printed UK"
 description: "3D printed shutter release cable and filter adapter for the LOMO LC-A 35mm film camera. Enables long exposure photography and use of photographic filters. Made in the UK by Sparrow Fabrications."
-rating_count: 1
+rating_count: 4
 ---
 ## LOMO LC-A Shutter Release Cable Adapter
+
+<div class="shop-links">
+  <a href="https://www.etsy.com/uk/listing/1798162674/shutter-release-cable-filter-adapter-for" class="btn-primary">Buy on Etsy</a>
+  <a href="https://www.ebay.co.uk/itm/126731997734" class="btn-primary">eBay UK</a>
+  <a href="https://www.ebay.com/itm/126731997734" class="btn-primary">eBay US</a>
+</div>
+
 LOMO LC-A Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included. Also, note the step up ring required is shown but not included. Requires a 30mm step up ring to suit whatever filters you wish to use.
 
 Designed by me from scratch to fit the LOMO LC-A camera. It allows you to use a shutter release cable and filters.
@@ -43,3 +50,15 @@ It is not compatible with the LC-A+ or 120 models.
 >Thank you again sparrowfabrications for this much needed attachment, it turns the LCA+ - an already a superior camera into an even more useful one! ... Fitting the adapter attachment was very easy and it stays secure in use.
 >
 > *ebay Purchaser, Nov 2024*
+
+> Here's a five word review.
+>
+> *Etsy Purchaser, Jul 2026*
+
+> It was an ideal thing for me. Thank you very much!!
+>
+> *Etsy Purchaser, Feb 2025*
+
+> The original LC-A has a tripod mount, but doesn't have a threaded shutter button that would allow the use of a release cable. This adapter is a really well-designed solution to that problem. It clips onto the camera body easily and doesn't get in the way of the viewfinder. I would highly recommend this if you want to use your LC-A with a tripod for longer exposures.
+>
+> *ebay Purchaser, 2024*

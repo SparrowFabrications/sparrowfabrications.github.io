@@ -1,7 +1,7 @@
 ---
 title: "Belair X 6-12 Shutter Release Cable Adapter | 3D Printed UK"
 description: "3D printed shutter release cable adapter for the Lomography Belair X 6-12 medium format camera. Fits City Slicker and Jetsetter models. Made in the UK by Sparrow Fabrications."
-rating_count: 1
+rating_count: 11
 ---
 ## Belair X 6-12 Shutter Release Cable Adapter
 Lomography Belair X 6-12 Shutter Release Cable Adapter. Please note the cable required is shown but not included. Camera shown is not included.
@@ -35,6 +35,12 @@ Should be compatible with:
 
 ### City Slicker in Black Plastic
 
+<div class="shop-links">
+  <a href="https://www.etsy.com/uk/listing/1655883540/shutter-release-cable-adapter-for-belair" class="btn-primary">Buy on Etsy</a>
+  <a href="https://www.ebay.co.uk/itm/126309793340" class="btn-primary">eBay UK</a>
+  <a href="https://www.ebay.com/itm/126309793340" class="btn-primary">eBay US</a>
+</div>
+
 #### Installation Video
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_0498_ly68by.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
@@ -42,7 +48,42 @@ Should be compatible with:
 {% include my-gallery.html imagesurl="images/belair-x-6-12-adapter" alt="Belair X 6-12 shutter release cable adapter"
    filenames="belair-x-6-12-adapter-1.jpg,belair-x-6-12-adapter-2.jpg,belair-x-6-12-adapter-3.jpg,belair-x-6-12-adapter-4.jpg,belair-x-6-12-adapter-5.jpg,belair-x-6-12-adapter-6.jpg,shutter-release-cable.jpg" %}
 
+#### Reviews
+> Excellent! Works perfectly and speedy delivery.
+>
+> *ebay Purchaser, 2026*
+
+> Polite and reasonable seller. Updated 23 Jun 25: well received and perfectly working with the camera.
+>
+> *Etsy Purchaser, Jun 2025*
+
+> Everything's great. Thanks for the excellent solution!
+>
+> *Etsy Purchaser, Jan 2026*
+
+> Come da inserzione. *(As per the listing.)*
+>
+> *ebay Purchaser, 2026*
+
+> Superb design!
+>
+> *ebay Purchaser, 2024*
+
+> Something which should have formed part of the basic camera kit - a very useful 'add-on'.
+>
+> *ebay Purchaser, 2024*
+
+> Good item, good design. I'm glad someone invented this! Thanks.
+>
+> *ebay Purchaser, 2024*
+
 ### Jetsetter in Brown Leather and Metal
+
+<div class="shop-links">
+  <a href="https://www.etsy.com/uk/listing/1837435766/shutter-release-cable-adapter-for-belair" class="btn-primary">Buy on Etsy</a>
+  <a href="https://www.ebay.co.uk/itm/126859629987" class="btn-primary">eBay UK</a>
+  <a href="https://www.ebay.com/itm/126859629987" class="btn-primary">eBay US</a>
+</div>
 
 #### Installation Video
 <video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_4237_bb9qsa.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
@@ -51,10 +92,22 @@ Should be compatible with:
 {% include my-gallery.html imagesurl="images/belair-x-6-12-adapter-jetsetter" alt="Belair X 6-12 Jetsetter shutter release cable adapter"
   filenames="belair-x-6-12-adapter-1.jpg,belair-x-6-12-adapter-2.jpg,belair-x-6-12-adapter-3.jpg,belair-x-6-12-adapter-4.jpg,belair-x-6-12-adapter-5.jpg,belair-x-6-12-adapter-6.jpg,shutter-release-cable.jpg" %}
 
-### Reviews
-> Excellent! Works perfectly and speedy delivery.
+#### Reviews
+> Fit is excellent, the release is well made and well engineered. It worked first-time and every time I used it. Thanks Joe.
 >
-> *ebay Purchaser, 2026*
+> *ebay Purchaser, 2024*
+
+> Great Fit - Quick Delivery - Thanks!
+>
+> *ebay Purchaser, 2025*
+
+> Very clever design and very fast delivery.
+>
+> *ebay Purchaser, 2024*
+
+> Exactly as described, and quick shipping!
+>
+> *ebay Purchaser, 2024*
 
 ### Also available for the Belair X 6-12
 - [Body Cap](belair-x-6-12-body-cap.md)

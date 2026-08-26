@@ -1,9 +1,15 @@
 ---
 title: "Diana Instant Square Replacement Lens Cap | 3D Printed UK"
 description: "3D printed replacement lens cap for Lomography Diana Instant Square cameras. Better fit than the original. Push-fit with eyelet for a lens cap retention strap. Made in the UK by Sparrow Fabrications."
-rating_count: 1
 ---
 ## Diana Instant Square Replacement Lens Cap
+
+<div class="shop-links">
+  <a href="https://www.etsy.com/uk/listing/1672415704/replacement-lens-cap-for-diana-instant" class="btn-primary">Buy on Etsy</a>
+  <a href="https://www.ebay.co.uk/itm/126351977727" class="btn-primary">eBay UK</a>
+  <a href="https://www.ebay.com/itm/126351977727" class="btn-primary">eBay US</a>
+</div>
+
 A replacement lens cap for Diana Instant Square cameras. Camera shown is not included.
 
 There is an eyelet so you may attach a lens cap retention strap.
@@ -23,12 +29,6 @@ Tested with:
 ### Product Images
 {% include my-gallery.html imagesurl="images/diana-instant-square-lens-cap" alt="Diana Instant Square replacement lens cap"
    filenames="diana-instant-square-lens-cap-1.jpg,diana-instant-square-lens-cap-2.jpg,diana-instant-square-lens-cap-3.jpg,diana-instant-square-lens-cap-4.jpg,diana-instant-square-lens-cap-5.jpg" %}
-
-### Reviews
-
-> Love my replacement lens cap. Fits perfectly and honestly, it fits better than the original lens cap that came with my camera which was always loose and falling off. This one fits snug and feels very durable. Very happy with my purchase.
->
-> *Etsy Purchaser, April 2024*
 
 ### Also available for the Diana Instant Square
 - [Filter Adapter](diana-instant-square-filter.md)

@@ -1,9 +1,16 @@
 ---
 title: "Holga 120 Replacement Back Clips | 3D Printed UK"
 description: "3D printed replacement back clips for Holga 120 cameras. Sturdier than the originals with built-in strap loops. Fits Holga 120N, 120S, 120CFN, 120WPC and more. Made in the UK by Sparrow Fabrications."
-rating_count: 4
+rating_count: 8
 ---
 ## Holga 120 Replacement Back Clips
+
+<div class="shop-links">
+  <a href="https://www.etsy.com/uk/listing/1476606514/replacement-back-clips-for-holga-120" class="btn-primary">Buy on Etsy</a>
+  <a href="https://www.ebay.co.uk/itm/128017905804" class="btn-primary">eBay UK</a>
+  <a href="https://www.ebay.com/itm/128017905804" class="btn-primary">eBay US</a>
+</div>
+
 A pair of replacement back clips for Holga 120 cameras. These replace the rather flimsy standard clips which tend to fall off at inconvenient times. Camera shown is not included.
 
 These clips are designed to hold the back in place more sturdily. They slide into place and are designed to fit tightly.
@@ -58,6 +65,22 @@ Not compatible with the 35 or 135 models.
 > Superbly made, beautiful quality.
 >
 > *Etsy Purchaser, Mar 2026*
+
+> Seller worked with me and shipped a different version of the product to fit my camera. Great customer service!
+>
+> *Etsy Purchaser, Jun 2026*
+
+> Excellent, well-made and very practical item.
+>
+> *Etsy Purchaser, Nov 2025*
+
+> I'm actually shocked at how tight and secure these back clips are. The fit is perfect. Such an improvement over the old janky aluminum ones. Thanks a lot!!
+>
+> *Etsy Purchaser, Nov 2025*
+
+> Joe is an exceptional and honest seller.
+>
+> *Etsy Purchaser, Sep 2025*
 
 ### Also available for the Holga 120
 - [Composition Guide](holga-composition-guide.md)

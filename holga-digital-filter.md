@@ -3,6 +3,13 @@ title: "Holga Digital Filter Adapter | 3D Printed UK"
 description: "3D printed filter adapter for Holga Digital cameras. Accepts a 37mm step-up ring to use any photographic filter. Made in the UK by Sparrow Fabrications."
 ---
 ## Holga Digital Cameras Filter Adapter
+
+<div class="shop-links">
+  <a href="https://www.etsy.com/uk/listing/4548458402/filter-adapter-for-holga-digital-camera" class="btn-primary">Buy on Etsy</a>
+  <a href="https://www.ebay.co.uk/itm/128007374314" class="btn-primary">eBay UK</a>
+  <a href="https://www.ebay.com/itm/128007374314" class="btn-primary">eBay US</a>
+</div>
+
 Holga Digital cameras filter adapter. Please note the step up ring required is shown but not included. Camera shown is not included.
 
 Designed by me from scratch to fit Holga Digital cameras. Requires a 37mm step up ring to suit whatever filters you wish to use.
