@@ -32,8 +32,9 @@ Get the site:
     cd sparrowfabrications.github.io
     bundle install
 
-Then serve:
+Then set the Ruby version and serve:
 
+    chruby 3.4.9
     bundle exec jekyll serve
 
 # Update
