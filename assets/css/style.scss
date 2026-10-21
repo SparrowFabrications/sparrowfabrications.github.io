@@ -512,7 +512,7 @@ footer.inner {
   padding: 2.25rem 2rem !important;
   width: auto !important;
   display: grid !important;
-  grid-template-columns: 1fr auto !important;
+  grid-template-columns: 1fr auto auto !important;
   gap: 2rem !important;
   align-items: start;
   background: none !important;
@@ -552,6 +552,39 @@ footer.inner {
     letter-spacing: 0.04em;
 
     &:hover { color: var(--accent-light); border-bottom-color: transparent; }
+  }
+}
+
+.footer-social {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+
+  .footer-shop-label {
+    font-size: 0.68rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    margin-bottom: 0.1rem;
+  }
+
+  .footer-social-icons {
+    display: flex;
+    gap: 0.9rem;
+    align-items: center;
+  }
+
+  a {
+    display: inline-flex;
+    color: var(--accent);
+    border-bottom: none;
+
+    &:hover { color: var(--accent-light); border-bottom-color: transparent; }
+  }
+
+  svg {
+    width: 1.35rem;
+    height: 1.35rem;
   }
 }
 
