@@ -57,7 +57,7 @@ All of my shutter release cable adapters require a suitable shutter release cabl
   - [35mm Film Index Card Holder](35mm-film-index-card-holder.md)
 
 ### LOMO LC-A Cameras
-- [Shutter Release Cable Adapter](lomo-lc-a-adapter.md)
+- [Shutter Release Cable and Filter Adapter](lomo-lc-a-adapter.md)
 
 ### LomoApparat Cameras
 - [Shutter Release Cable Adapter](lomoapparat-adapter.md)
