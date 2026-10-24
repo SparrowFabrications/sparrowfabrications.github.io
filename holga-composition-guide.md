@@ -27,6 +27,9 @@ Tested with:
 
 Should be compatible with any Holga 120 camera with a hot shoe.
 
+### Installation Video
+<video title="Installation and demonstration video" src="https://v.etsystatic.com/e/videos/1de8/a5404947-b420-4861-a7b8-4325dc0ef932/vid_v1.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+
 ### Product Images
 {% include my-gallery.html imagesurl="images/holga-composition-guide" alt="Holga 120 composition guide"
    filenames="holga-composition-guide-1.jpg,holga-composition-guide-2.jpg,holga-composition-guide-3.jpg,holga-composition-guide-4.jpg,holga-composition-guide-5.jpg,holga-composition-guide-6.jpg,holga-composition-guide-7.jpg" %}
