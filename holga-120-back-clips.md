@@ -43,7 +43,7 @@ Should be compatible with:
 Not compatible with the 35 or 135 models.
 
 ### Installation Video
-<video title="Installation and demonstration video" src="https://v.etsystatic.com/c/video/upload/ac_none,du_15,q_auto:good/IMG_0479_reub3u.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+<video title="Installation and demonstration video" src="https://v.etsystatic.com/e/videos/5bf3/4d838a5e-5853-4257-ba3d-c2a7f4a2a5e4/vid_v1.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Product Images
 {% include my-gallery.html imagesurl="images/holga-120-back-clips" alt="Holga 120 replacement back clips"
