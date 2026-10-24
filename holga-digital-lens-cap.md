@@ -22,6 +22,9 @@ This is a push fit lens cap, simply press into place.
 ### Supported Cameras
 - Holga Digital
 
+### Installation Video
+<video title="Installation and demonstration video" src="https://v.etsystatic.com/e/videos/7137/eb4fedda-e1d7-4465-af3b-95f8638fa001/vid_v1.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+
 ### Product Images
 {% include my-gallery.html imagesurl="images/holga-digital-lens-cap" alt="Holga Digital replacement lens cap"
    filenames="holga-digital-lens-cap-1.jpg,holga-digital-lens-cap-2.jpg,holga-digital-lens-cap-3.jpg,holga-digital-lens-cap-4.jpg,holga-digital-lens-cap-5.jpg" %}
