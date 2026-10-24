@@ -25,7 +25,7 @@ Tested with:
 - Lomography Diana Mini
 
 ### Installation Video
-<video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_trjtdo.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+<video title="Installation and demonstration video" src="https://v.etsystatic.com/c/video/upload/ac_none,du_15,q_auto:good/file_trjtdo.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Product Images
 {% include my-gallery.html imagesurl="images/diana-mini-lens-cap" alt="Diana Mini replacement lens cap"

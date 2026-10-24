@@ -42,7 +42,7 @@ Should be compatible with:
 </div>
 
 #### Installation Video
-<video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_0498_ly68by.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+<video title="Installation and demonstration video" src="https://v.etsystatic.com/c/video/upload/ac_none,du_15,q_auto:good/file_g4hhiz.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 #### Product Images
 {% include my-gallery.html imagesurl="images/belair-x-6-12-adapter" alt="Belair X 6-12 shutter release cable adapter"
@@ -86,7 +86,7 @@ Should be compatible with:
 </div>
 
 #### Installation Video
-<video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_4237_bb9qsa.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+<video title="Installation and demonstration video" src="https://v.etsystatic.com/c/video/upload/ac_none,du_15,q_auto:good/IMG_4237_bb9qsa.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 #### Product Images
 {% include my-gallery.html imagesurl="images/belair-x-6-12-adapter-jetsetter" alt="Belair X 6-12 Jetsetter shutter release cable adapter"

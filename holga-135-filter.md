@@ -33,7 +33,7 @@ Should be compatible with:
 It is not compatible with the 35 or 120 models.
 
 ### Installation Video
-<video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_mtljbf.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+<video title="Installation and demonstration video" src="https://v.etsystatic.com/c/video/upload/ac_none,du_15,q_auto:good/file_mtljbf.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Product Images
 {% include my-gallery.html imagesurl="images/holga-135-filter" alt="Holga 135 filter adapter"

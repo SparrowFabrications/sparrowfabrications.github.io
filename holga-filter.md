@@ -40,7 +40,7 @@ Should be compatible with:
 It is not compatible with the 120GTLR, 120TLR, 120WPC, 35 or 135 models.
 
 ### Installation Video
-<video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_ec8ukg.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+<video title="Installation and demonstration video" src="https://v.etsystatic.com/c/video/upload/ac_none,du_15,q_auto:good/file_ec8ukg.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Product Images
 {% include my-gallery.html imagesurl="images/holga-filter" alt="Holga 120 filter adapter"

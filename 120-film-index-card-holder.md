@@ -24,7 +24,7 @@ Simply attach this index card holder to your camera. Then tear off the end of th
 Suitable for cameras shooting 120 format film such as Holgas and Diana’s shown, but could fit any suitable camera and film box.
 
 ### Installation Video
-<video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/IMG_0482_ohoxld.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+<video title="Installation and demonstration video" src="https://v.etsystatic.com/c/video/upload/ac_none,du_15,q_auto:good/IMG_0482_ohoxld.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Product Images
 {% include my-gallery.html imagesurl="images/120-film-index-card-holder" alt="120 format film index card holder attached to Holga camera"

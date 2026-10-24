@@ -30,7 +30,7 @@ Should be compatible with:
 - Vintage Diana (1960s) and Clone Cameras
 
 ### Installation Video
-<video title="Installation and demonstration video" src="https://v.etsystatic.com/video/upload/ac_none,du_15,q_auto:good/file_azth0s.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+<video title="Installation and demonstration video" src="https://v.etsystatic.com/c/video/upload/ac_none,du_15,q_auto:good/file_azth0s.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Product Images
 {% include my-gallery.html imagesurl="images/diana-f+-lens-cap" alt="Diana F+ replacement lens cap"
