@@ -29,6 +29,9 @@ To use:
 ### Supported Cameras
 - Holga Digital
 
+### Installation Video
+<video title="Installation and demonstration video" src="https://v.etsystatic.com/e/videos/669b/a8476a81-663f-46de-9f9e-d2a13595036a/vid_v1.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+
 ### Product Images
 {% include my-gallery.html imagesurl="images/holga-digital-adapter" alt="Holga Digital shutter release cable adapter"
    filenames="holga-digital-adapter-1.jpg,holga-digital-adapter-2.jpg,holga-digital-adapter-3.jpg,holga-digital-adapter-4.jpg,holga-digital-adapter-5.jpg,holga-digital-adapter-6.jpg,shutter-release-cable.jpg" %}
