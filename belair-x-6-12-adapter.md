@@ -46,7 +46,7 @@ Should be compatible with:
 
 #### Product Images
 {% include my-gallery.html imagesurl="images/belair-x-6-12-adapter" alt="Belair X 6-12 shutter release cable adapter"
-   filenames="belair-x-6-12-adapter-1.jpg,belair-x-6-12-adapter-2.jpg,belair-x-6-12-adapter-3.jpg,belair-x-6-12-adapter-4.jpg,belair-x-6-12-adapter-5.jpg,belair-x-6-12-adapter-6.jpg,shutter-release-cable.jpg" %}
+   filenames="belair-x-6-12-adapter-7.jpg,belair-x-6-12-adapter-1.jpg,belair-x-6-12-adapter-2.jpg,belair-x-6-12-adapter-3.jpg,belair-x-6-12-adapter-4.jpg,belair-x-6-12-adapter-5.jpg,belair-x-6-12-adapter-6.jpg,shutter-release-cable.jpg" %}
 
 #### Reviews
 > Excellent! Works perfectly and speedy delivery.

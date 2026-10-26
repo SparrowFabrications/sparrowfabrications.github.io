@@ -53,7 +53,7 @@ It is not compatible with the vintage Diana (1960s) and clone cameras from the p
 
 ### Product Images
 {% include my-gallery.html imagesurl="images/diana-instant-square-adapter" alt="Diana Instant Square shutter release cable adapter"
-   filenames="diana-instant-square-adapter-1.jpg,diana-instant-square-adapter-2.jpg,diana-instant-square-adapter-3.jpg,diana-instant-square-adapter-4.jpg,diana-instant-square-adapter-5.jpg,diana-instant-square-adapter-6.jpg,diana-instant-square-adapter-7.jpg,diana-instant-square-adapter-8.jpg,diana-instant-square-adapter-9.jpg,diana-instant-square-adapter-10.jpg,diana-instant-square-adapter-11.jpg,shutter-release-cable.jpg" %}
+   filenames="diana-instant-square-adapter-12.jpg,diana-instant-square-adapter-1.jpg,diana-instant-square-adapter-2.jpg,diana-instant-square-adapter-3.jpg,diana-instant-square-adapter-4.jpg,diana-instant-square-adapter-5.jpg,diana-instant-square-adapter-6.jpg,diana-instant-square-adapter-7.jpg,diana-instant-square-adapter-8.jpg,diana-instant-square-adapter-9.jpg,diana-instant-square-adapter-10.jpg,diana-instant-square-adapter-11.jpg,shutter-release-cable.jpg" %}
 
 ### Reviews
 > This is a must have accessory for the Diana instant, and is well made.

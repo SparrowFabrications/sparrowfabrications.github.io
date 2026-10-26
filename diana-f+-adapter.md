@@ -57,7 +57,7 @@ It is not compatible with vintage Diana (1960s) and associated clone cameras fro
 
 ### Product Images
 {% include my-gallery.html imagesurl="images/diana-f+-adapter" alt="Diana F+ shutter release cable adapter fitted to camera"
-   filenames="diana-f+-adapter-1.jpg,diana-f+-adapter-2.jpg,diana-f+-adapter-3.jpg,diana-f+-adapter-4.jpg,diana-f+-adapter-5.jpg,diana-f+-adapter-6.jpg,diana-f+-adapter-7.jpg,diana-f+-adapter-8.jpg,diana-f+-adapter-9.jpg,diana-f+-adapter-10.jpg,diana-f+-adapter-11.jpg,shutter-release-cable.jpg" %}
+   filenames="diana-f+-adapter-12.jpg,diana-f+-adapter-1.jpg,diana-f+-adapter-2.jpg,diana-f+-adapter-3.jpg,diana-f+-adapter-4.jpg,diana-f+-adapter-5.jpg,diana-f+-adapter-6.jpg,diana-f+-adapter-7.jpg,diana-f+-adapter-8.jpg,diana-f+-adapter-9.jpg,diana-f+-adapter-10.jpg,diana-f+-adapter-11.jpg,shutter-release-cable.jpg" %}
 
 ### Reviews
 

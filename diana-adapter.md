@@ -61,7 +61,7 @@ It is not compatible with the Lomography range of new Diana models such as the D
 
 ### Product Images
 {% include my-gallery.html imagesurl="images/diana-adapter" alt="Vintage Diana 120 shutter release cable adapter"
-   filenames="diana-adapter-1.jpg,diana-adapter-2.jpg,diana-adapter-3.jpg,diana-adapter-4.jpg,diana-adapter-5.jpg,diana-adapter-6.jpg,diana-adapter-7.jpg,diana-adapter-8.jpg,diana-adapter-9.jpg,diana-adapter-10.jpg,diana-adapter-11.jpg,shutter-release-cable.jpg" %}
+   filenames="diana-adapter-12.jpg,diana-adapter-1.jpg,diana-adapter-2.jpg,diana-adapter-3.jpg,diana-adapter-4.jpg,diana-adapter-5.jpg,diana-adapter-6.jpg,diana-adapter-7.jpg,diana-adapter-8.jpg,diana-adapter-9.jpg,diana-adapter-10.jpg,diana-adapter-11.jpg,shutter-release-cable.jpg" %}
 
 ### Reviews
 > Great adaptor. Perfect vendor.
