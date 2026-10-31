@@ -24,6 +24,9 @@ To use:
 ### Supported Cameras
 - Holga Digital
 
+### Installation Video
+<video title="Installation and demonstration video" src="https://v.etsystatic.com/e/videos/001a/f4e5ec4e-9010-4e7c-ba4d-5df0f3bf202c/vid_v1.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+
 ### Product Images
 {% include my-gallery.html imagesurl="images/holga-digital-filter" alt="Holga Digital filter adapter"
    filenames="holga-digital-filter-1.jpg,holga-digital-filter-2.jpg,holga-digital-filter-3.jpg,holga-digital-filter-4.jpg,holga-digital-filter-5.jpg,holga-digital-filter-6.jpg" %}

@@ -40,7 +40,7 @@ Tested with:
 It is not compatible with the LC-A+ or 120 models.
 
 ### Installation Video
-<video title="Installation and demonstration video" src="https://v.etsystatic.com/c/video/upload/ac_none,du_15,q_auto:good/IMG_3217_kr46v0.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+<video title="Installation and demonstration video" src="https://v.etsystatic.com/e/videos/9304/b5c78329-5dda-49f6-860c-31d1d598f2de/vid_v1.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Product Images
 {% include my-gallery.html imagesurl="images/lomo-lc-a-adapter" alt="LOMO LC-A shutter release cable and filter adapter"

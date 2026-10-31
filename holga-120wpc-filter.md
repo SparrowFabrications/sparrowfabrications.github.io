@@ -24,6 +24,9 @@ To use:
 ### Supported Cameras
 - Holga 120WPC
 
+### Installation Video
+<video title="Installation and demonstration video" src="https://v.etsystatic.com/e/videos/6868/afacd0d9-1afe-4667-8334-c71b67e45284/vid_v1.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
+
 ### Product Images
 {% include my-gallery.html imagesurl="images/holga-120wpc-filter" alt="Holga 120WPC filter adapter"
    filenames="holga-120wpc-filter-1.jpg,holga-120wpc-filter-2.jpg,holga-120wpc-filter-3.jpg,holga-120wpc-filter-4.jpg,holga-120wpc-filter-5.jpg,holga-120wpc-filter-6.jpg" %}
