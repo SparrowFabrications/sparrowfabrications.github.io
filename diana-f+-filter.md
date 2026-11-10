@@ -69,4 +69,5 @@ It is not compatible with the Lomography Diana Instant Square, Diana Baby or Dia
 
 ### Also available for the Diana F+ and Diana+
 - [Lens Cap](diana-f+-lens-cap.md)
+- [Nikon F Mount Lens Adapter](diana-nikon-f-lens-adapter.md)
 - [Shutter Release Cable Adapter](diana-f+-adapter.md)

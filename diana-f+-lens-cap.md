@@ -57,4 +57,5 @@ Should be compatible with:
 
 ### Also available for the Diana F+ and Diana+
 - [Filter Adapter](diana-f+-filter.md)
+- [Nikon F Mount Lens Adapter](diana-nikon-f-lens-adapter.md)
 - [Shutter Release Cable Adapter](diana-f+-adapter.md)

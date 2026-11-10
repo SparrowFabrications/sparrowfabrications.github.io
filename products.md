@@ -22,6 +22,7 @@ All of my shutter release cable adapters require a suitable shutter release cabl
 - Lomography Diana F+ and Diana+ Cameras
   - [Filter Adapter](diana-f+-filter.md)
   - [Lens Cap](diana-f+-lens-cap.md)
+  - [Nikon F Mount Lens Adapter](diana-nikon-f-lens-adapter.md)
   - [Shutter Release Cable Adapter](diana-f+-adapter.md)
 - Lomography Diana Instant Square cameras
   - [Filter Adapter](diana-instant-square-filter.md)
@@ -66,6 +67,9 @@ All of my shutter release cable adapters require a suitable shutter release cabl
 ### Long Weekend cameras
 - [Shutter Release Cable Adapter](long-weekend-adapter.md)
 
+### Nikon F Mount Cameras
+- [Diana F+ and Diana+ Lens Adapter](diana-nikon-f-lens-adapter.md)
+
 ### Sprocket Rocket Cameras
 - [Filter Adapter](lomography-sprocket-rocket-filter.md)
 - [Lens Cap](lomography-sprocket-rocket-lens-cap.md)
@@ -104,6 +108,7 @@ I make and sell a variety of products for the following cameras:
 - [Holga Digital camera](https://www.kickstarter.com/projects/2098439381/holga-digital-restyle-the-retro-vintage-into-new-c)
 - [LOMO LC-A 35mm film camera](https://camera-wiki.org/wiki/LOMO_LC-A)
 - [LomoApparat 35mm film camera](https://camera-wiki.org/wiki/LomoApparat)
+- [Nikon F mount cameras (with Diana F+ and Diana+ lenses)](diana-nikon-f-lens-adapter.md)
 - [Long Weekend camera](https://www.longweekendbrand.com/)
 - [Sprocket Rocket 35mm film camera](https://camera-wiki.org/wiki/Lomographic_Sprocket_Rocket), including these models
   - Sprocket Rocket Version 1.0
