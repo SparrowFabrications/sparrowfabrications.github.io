@@ -22,6 +22,7 @@ Name the file after the product slug, e.g. `holga-digital-adapter.md`. Front mat
 ---
 title: "Full descriptive title with camera name | 3D Printed UK"
 description: "SEO meta description, ~120 characters."
+sku: SF-HOL120-CAP   # see "SKUs" below; a list like [SF-A, SF-B] for multi-listing pages
 rating_count: 4   # optional — only add once there are real reviews
 ---
 ```
@@ -48,11 +49,24 @@ Immediately after the `## ` title heading (before the intro/description paragrap
   <a href="https://www.ebay.co.uk/itm/<item-number>" class="btn-primary">eBay UK</a>
   <a href="https://www.ebay.com/itm/<item-number>" class="btn-primary">eBay US</a>
 </div>
+<p class="sku">SKU: {{ page.sku }}</p>
 ```
 
 eBay UK and eBay US share the same item number for a given listing — the US link is just the `.com` version of the same `/itm/<item-number>` path, not a separate lookup.
 
 If a product page covers more than one distinct listing (e.g. separate variants each sold as their own Etsy/eBay listing, like the Holga 120 vs 120S adapter, or the Belair City Slicker vs Jetsetter adapter), place a buy-links block under each variant's own subsection heading instead of once at the top.
+
+### SKUs
+
+Every product page has a `sku:` in its front matter. It drives the visible SKU line under the buy links and the schema.org Product structured data (`_includes/product-schema.html` only outputs for pages with a `sku`). Use the same SKU in the Etsy listing and in eBay's "Custom label (SKU)" field.
+
+Format: `SF-<CAMERA>-<TYPE>`, uppercase, hyphens only.
+
+- Camera codes: `BEL612`, `BEL612JS` (Jetsetter), `BBF` (Blackbird, fly), `CX2`, `DIA` (Diana / clone, shared filter & cap), `DIAFP` (Diana F+/Diana+), `DIAVIN` (vintage 1960s Diana), `DIAMINI`, `DIA110`, `DIAIS` (Instant Square), `HOL120`, `HOL120S`, `HOL120WPC`, `HOL135`, `HOLDIG`, `LCA`, `APP` (LomoApparat), `LWK` (Long Weekend), `SPR` (Sprocket Rocket), `120`/`35` (film formats)
+- Type codes: `SRA` shutter release adapter, `SRF` shutter release + filter adapter, `FLT` filter adapter, `CAP` lens cap, `BDY` body cap, `CLP` back clips, `CMP` composition guide, `ICH` index card holder, `NKF` Nikon F lens mount adapter
+- Variants (e.g. colour): append a suffix, e.g. `SF-HOL120-CAP-BLK`
+
+For a page with several listings, `sku` is a list in the same order as the buy-links blocks, and each block's SKU line uses `{{ page.sku[0] }}`, `{{ page.sku[1] }}`, etc.
 
 eBay's shop, search, and item pages are bot-protected (Akamai) and cannot be reliably fetched or verified programmatically — likewise Etsy's shop/listing pages (DataDome). Don't guess or fabricate listing IDs; get them from the seller directly (e.g. the seller's own dashboard, or a supplied export/mapping) rather than scraping.
 

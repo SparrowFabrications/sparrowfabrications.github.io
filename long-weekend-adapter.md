@@ -1,6 +1,7 @@
 ---
 title: "Long Weekend Camera Shutter Release Cable and Filter Adapter | 3D Printed UK"
 description: "3D printed shutter release cable and filter adapter for the Long Weekend 35mm film camera. Enables long exposure photography and use of photographic filters. Made in the UK by Sparrow Fabrications."
+sku: SF-LWK-SRF
 ---
 ## Long Weekend Shutter Release Cable Adapter
 
@@ -9,6 +10,7 @@ description: "3D printed shutter release cable and filter adapter for the Long W
   <a href="https://www.ebay.co.uk/itm/127023149341" class="btn-primary">eBay UK</a>
   <a href="https://www.ebay.com/itm/127023149341" class="btn-primary">eBay US</a>
 </div>
+<p class="sku">SKU: {{ page.sku }}</p>
 
 Long Weekend Shutter Release Cable Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included. Also, note the step up ring required is shown but not included. Requires a 30mm step up ring to suit whatever filters you wish to use.
 

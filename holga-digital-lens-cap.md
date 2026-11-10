@@ -1,6 +1,7 @@
 ---
 title: "Holga Digital Replacement Lens Cap | 3D Printed UK"
 description: "3D printed replacement lens cap for the Holga Digital camera. Includes eyelet for a retention strap. Made in the UK by Sparrow Fabrications."
+sku: SF-HOLDIG-CAP
 ---
 ## Holga Digital Replacement Lens Cap
 
@@ -9,6 +10,7 @@ description: "3D printed replacement lens cap for the Holga Digital camera. Incl
   <a href="https://www.ebay.co.uk/itm/128007382513" class="btn-primary">eBay UK</a>
   <a href="https://www.ebay.com/itm/128007382513" class="btn-primary">eBay US</a>
 </div>
+<p class="sku">SKU: {{ page.sku }}</p>
 
 A replacement lens cap for the Holga Digital camera. Camera shown is not included.
 

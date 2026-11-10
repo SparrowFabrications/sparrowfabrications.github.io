@@ -1,6 +1,7 @@
 ---
 title: "Sprocket Rocket Replacement Lens Cap | 3D Printed UK"
 description: "3D printed replacement lens cap for Lomography Sprocket Rocket cameras. Fits both versions. Includes eyelet for a lens cap retention strap. Made in the UK by Sparrow Fabrications."
+sku: SF-SPR-CAP
 rating_count: 5
 ---
 ## Sprocket Rocket Cameras Lens Cap
@@ -10,6 +11,7 @@ rating_count: 5
   <a href="https://www.ebay.co.uk/itm/126352004135" class="btn-primary">eBay UK</a>
   <a href="https://www.ebay.com/itm/126352004135" class="btn-primary">eBay US</a>
 </div>
+<p class="sku">SKU: {{ page.sku }}</p>
 
 A replacement lens cap for Sprocket Rocket cameras. Camera shown is not included.
 

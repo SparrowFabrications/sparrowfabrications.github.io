@@ -1,6 +1,7 @@
 ---
 title: "Belair X 6-12 Replacement Lens Cap | 3D Printed UK"
 description: "3D printed replacement lens cap for the Lomography Belair X 6-12 medium format camera. Fits all Belair X 6-12 variants. Includes eyelet for a retention strap. Made in the UK by Sparrow Fabrications."
+sku: SF-BEL612-CAP
 rating_count: 1
 ---
 ## Belair X 6-12 Lens Cap
@@ -10,6 +11,7 @@ rating_count: 1
   <a href="https://www.ebay.co.uk/itm/126744045621" class="btn-primary">eBay UK</a>
   <a href="https://www.ebay.com/itm/126744045621" class="btn-primary">eBay US</a>
 </div>
+<p class="sku">SKU: {{ page.sku }}</p>
 
 A replacement lens cap for Belair X 6-12 cameras. Camera shown is not included.
 

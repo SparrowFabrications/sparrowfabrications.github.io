@@ -436,6 +436,13 @@ video {
   }
 }
 
+.sku {
+  margin: -1rem 0 1.75rem;
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  color: var(--text-dim);
+}
+
 // ── Products page ────────────────────────────────────────────
 // Style the camera-brand h3 headers as uppercase labels (products page only)
 .products-page h3 {
