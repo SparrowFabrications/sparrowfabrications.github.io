@@ -48,6 +48,36 @@
     "priceCurrency": "{{ page.price_currency | default: 'GBP' }}",{% endif %}
     "availability": "https://schema.org/InStock",
     "url": "{{ offer_url }}",
+    "shippingDetails": [
+      {
+        "@type": "OfferShippingDetails",
+        "shippingRate": { "@type": "MonetaryAmount", "value": "1.65", "currency": "GBP" },
+        "shippingDestination": { "@type": "DefinedRegion", "addressCountry": "GB" },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": { "@type": "QuantitativeValue", "minValue": 1, "maxValue": 3, "unitCode": "DAY" },
+          "transitTime": { "@type": "QuantitativeValue", "minValue": 2, "maxValue": 3, "unitCode": "DAY" }
+        }
+      },
+      {
+        "@type": "OfferShippingDetails",
+        "shippingRate": { "@type": "MonetaryAmount", "value": "6.50", "currency": "USD" },
+        "shippingDestination": { "@type": "DefinedRegion", "addressCountry": "US" },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": { "@type": "QuantitativeValue", "minValue": 1, "maxValue": 3, "unitCode": "DAY" },
+          "transitTime": { "@type": "QuantitativeValue", "minValue": 5, "maxValue": 10, "unitCode": "DAY" }
+        }
+      }
+    ],
+    "hasMerchantReturnPolicy": {
+      "@type": "MerchantReturnPolicy",
+      "applicableCountry": ["GB", "US"],
+      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+      "merchantReturnDays": 30,
+      "returnMethod": "https://schema.org/ReturnByMail",
+      "returnFees": "https://schema.org/ReturnFeesCustomerResponsibility"
+    },
     "seller": {
       "@type": "Organization",
       "name": "Sparrow Fabrications"

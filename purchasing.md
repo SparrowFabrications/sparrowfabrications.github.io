@@ -24,3 +24,8 @@ Typical shipping costs are:
 - $6.50 to the United States via a Royal Mail Standard Delivery (no tracking).
 
 Please note that where possible I use recyclable packaging, I make an effort to reuse padded envelopes and packaging and to reduce the impact on our environment. This is not about reducing costs as padded envelopes are very economical to buy in bulk.
+
+Orders are usually dispatched within 1–3 working days.
+
+### What about returns?
+I accept returns within 30 days of delivery. Please contact me first, then post the item back; the buyer pays the return postage. Once I receive it I will issue a refund.
