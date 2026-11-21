@@ -4,7 +4,20 @@
 {% assign rating_counts = page.rating_count | join: "," | split: "," %}
 {% assign rating_values = page.rating_value | join: "," | split: "," %}
 {% assign etsy_links = content | split: 'https://www.etsy.com/uk/listing/' %}
+{% assign galleries = content | split: 'image-gallery"' %}
+{% assign accessory_images = "shutter-release-cable.jpg,step-up-ring.jpg,thumb-screw.jpg" | split: "," %}
 {% for sku in skus %}
+{% assign gallery = galleries[forloop.index] | default: galleries[1] %}
+{% assign gallery_links = gallery | split: '<a href="' %}
+{% assign images = "" | split: "" %}
+{% for link in gallery_links offset: 1 %}
+  {% assign image = link | split: '"' | first | strip %}
+  {% assign image_name = image | split: "/" | last %}
+  {% unless accessory_images contains image_name or images.size >= 3 %}
+    {% assign image_url = site.url | append: "/" | append: image %}
+    {% assign images = images | push: image_url %}
+  {% endunless %}
+{% endfor %}
 {% assign price = prices[forloop.index0] %}
 {% assign rating_count = rating_counts[forloop.index0] | plus: 0 %}
 {% assign offer_url = site.etsy_url %}
@@ -19,6 +32,7 @@
   "name": {{ page.title | jsonify }},
   "description": {{ page.description | jsonify }},
   "sku": {{ sku | jsonify }},
+  "image": {{ images | jsonify }},
   "brand": {
     "@type": "Brand",
     "name": "Sparrow Fabrications"
