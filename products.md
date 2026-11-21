@@ -1,6 +1,6 @@
 ---
 title: "All Products | Sparrow Fabrications"
-description: "Full list of 3D printed camera accessories for Holga, Diana, Sprocket Rocket, LOMO LC-A, LomoApparat, Belair, Blackbird fly and more. Made in the UK."
+description: "Full list of 3D printed camera accessories for Holga, Diana, Sprocket Rocket, LOMO LC-A, LomoApparat, Belair, Blackbird fly, Cosina CX2 and more. Made in the UK."
 page_class: products-page
 ---
 ## Products
@@ -14,6 +14,9 @@ All of my shutter release cable adapters require a suitable shutter release cabl
 
 ### Blackbird, fly Cameras ###
 - [Shutter Release Cable Adapter](blackbird-fly-adapter.md)
+
+### Cosina CX2 Cameras
+- [Shutter Release Cable and Filter Adapter](cosina-cx2-adapter.md)
 
 ### Diana Cameras
 - Lomography Diana Baby 110 Cameras
@@ -80,6 +83,7 @@ I make and sell a variety of products for the following cameras:
 
 - [Belair X 6-12 medium format camera](https://camera-wiki.org/wiki/Lomography_Belair_X_6-12)
 - [Blackbird, fly 35mm film camera](https://camera-wiki.org/wiki/Blackbird,_fly)
+- [Cosina CX2 35mm film camera](https://camera-wiki.org/wiki/Cosina_CX-2)
 - [Diana 120 medium format camera](https://en.wikipedia.org/wiki/Diana_(camera)), including these models
   - Diana+
   - Diana F+
