@@ -5,7 +5,12 @@ sku: SF-CX2-SRF
 ---
 ## Cosina CX2 Shutter Release Cable and Filter Adapter
 
-<!-- TODO: add buy-links block (Etsy / eBay UK / eBay US) once listing IDs are available -->
+<div class="shop-links">
+  <a href="https://www.etsy.com/uk/listing/4622481363" class="btn-primary">Buy on Etsy</a>
+  <a href="https://www.ebay.co.uk/itm/128208694415" class="btn-primary">eBay UK</a>
+  <a href="https://www.ebay.com/itm/128208694415" class="btn-primary">eBay US</a>
+</div>
+<p class="sku">SKU: {{ page.sku }}</p>
 
 Cosina CX2 Shutter Release Cable and Filter Adapter. Please note the cable required is shown but not included. Works with cables [such as this one]({{ site.amazon_cable_url }}). Camera shown is not included. Also, note the step up ring required is shown but not included. Requires a 25mm step up ring to suit whatever filters you wish to use.
 
@@ -16,11 +21,15 @@ The adapter hooks onto the left-hand side of the camera and is held in place on 
 This adapter uses a linear threaded nut to hold the shutter release cable so it is best not to screw the cable in too tight unless you don’t plan on removing it again.
 
 ### Directions for use
-1. Push fit the cable anchor onto the main body of the adapter and screw the release cable in through the top as shown.
-2. To use a filter, gently screw or push a 25mm step up ring into the front of the adapter.
-3. Rotate the camera's lens mount clockwise to open the lens cap.
-4. Hook the left-hand side of the adapter onto the camera.
-5. Whilst pressing the right-hand side of the adapter onto the lens mount, slide the retainer behind it to hold the adapter on the camera.
+To use with a cable, push fit the cable anchor onto the main body of the adapter and screw the release cable in through the top as shown.
+
+To use with a filter, gently screw or push a 25mm step up ring into the front of the adapter.
+
+Then, to fit the adapter to the camera:
+
+1. Rotate the camera's lens mount clockwise to open the lens cap.
+2. Hook the left-hand side of the adapter onto the camera.
+3. Whilst pressing the right-hand side of the adapter onto the lens mount, slide the retainer behind it to hold the adapter on the camera.
 
 To remove the adapter, follow these steps in reverse.
 
