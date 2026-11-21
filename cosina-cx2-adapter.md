@@ -37,7 +37,8 @@ To remove the adapter, follow these steps in reverse.
 Tested with:
 - Cosina CX2
 
-<!-- TODO: ### Installation Video (optional) -->
+### Installation Video
+<video title="Installation and demonstration video" src="https://v.etsystatic.com/e/videos/02c9/7960344c-2b9b-499e-95c9-d4a3f33f3bb7/vid_v1.mp4" controls="controls" style="width: 100%; height: 100%;"></video>
 
 ### Product Images
 {% include my-gallery.html imagesurl="images/cosina-cx2-adapter" alt="Cosina CX2 shutter release cable and filter adapter"
