@@ -2,7 +2,9 @@
 title: "Diana F+ and Diana+ Shutter Release Cable Adapter | 3D Printed UK"
 description: "3D printed shutter release cable adapter for the Lomography Diana F+ and Diana+ 120 cameras. Enables beautiful long exposure photography. Made in the UK by Sparrow Fabrications."
 sku: SF-DIAFP-SRA
+price: "13.99"
 rating_count: 6
+rating_value: "5.0"
 ---
 ## Lomography Diana F+ and Diana+ Shutter Release Cable Adapter
 

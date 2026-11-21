@@ -2,6 +2,7 @@
 title: "Cosina CX2 Shutter Release Cable and Filter Adapter | 3D Printed UK"
 description: "3D printed shutter release cable and filter adapter for the Cosina CX2 35mm film camera. Enables long exposure photography and use of photographic filters. Made in the UK by Sparrow Fabrications."
 sku: SF-CX2-SRF
+price: "13.99"
 ---
 ## Cosina CX2 Shutter Release Cable and Filter Adapter
 

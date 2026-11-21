@@ -2,7 +2,9 @@
 title: "Diana Instant Square Shutter Release Cable Adapter | 3D Printed UK"
 description: "3D printed shutter release cable adapter for the Lomography Diana Instant Square Instax camera. Enables long exposure photography and selfies. Made in the UK by Sparrow Fabrications."
 sku: SF-DIAIS-SRA
-rating_count: 6
+price: "14.99"
+rating_count: 4
+rating_value: "5.0"
 ---
 ## Lomography Diana Instant Square Shutter Release Cable Adapter
 

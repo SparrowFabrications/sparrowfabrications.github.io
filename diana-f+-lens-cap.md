@@ -2,7 +2,9 @@
 title: "Diana F+, Diana+ and Vintage Diana Replacement Lens Cap | 3D Printed UK"
 description: "3D printed replacement lens cap for Lomography Diana F+, Diana+, and vintage Diana cameras. Push-fit with eyelet for a lens cap retention strap. Made in the UK by Sparrow Fabrications."
 sku: SF-DIA-CAP
-rating_count: 4
+price: "4.99"
+rating_count: 5
+rating_value: "4.6"
 ---
 ## Diana and Clone Cameras Lens Cap
 

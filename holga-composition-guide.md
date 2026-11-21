@@ -2,6 +2,7 @@
 title: "Holga 120 Composition Guide | 3D Printed UK"
 description: "3D printed composition guide for Holga 120 cameras. Fits the hot shoe. Available in three sizes: 6x4.5cm portrait, 6x4.5cm landscape, and 6x6cm square. Made in the UK by Sparrow Fabrications."
 sku: SF-HOL120-CMP
+price: "4.99"
 ---
 ## Holga 120 Composition Guide
 

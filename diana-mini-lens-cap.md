@@ -2,7 +2,9 @@
 title: "Diana Mini Replacement Lens Cap | 3D Printed UK"
 description: "3D printed replacement lens cap for Lomography Diana Mini cameras. Push-fit with eyelet for a lens cap retention strap. Made in the UK by Sparrow Fabrications."
 sku: SF-DIAMINI-CAP
+price: "4.99"
 rating_count: 3
+rating_value: "5.0"
 ---
 ## Diana Mini Lens Cap
 

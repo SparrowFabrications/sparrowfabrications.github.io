@@ -2,7 +2,9 @@
 title: "Diana F+, Diana+ and Vintage Diana Filter Adapter | 3D Printed UK"
 description: "3D printed filter adapter for Lomography Diana F+, Diana+, and vintage Diana (1960s) cameras. Accepts a 30mm step-up ring to use any photographic filter. Made in the UK by Sparrow Fabrications."
 sku: SF-DIA-FLT
-rating_count: 6
+price: "7.99"
+rating_count: 2
+rating_value: "5.0"
 ---
 ## Diana and Clone Cameras Filter Adapter
 

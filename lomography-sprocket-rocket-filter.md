@@ -2,7 +2,9 @@
 title: "Sprocket Rocket Filter Adapter | 3D Printed UK"
 description: "3D printed filter adapter for the Lomography Sprocket Rocket 35mm film camera. Accepts a 43mm step-up ring to use any photographic filter. Fits both Sprocket Rocket versions. Made in the UK by Sparrow Fabrications."
 sku: SF-SPR-FLT
-rating_count: 5
+price: "7.99"
+rating_count: 8
+rating_value: "5.0"
 ---
 ## Lomography Sprocket Rocket Filter Adapter
 

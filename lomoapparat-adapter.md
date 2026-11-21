@@ -2,7 +2,9 @@
 title: "LomoApparat Shutter Release Cable Adapter | 3D Printed UK"
 description: "3D printed shutter release cable adapter for the LomoApparat 35mm film camera. Enables long exposure photography. Compatible with LomoApparat Close Up, Kaleidoscope and Splitzer attachments. Made in the UK by Sparrow Fabrications."
 sku: SF-APP-SRA
-rating_count: 6
+price: "13.99"
+rating_count: 3
+rating_value: "5.0"
 ---
 ## LomoApparat Shutter Release Cable Adapter
 

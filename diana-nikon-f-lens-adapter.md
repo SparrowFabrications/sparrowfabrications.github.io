@@ -2,6 +2,7 @@
 title: "Diana F+ and Diana+ Lens to Nikon F Mount Adapter | 3D Printed UK"
 description: "3D printed lens mount adapter to use Lomography Diana F+ and Diana+ lenses on Nikon F mount cameras. Made in the UK by Sparrow Fabrications."
 sku: SF-DIAFP-NKF
+price: "9.99"
 ---
 ## Diana F+ and Diana+ Lens to Nikon F Mount Adapter
 

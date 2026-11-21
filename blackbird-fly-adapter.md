@@ -2,7 +2,7 @@
 title: "Blackbird, fly Shutter Release Cable Adapter | 3D Printed UK"
 description: "3D printed shutter release cable adapter for the Blackbird, fly 35mm film camera. Enables long exposure photography with bulb mode. Made in the UK by Sparrow Fabrications."
 sku: SF-BBF-SRA
-rating_count: 1
+price: "13.99"
 ---
 ## Blackbird, fly Shutter Release Cable Adapter
 

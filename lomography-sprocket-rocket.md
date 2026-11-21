@@ -2,7 +2,9 @@
 title: "Sprocket Rocket Shutter Release Cable Adapter | 3D Printed UK"
 description: "3D printed shutter release cable adapter for the Lomography Sprocket Rocket 35mm film camera. Enables long exposure photography. Fits both Sprocket Rocket versions. Made in the UK by Sparrow Fabrications."
 sku: SF-SPR-SRA
-rating_count: 8
+price: "13.99"
+rating_count: 7
+rating_value: "4.7"
 ---
 ## Lomography Sprocket Rocket Shutter Release Cable Adapter
 

@@ -1,6 +1,17 @@
 {% if page.sku %}
 {% assign skus = page.sku | join: "," | split: "," %}
+{% assign prices = page.price | join: "," | split: "," %}
+{% assign rating_counts = page.rating_count | join: "," | split: "," %}
+{% assign rating_values = page.rating_value | join: "," | split: "," %}
+{% assign etsy_links = content | split: 'https://www.etsy.com/uk/listing/' %}
 {% for sku in skus %}
+{% assign price = prices[forloop.index0] %}
+{% assign rating_count = rating_counts[forloop.index0] | plus: 0 %}
+{% assign offer_url = site.etsy_url %}
+{% if etsy_links.size > forloop.index %}
+  {% assign listing = etsy_links[forloop.index] | split: '"' | first %}
+  {% assign offer_url = 'https://www.etsy.com/uk/listing/' | append: listing %}
+{% endif %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -18,22 +29,22 @@
     "url": "https://sparrowfabrications.co.uk"
   },
   "offers": {
-    "@type": "Offer",{% if page.price %}
-    "price": "{{ page.price }}",
+    "@type": "Offer",{% if price %}
+    "price": "{{ price }}",
     "priceCurrency": "{{ page.price_currency | default: 'GBP' }}",{% endif %}
     "availability": "https://schema.org/InStock",
-    "url": "{{ site.etsy_url }}",
+    "url": "{{ offer_url }}",
     "seller": {
       "@type": "Organization",
       "name": "Sparrow Fabrications"
     }
-  }{% if page.rating_count %},
+  }{% if rating_count > 0 %},
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": "{{ page.rating_value | default: 5 }}",
+    "ratingValue": "{{ rating_values[forloop.index0] }}",
     "bestRating": "5",
     "worstRating": "1",
-    "ratingCount": "{{ page.rating_count }}"
+    "ratingCount": "{{ rating_count }}"
   }{% endif %}
 }
 </script>

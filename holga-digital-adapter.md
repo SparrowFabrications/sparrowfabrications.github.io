@@ -3,6 +3,7 @@ title: "Holga Digital Shutter Release Cable Adapter | 3D Printed UK"
 description: "3D printed shutter release cable adapter for Holga Digital cameras. Enables long exposure bulb mode photography.
 Made in the UK by Sparrow Fabrications."
 sku: SF-HOLDIG-SRA
+price: "12.99"
 ---
 ## Holga Digital Shutter Release Cable Adapter
 

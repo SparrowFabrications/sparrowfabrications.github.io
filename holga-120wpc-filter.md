@@ -2,6 +2,7 @@
 title: "Holga 120WPC Filter Adapter | 3D Printed UK"
 description: "3D printed filter adapter for the Holga 120WPC wide pinhole camera. Accepts a 49mm step-up ring to use any photographic filter. Made in the UK by Sparrow Fabrications."
 sku: SF-HOL120WPC-FLT
+price: "7.99"
 ---
 ## Holga 120WPC Filter Adapter
 

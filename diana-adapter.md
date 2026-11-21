@@ -2,7 +2,7 @@
 title: "Vintage Diana (1960s) and Clone Camera Shutter Release Cable Adapter | 3D Printed UK"
 description: "3D printed shutter release cable adapter for vintage Diana 120 cameras (1960s), Diana F, and clone cameras. Enables long exposure photography. Made in the UK by Sparrow Fabrications."
 sku: SF-DIAVIN-SRA
-rating_count: 1
+price: "13.99"
 ---
 ## Vintage Diana (1960s), Diana F and Clone Cameras Shutter Release Cable Adapter
 

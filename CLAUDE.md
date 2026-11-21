@@ -23,7 +23,9 @@ Name the file after the product slug, e.g. `holga-digital-adapter.md`. Front mat
 title: "Full descriptive title with camera name | 3D Printed UK"
 description: "SEO meta description, ~120 characters."
 sku: SF-HOL120-CAP   # see "SKUs" below; a list like [SF-A, SF-B] for multi-listing pages
-rating_count: 4   # optional — only add once there are real reviews
+price: "4.99"   # GBP, the Etsy price; a list like ["11.49", "12.99"] in the same order as sku
+rating_count: 4   # optional — the Etsy listing's review count; only add once there are real reviews
+rating_value: "4.8"   # the Etsy listing's average rating; required with rating_count
 ---
 ```
 
@@ -65,6 +67,8 @@ Format: `SF-<CAMERA>-<TYPE>`, uppercase, hyphens only.
 - Camera codes: `BEL612`, `BEL612JS` (Jetsetter), `BBF` (Blackbird, fly), `CX2`, `DIA` (Diana / clone, shared filter & cap), `DIAFP` (Diana F+/Diana+), `DIAVIN` (vintage 1960s Diana), `DIAMINI`, `DIA110`, `DIAIS` (Instant Square), `HOL120`, `HOL120S`, `HOL120WPC`, `HOL135`, `HOLDIG`, `LCA`, `APP` (LomoApparat), `LWK` (Long Weekend), `SPR` (Sprocket Rocket), `120`/`35` (film formats)
 - Type codes: `SRA` shutter release adapter, `SRF` shutter release + filter adapter, `FLT` filter adapter, `CAP` lens cap, `BDY` body cap, `CLP` back clips, `CMP` composition guide, `ICH` index card holder, `NKF` Nikon F lens mount adapter
 - Variants (e.g. colour): append a suffix, e.g. `SF-HOL120-CAP-BLK`
+
+Every product page also needs a `price:` (GBP, quoted, matching the Etsy listing). Google Search Console flags product structured data without a price as a critical issue. The schema's offer URL is taken from the page's own "Buy on Etsy" link(s), so keep those in the same order as the SKUs. `rating_count`/`rating_value` likewise become lists on multi-listing pages, with `0` for a listing that has no reviews.
 
 For a page with several listings, `sku` is a list in the same order as the buy-links blocks, and each block's SKU line uses `{{ page.sku[0] }}`, `{{ page.sku[1] }}`, etc.
 
