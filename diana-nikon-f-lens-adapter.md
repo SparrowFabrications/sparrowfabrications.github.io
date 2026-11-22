@@ -18,7 +18,7 @@ Diana F+ and Diana+ Lens to Nikon F Mount Adapter. Please note the camera and le
 Designed by me from scratch to fit Lomography Diana F+ and Diana+ interchangeable lenses to Nikon F mount cameras, so you can get the dreamy, lo-fi Diana look on your Nikon.
 
 ### Setting up your Nikon
-This adapter has no electrical contacts, so register it in your camera's Non-CPU lens data menu: focal length 75mm, aperture f/11. Then use Aperture Priority (A) and the camera will choose the shutter speed. Focus manually.
+This adapter has no electrical contacts, so register it in your camera's Non-CPU lens data menu: focal length 75mm (or the marked focal length of the Diana lens you're using), aperture f/11. Then use Aperture Priority (A) and the camera will choose the shutter speed. Focus manually.
 
 The f/11 figure is approximate, so use exposure compensation if your first shots look a little dark or bright. If your camera doesn't support Non-CPU lens data, shoot in Manual mode.
 
